@@ -21,3 +21,38 @@ time 1758023149
 old [description:"play lotro" entry:"1758019509" modified:"1758019509" priority:"H" status:"pending" uuid:"6aa60c32-7f38-46b7-9230-357106c1c62a"]
 new [description:"play lotro" end:"1758023149" entry:"1758019509" modified:"1758023149" priority:"H" status:"completed" uuid:"6aa60c32-7f38-46b7-9230-357106c1c62a"]
 ---
+time 1758023746
+old [description:"buy milk" entry:"1758013887" modified:"1758013887" status:"pending" uuid:"bb9fe5a1-2d15-407b-aead-95be3ba4910c"]
+new [description:"buy milk" end:"1758023744" entry:"1758013887" modified:"1758023746" status:"deleted" uuid:"bb9fe5a1-2d15-407b-aead-95be3ba4910c"]
+---
+time 1758023755
+old [description:"bake cake" entry:"1758013900" modified:"1758013900" status:"pending" uuid:"e8d23843-106c-4ce0-bd41-472d8514f38a"]
+new [description:"bake cake" end:"1758023754" entry:"1758013900" modified:"1758023755" status:"deleted" uuid:"e8d23843-106c-4ce0-bd41-472d8514f38a"]
+---
+time 1758023771
+old [description:"Pay bills" entry:"1758014051" modified:"1758014051" priority:"H" status:"pending" uuid:"41f00a4b-ee54-4f0e-bc04-f86d656235e7"]
+new [description:"Pay bills" end:"1758023768" entry:"1758014051" modified:"1758023771" priority:"H" status:"deleted" uuid:"41f00a4b-ee54-4f0e-bc04-f86d656235e7"]
+---
+time 1758023808
+new [description:"update picc paper" entry:"1758023808" modified:"1758023808" priority:"H" project:"PICC" status:"pending" uuid:"84b5bfc0-bdd3-4431-acbe-fb83d804b3f7"]
+---
+time 1758023925
+new [description:"run hyperparmaeters dspy" entry:"1758023925" modified:"1758023925" project:"ARS-AMI" status:"pending" uuid:"08fa1c8b-6ab5-40b3-8394-cce0c55fc4ad"]
+---
+time 1758024036
+new [description:"check Patrice script" entry:"1758024036" modified:"1758024036" status:"pending" uuid:"23ebc0ba-3c7c-4173-b026-0ec14e2bf3f6"]
+---
+time 1758024069
+new [description:"send presentation FRITES" entry:"1758024069" modified:"1758024069" priority:"H" project:"FRITES" status:"pending" uuid:"d1022230-a12d-4dce-a973-f026e2f71be9"]
+---
+time 1758024113
+new [description:"create FRITES prez" entry:"1758024113" modified:"1758024113" priority:"H" project:"FRITES" status:"pending" uuid:"59a0e31f-8518-4ff9-a01d-1241ad32b256"]
+---
+time 1758024134
+old [description:"send presentation FRITES" entry:"1758024069" modified:"1758024069" priority:"H" project:"FRITES" status:"pending" uuid:"d1022230-a12d-4dce-a973-f026e2f71be9"]
+new [dep_59a0e31f-8518-4ff9-a01d-1241ad32b256:"x" depends:"59a0e31f-8518-4ff9-a01d-1241ad32b256" description:"send presentation FRITES" entry:"1758024069" modified:"1758024134" priority:"H" project:"FRITES" status:"pending" uuid:"d1022230-a12d-4dce-a973-f026e2f71be9"]
+---
+time 1758024428
+old [dep_59a0e31f-8518-4ff9-a01d-1241ad32b256:"x" depends:"59a0e31f-8518-4ff9-a01d-1241ad32b256" description:"send presentation FRITES" entry:"1758024069" modified:"1758024134" priority:"H" project:"FRITES" status:"pending" uuid:"d1022230-a12d-4dce-a973-f026e2f71be9"]
+new [dep_59a0e31f-8518-4ff9-a01d-1241ad32b256:"x" depends:"59a0e31f-8518-4ff9-a01d-1241ad32b256" description:"send presentation FRITES" due:"1758146400" entry:"1758024069" modified:"1758024428" priority:"H" project:"FRITES" status:"pending" uuid:"d1022230-a12d-4dce-a973-f026e2f71be9"]
+---

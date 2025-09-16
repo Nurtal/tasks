@@ -5,3 +5,13 @@
 {"description":"buy eggs","end":"20250916T091439Z","entry":"20250916T091132Z","modified":"20250916T091439Z","status":"completed","uuid":"2ef93e18-4e23-4a7e-b223-fd3d465644d3"}
 {"description":"play lotro","entry":"20250916T104509Z","modified":"20250916T104509Z","priority":"H","status":"pending","uuid":"6aa60c32-7f38-46b7-9230-357106c1c62a"}
 {"description":"play lotro","end":"20250916T114549Z","entry":"20250916T104509Z","modified":"20250916T114549Z","priority":"H","status":"completed","uuid":"6aa60c32-7f38-46b7-9230-357106c1c62a"}
+{"description":"buy milk","end":"20250916T115544Z","entry":"20250916T091127Z","modified":"20250916T115546Z","status":"deleted","uuid":"bb9fe5a1-2d15-407b-aead-95be3ba4910c"}
+{"description":"bake cake","end":"20250916T115554Z","entry":"20250916T091140Z","modified":"20250916T115555Z","status":"deleted","uuid":"e8d23843-106c-4ce0-bd41-472d8514f38a"}
+{"description":"Pay bills","end":"20250916T115608Z","entry":"20250916T091411Z","modified":"20250916T115611Z","priority":"H","status":"deleted","uuid":"41f00a4b-ee54-4f0e-bc04-f86d656235e7"}
+{"description":"update picc paper","entry":"20250916T115648Z","modified":"20250916T115648Z","priority":"H","project":"PICC","status":"pending","uuid":"84b5bfc0-bdd3-4431-acbe-fb83d804b3f7"}
+{"description":"run hyperparmaeters dspy","entry":"20250916T115845Z","modified":"20250916T115845Z","project":"ARS-AMI","status":"pending","uuid":"08fa1c8b-6ab5-40b3-8394-cce0c55fc4ad"}
+{"description":"check Patrice script","entry":"20250916T120036Z","modified":"20250916T120036Z","status":"pending","uuid":"23ebc0ba-3c7c-4173-b026-0ec14e2bf3f6"}
+{"description":"send presentation FRITES","entry":"20250916T120109Z","modified":"20250916T120109Z","priority":"H","project":"FRITES","status":"pending","uuid":"d1022230-a12d-4dce-a973-f026e2f71be9"}
+{"description":"create FRITES prez","entry":"20250916T120153Z","modified":"20250916T120153Z","priority":"H","project":"FRITES","status":"pending","uuid":"59a0e31f-8518-4ff9-a01d-1241ad32b256"}
+{"description":"send presentation FRITES","entry":"20250916T120109Z","modified":"20250916T120214Z","priority":"H","project":"FRITES","status":"pending","uuid":"d1022230-a12d-4dce-a973-f026e2f71be9","depends":["59a0e31f-8518-4ff9-a01d-1241ad32b256"]}
+{"description":"send presentation FRITES","due":"20250917T220000Z","entry":"20250916T120109Z","modified":"20250916T120708Z","priority":"H","project":"FRITES","status":"pending","uuid":"d1022230-a12d-4dce-a973-f026e2f71be9","depends":["59a0e31f-8518-4ff9-a01d-1241ad32b256"]}
