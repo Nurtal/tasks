@@ -56,3 +56,213 @@ time 1758024428
 old [dep_59a0e31f-8518-4ff9-a01d-1241ad32b256:"x" depends:"59a0e31f-8518-4ff9-a01d-1241ad32b256" description:"send presentation FRITES" entry:"1758024069" modified:"1758024134" priority:"H" project:"FRITES" status:"pending" uuid:"d1022230-a12d-4dce-a973-f026e2f71be9"]
 new [dep_59a0e31f-8518-4ff9-a01d-1241ad32b256:"x" depends:"59a0e31f-8518-4ff9-a01d-1241ad32b256" description:"send presentation FRITES" due:"1758146400" entry:"1758024069" modified:"1758024428" priority:"H" project:"FRITES" status:"pending" uuid:"d1022230-a12d-4dce-a973-f026e2f71be9"]
 ---
+time 1758024777
+new [description:"update data" entry:"1758024777" modified:"1758024777" project:"DwarfCoin" status:"pending" uuid:"9048a3c2-e1e5-4e73-b58e-c068121a39e8"]
+---
+time 1758024817
+new [description:"respond to email" due:"1757973600" entry:"1758024817" modified:"1758024817" status:"pending" uuid:"3d27c76d-d62b-4203-88ae-36d5b6be8392"]
+---
+time 1758024999
+new [description:"craft slide data" entry:"1758024999" modified:"1758024999" project:"FRITES" status:"pending" uuid:"36fcd153-c230-4a9b-935d-ec697eef4d46"]
+---
+time 1758025023
+new [description:"craft slide wavelet augmentation" entry:"1758025023" modified:"1758025023" project:"FRITES" status:"pending" uuid:"ae3ecc15-be11-4a11-b3d2-3525978296ae"]
+---
+time 1758025050
+new [description:"clean intro slides" entry:"1758025050" modified:"1758025050" project:"FRITES" status:"pending" uuid:"2092d1ec-72b8-4b35-8e6a-f5fdcb544f4f"]
+---
+time 1758025082
+new [description:"slide wavelet exemple" entry:"1758025082" modified:"1758025082" project:"FRITES" status:"pending" uuid:"c320b784-63b0-4535-839f-bd07c51a8439"]
+---
+time 1758025124
+new [description:"create plan slide projcet:FRITES" entry:"1758025124" modified:"1758025124" status:"pending" uuid:"c63c7fc8-d0b6-4032-a5c0-ad5d9413a846"]
+---
+time 1758025132
+new [description:"create plan slide" entry:"1758025132" modified:"1758025132" project:"FRITES" status:"pending" uuid:"b2c73170-f9f6-48fc-a9a7-dba47edc45e1"]
+---
+time 1758025160
+old [description:"create plan slide projcet:FRITES" entry:"1758025124" modified:"1758025124" status:"pending" uuid:"c63c7fc8-d0b6-4032-a5c0-ad5d9413a846"]
+new [description:"create plan slide projcet:FRITES" end:"1758025158" entry:"1758025124" modified:"1758025160" status:"deleted" uuid:"c63c7fc8-d0b6-4032-a5c0-ad5d9413a846"]
+---
+time 1758025180
+new [description:"data challange slide" entry:"1758025180" modified:"1758025180" project:"FRITES" status:"pending" uuid:"25a29138-9b39-4aed-8ea9-1adc9aa115b0"]
+---
+time 1758025198
+new [description:"slide roles" entry:"1758025198" modified:"1758025198" project:"FRITES" status:"pending" uuid:"a267ab9f-4112-45f3-84e0-58046f9398f8"]
+---
+time 1758025214
+new [description:"slide plan in time" entry:"1758025214" modified:"1758025214" project:"FRITES" status:"pending" uuid:"9b7d894b-2183-4769-801f-5a5f07910f4f"]
+---
+time 1758025228
+new [description:"recap slide" entry:"1758025228" modified:"1758025228" project:"FRITES" status:"pending" uuid:"c8fb3287-2b57-4a23-8e4d-d3da4ff799fe"]
+---
+time 1758025247
+new [description:"fallout slide" entry:"1758025247" modified:"1758025247" project:"FRITES" status:"pending" uuid:"34c983c9-d644-46cf-a5e4-505aa7d46787"]
+---
+time 1758025310
+new [description:"repeat project presentation" due:"1758146400" entry:"1758025310" modified:"1758025310" project:"FRITES" status:"pending" uuid:"af561f43-8304-41fe-9a72-ceaf934ec308"]
+---
+time 1758025348
+old [description:"create FRITES prez" entry:"1758024113" modified:"1758024113" priority:"H" project:"FRITES" status:"pending" uuid:"59a0e31f-8518-4ff9-a01d-1241ad32b256"]
+new [dep_36fcd153-c230-4a9b-935d-ec697eef4d46:"x" depends:"36fcd153-c230-4a9b-935d-ec697eef4d46" description:"create FRITES prez" entry:"1758024113" modified:"1758025348" priority:"H" project:"FRITES" status:"pending" uuid:"59a0e31f-8518-4ff9-a01d-1241ad32b256"]
+---
+time 1758025360
+old [dep_36fcd153-c230-4a9b-935d-ec697eef4d46:"x" depends:"36fcd153-c230-4a9b-935d-ec697eef4d46" description:"create FRITES prez" entry:"1758024113" modified:"1758025348" priority:"H" project:"FRITES" status:"pending" uuid:"59a0e31f-8518-4ff9-a01d-1241ad32b256"]
+new [dep_36fcd153-c230-4a9b-935d-ec697eef4d46:"x" dep_ae3ecc15-be11-4a11-b3d2-3525978296ae:"x" depends:"36fcd153-c230-4a9b-935d-ec697eef4d46,ae3ecc15-be11-4a11-b3d2-3525978296ae" description:"create FRITES prez" entry:"1758024113" modified:"1758025360" priority:"H" project:"FRITES" status:"pending" uuid:"59a0e31f-8518-4ff9-a01d-1241ad32b256"]
+---
+time 1758025364
+old [dep_36fcd153-c230-4a9b-935d-ec697eef4d46:"x" dep_ae3ecc15-be11-4a11-b3d2-3525978296ae:"x" depends:"36fcd153-c230-4a9b-935d-ec697eef4d46,ae3ecc15-be11-4a11-b3d2-3525978296ae" description:"create FRITES prez" entry:"1758024113" modified:"1758025360" priority:"H" project:"FRITES" status:"pending" uuid:"59a0e31f-8518-4ff9-a01d-1241ad32b256"]
+new [dep_2092d1ec-72b8-4b35-8e6a-f5fdcb544f4f:"x" dep_36fcd153-c230-4a9b-935d-ec697eef4d46:"x" dep_ae3ecc15-be11-4a11-b3d2-3525978296ae:"x" depends:"2092d1ec-72b8-4b35-8e6a-f5fdcb544f4f,36fcd153-c230-4a9b-935d-ec697eef4d46,ae3ecc15-be11-4a11-b3d2-3525978296ae" description:"create FRITES prez" entry:"1758024113" modified:"1758025364" priority:"H" project:"FRITES" status:"pending" uuid:"59a0e31f-8518-4ff9-a01d-1241ad32b256"]
+---
+time 1758025370
+old [dep_2092d1ec-72b8-4b35-8e6a-f5fdcb544f4f:"x" dep_36fcd153-c230-4a9b-935d-ec697eef4d46:"x" dep_ae3ecc15-be11-4a11-b3d2-3525978296ae:"x" depends:"2092d1ec-72b8-4b35-8e6a-f5fdcb544f4f,36fcd153-c230-4a9b-935d-ec697eef4d46,ae3ecc15-be11-4a11-b3d2-3525978296ae" description:"create FRITES prez" entry:"1758024113" modified:"1758025364" priority:"H" project:"FRITES" status:"pending" uuid:"59a0e31f-8518-4ff9-a01d-1241ad32b256"]
+new [dep_2092d1ec-72b8-4b35-8e6a-f5fdcb544f4f:"x" dep_36fcd153-c230-4a9b-935d-ec697eef4d46:"x" dep_ae3ecc15-be11-4a11-b3d2-3525978296ae:"x" dep_c320b784-63b0-4535-839f-bd07c51a8439:"x" depends:"2092d1ec-72b8-4b35-8e6a-f5fdcb544f4f,36fcd153-c230-4a9b-935d-ec697eef4d46,ae3ecc15-be11-4a11-b3d2-3525978296ae,c320b784-63b0-4535-839f-bd07c51a8439" description:"create FRITES prez" entry:"1758024113" modified:"1758025370" priority:"H" project:"FRITES" status:"pending" uuid:"59a0e31f-8518-4ff9-a01d-1241ad32b256"]
+---
+time 1758025411
+old [dep_2092d1ec-72b8-4b35-8e6a-f5fdcb544f4f:"x" dep_36fcd153-c230-4a9b-935d-ec697eef4d46:"x" dep_ae3ecc15-be11-4a11-b3d2-3525978296ae:"x" dep_c320b784-63b0-4535-839f-bd07c51a8439:"x" depends:"2092d1ec-72b8-4b35-8e6a-f5fdcb544f4f,36fcd153-c230-4a9b-935d-ec697eef4d46,ae3ecc15-be11-4a11-b3d2-3525978296ae,c320b784-63b0-4535-839f-bd07c51a8439" description:"create FRITES prez" entry:"1758024113" modified:"1758025370" priority:"H" project:"FRITES" status:"pending" uuid:"59a0e31f-8518-4ff9-a01d-1241ad32b256"]
+new [dep_2092d1ec-72b8-4b35-8e6a-f5fdcb544f4f:"x" dep_36fcd153-c230-4a9b-935d-ec697eef4d46:"x" dep_ae3ecc15-be11-4a11-b3d2-3525978296ae:"x" dep_b2c73170-f9f6-48fc-a9a7-dba47edc45e1:"x" dep_c320b784-63b0-4535-839f-bd07c51a8439:"x" depends:"2092d1ec-72b8-4b35-8e6a-f5fdcb544f4f,36fcd153-c230-4a9b-935d-ec697eef4d46,ae3ecc15-be11-4a11-b3d2-3525978296ae,b2c73170-f9f6-48fc-a9a7-dba47edc45e1,c320b784-63b0-4535-839f-bd07c51a8439" description:"create FRITES prez" entry:"1758024113" modified:"1758025411" priority:"H" project:"FRITES" status:"pending" uuid:"59a0e31f-8518-4ff9-a01d-1241ad32b256"]
+---
+time 1758025414
+old [dep_2092d1ec-72b8-4b35-8e6a-f5fdcb544f4f:"x" dep_36fcd153-c230-4a9b-935d-ec697eef4d46:"x" dep_ae3ecc15-be11-4a11-b3d2-3525978296ae:"x" dep_b2c73170-f9f6-48fc-a9a7-dba47edc45e1:"x" dep_c320b784-63b0-4535-839f-bd07c51a8439:"x" depends:"2092d1ec-72b8-4b35-8e6a-f5fdcb544f4f,36fcd153-c230-4a9b-935d-ec697eef4d46,ae3ecc15-be11-4a11-b3d2-3525978296ae,b2c73170-f9f6-48fc-a9a7-dba47edc45e1,c320b784-63b0-4535-839f-bd07c51a8439" description:"create FRITES prez" entry:"1758024113" modified:"1758025411" priority:"H" project:"FRITES" status:"pending" uuid:"59a0e31f-8518-4ff9-a01d-1241ad32b256"]
+new [dep_2092d1ec-72b8-4b35-8e6a-f5fdcb544f4f:"x" dep_25a29138-9b39-4aed-8ea9-1adc9aa115b0:"x" dep_36fcd153-c230-4a9b-935d-ec697eef4d46:"x" dep_ae3ecc15-be11-4a11-b3d2-3525978296ae:"x" dep_b2c73170-f9f6-48fc-a9a7-dba47edc45e1:"x" dep_c320b784-63b0-4535-839f-bd07c51a8439:"x" depends:"2092d1ec-72b8-4b35-8e6a-f5fdcb544f4f,25a29138-9b39-4aed-8ea9-1adc9aa115b0,36fcd153-c230-4a9b-935d-ec697eef4d46,ae3ecc15-be11-4a11-b3d2-3525978296ae,b2c73170-f9f6-48fc-a9a7-dba47edc45e1,c320b784-63b0-4535-839f-bd07c51a8439" description:"create FRITES prez" entry:"1758024113" modified:"1758025414" priority:"H" project:"FRITES" status:"pending" uuid:"59a0e31f-8518-4ff9-a01d-1241ad32b256"]
+---
+time 1758025417
+old [dep_2092d1ec-72b8-4b35-8e6a-f5fdcb544f4f:"x" dep_25a29138-9b39-4aed-8ea9-1adc9aa115b0:"x" dep_36fcd153-c230-4a9b-935d-ec697eef4d46:"x" dep_ae3ecc15-be11-4a11-b3d2-3525978296ae:"x" dep_b2c73170-f9f6-48fc-a9a7-dba47edc45e1:"x" dep_c320b784-63b0-4535-839f-bd07c51a8439:"x" depends:"2092d1ec-72b8-4b35-8e6a-f5fdcb544f4f,25a29138-9b39-4aed-8ea9-1adc9aa115b0,36fcd153-c230-4a9b-935d-ec697eef4d46,ae3ecc15-be11-4a11-b3d2-3525978296ae,b2c73170-f9f6-48fc-a9a7-dba47edc45e1,c320b784-63b0-4535-839f-bd07c51a8439" description:"create FRITES prez" entry:"1758024113" modified:"1758025414" priority:"H" project:"FRITES" status:"pending" uuid:"59a0e31f-8518-4ff9-a01d-1241ad32b256"]
+new [dep_2092d1ec-72b8-4b35-8e6a-f5fdcb544f4f:"x" dep_25a29138-9b39-4aed-8ea9-1adc9aa115b0:"x" dep_36fcd153-c230-4a9b-935d-ec697eef4d46:"x" dep_a267ab9f-4112-45f3-84e0-58046f9398f8:"x" dep_ae3ecc15-be11-4a11-b3d2-3525978296ae:"x" dep_b2c73170-f9f6-48fc-a9a7-dba47edc45e1:"x" dep_c320b784-63b0-4535-839f-bd07c51a8439:"x" depends:"2092d1ec-72b8-4b35-8e6a-f5fdcb544f4f,25a29138-9b39-4aed-8ea9-1adc9aa115b0,36fcd153-c230-4a9b-935d-ec697eef4d46,a267ab9f-4112-45f3-84e0-58046f9398f8,ae3ecc15-be11-4a11-b3d2-3525978296ae,b2c73170-f9f6-48fc-a9a7-dba47edc45e1,c320b784-63b0-4535-839f-bd07c51a8439" description:"create FRITES prez" entry:"1758024113" modified:"1758025417" priority:"H" project:"FRITES" status:"pending" uuid:"59a0e31f-8518-4ff9-a01d-1241ad32b256"]
+---
+time 1758025419
+old [dep_2092d1ec-72b8-4b35-8e6a-f5fdcb544f4f:"x" dep_25a29138-9b39-4aed-8ea9-1adc9aa115b0:"x" dep_36fcd153-c230-4a9b-935d-ec697eef4d46:"x" dep_a267ab9f-4112-45f3-84e0-58046f9398f8:"x" dep_ae3ecc15-be11-4a11-b3d2-3525978296ae:"x" dep_b2c73170-f9f6-48fc-a9a7-dba47edc45e1:"x" dep_c320b784-63b0-4535-839f-bd07c51a8439:"x" depends:"2092d1ec-72b8-4b35-8e6a-f5fdcb544f4f,25a29138-9b39-4aed-8ea9-1adc9aa115b0,36fcd153-c230-4a9b-935d-ec697eef4d46,a267ab9f-4112-45f3-84e0-58046f9398f8,ae3ecc15-be11-4a11-b3d2-3525978296ae,b2c73170-f9f6-48fc-a9a7-dba47edc45e1,c320b784-63b0-4535-839f-bd07c51a8439" description:"create FRITES prez" entry:"1758024113" modified:"1758025417" priority:"H" project:"FRITES" status:"pending" uuid:"59a0e31f-8518-4ff9-a01d-1241ad32b256"]
+new [dep_2092d1ec-72b8-4b35-8e6a-f5fdcb544f4f:"x" dep_25a29138-9b39-4aed-8ea9-1adc9aa115b0:"x" dep_36fcd153-c230-4a9b-935d-ec697eef4d46:"x" dep_9b7d894b-2183-4769-801f-5a5f07910f4f:"x" dep_a267ab9f-4112-45f3-84e0-58046f9398f8:"x" dep_ae3ecc15-be11-4a11-b3d2-3525978296ae:"x" dep_b2c73170-f9f6-48fc-a9a7-dba47edc45e1:"x" dep_c320b784-63b0-4535-839f-bd07c51a8439:"x" depends:"2092d1ec-72b8-4b35-8e6a-f5fdcb544f4f,25a29138-9b39-4aed-8ea9-1adc9aa115b0,36fcd153-c230-4a9b-935d-ec697eef4d46,9b7d894b-2183-4769-801f-5a5f07910f4f,a267ab9f-4112-45f3-84e0-58046f9398f8,ae3ecc15-be11-4a11-b3d2-3525978296ae,b2c73170-f9f6-48fc-a9a7-dba47edc45e1,c320b784-63b0-4535-839f-bd07c51a8439" description:"create FRITES prez" entry:"1758024113" modified:"1758025419" priority:"H" project:"FRITES" status:"pending" uuid:"59a0e31f-8518-4ff9-a01d-1241ad32b256"]
+---
+time 1758025421
+old [dep_2092d1ec-72b8-4b35-8e6a-f5fdcb544f4f:"x" dep_25a29138-9b39-4aed-8ea9-1adc9aa115b0:"x" dep_36fcd153-c230-4a9b-935d-ec697eef4d46:"x" dep_9b7d894b-2183-4769-801f-5a5f07910f4f:"x" dep_a267ab9f-4112-45f3-84e0-58046f9398f8:"x" dep_ae3ecc15-be11-4a11-b3d2-3525978296ae:"x" dep_b2c73170-f9f6-48fc-a9a7-dba47edc45e1:"x" dep_c320b784-63b0-4535-839f-bd07c51a8439:"x" depends:"2092d1ec-72b8-4b35-8e6a-f5fdcb544f4f,25a29138-9b39-4aed-8ea9-1adc9aa115b0,36fcd153-c230-4a9b-935d-ec697eef4d46,9b7d894b-2183-4769-801f-5a5f07910f4f,a267ab9f-4112-45f3-84e0-58046f9398f8,ae3ecc15-be11-4a11-b3d2-3525978296ae,b2c73170-f9f6-48fc-a9a7-dba47edc45e1,c320b784-63b0-4535-839f-bd07c51a8439" description:"create FRITES prez" entry:"1758024113" modified:"1758025419" priority:"H" project:"FRITES" status:"pending" uuid:"59a0e31f-8518-4ff9-a01d-1241ad32b256"]
+new [dep_2092d1ec-72b8-4b35-8e6a-f5fdcb544f4f:"x" dep_25a29138-9b39-4aed-8ea9-1adc9aa115b0:"x" dep_36fcd153-c230-4a9b-935d-ec697eef4d46:"x" dep_9b7d894b-2183-4769-801f-5a5f07910f4f:"x" dep_a267ab9f-4112-45f3-84e0-58046f9398f8:"x" dep_ae3ecc15-be11-4a11-b3d2-3525978296ae:"x" dep_b2c73170-f9f6-48fc-a9a7-dba47edc45e1:"x" dep_c320b784-63b0-4535-839f-bd07c51a8439:"x" dep_c8fb3287-2b57-4a23-8e4d-d3da4ff799fe:"x" depends:"2092d1ec-72b8-4b35-8e6a-f5fdcb544f4f,25a29138-9b39-4aed-8ea9-1adc9aa115b0,36fcd153-c230-4a9b-935d-ec697eef4d46,9b7d894b-2183-4769-801f-5a5f07910f4f,a267ab9f-4112-45f3-84e0-58046f9398f8,ae3ecc15-be11-4a11-b3d2-3525978296ae,b2c73170-f9f6-48fc-a9a7-dba47edc45e1,c320b784-63b0-4535-839f-bd07c51a8439,c8fb3287-2b57-4a23-8e4d-d3da4ff799fe" description:"create FRITES prez" entry:"1758024113" modified:"1758025421" priority:"H" project:"FRITES" status:"pending" uuid:"59a0e31f-8518-4ff9-a01d-1241ad32b256"]
+---
+time 1758025424
+old [dep_2092d1ec-72b8-4b35-8e6a-f5fdcb544f4f:"x" dep_25a29138-9b39-4aed-8ea9-1adc9aa115b0:"x" dep_36fcd153-c230-4a9b-935d-ec697eef4d46:"x" dep_9b7d894b-2183-4769-801f-5a5f07910f4f:"x" dep_a267ab9f-4112-45f3-84e0-58046f9398f8:"x" dep_ae3ecc15-be11-4a11-b3d2-3525978296ae:"x" dep_b2c73170-f9f6-48fc-a9a7-dba47edc45e1:"x" dep_c320b784-63b0-4535-839f-bd07c51a8439:"x" dep_c8fb3287-2b57-4a23-8e4d-d3da4ff799fe:"x" depends:"2092d1ec-72b8-4b35-8e6a-f5fdcb544f4f,25a29138-9b39-4aed-8ea9-1adc9aa115b0,36fcd153-c230-4a9b-935d-ec697eef4d46,9b7d894b-2183-4769-801f-5a5f07910f4f,a267ab9f-4112-45f3-84e0-58046f9398f8,ae3ecc15-be11-4a11-b3d2-3525978296ae,b2c73170-f9f6-48fc-a9a7-dba47edc45e1,c320b784-63b0-4535-839f-bd07c51a8439,c8fb3287-2b57-4a23-8e4d-d3da4ff799fe" description:"create FRITES prez" entry:"1758024113" modified:"1758025421" priority:"H" project:"FRITES" status:"pending" uuid:"59a0e31f-8518-4ff9-a01d-1241ad32b256"]
+new [dep_2092d1ec-72b8-4b35-8e6a-f5fdcb544f4f:"x" dep_25a29138-9b39-4aed-8ea9-1adc9aa115b0:"x" dep_34c983c9-d644-46cf-a5e4-505aa7d46787:"x" dep_36fcd153-c230-4a9b-935d-ec697eef4d46:"x" dep_9b7d894b-2183-4769-801f-5a5f07910f4f:"x" dep_a267ab9f-4112-45f3-84e0-58046f9398f8:"x" dep_ae3ecc15-be11-4a11-b3d2-3525978296ae:"x" dep_b2c73170-f9f6-48fc-a9a7-dba47edc45e1:"x" dep_c320b784-63b0-4535-839f-bd07c51a8439:"x" dep_c8fb3287-2b57-4a23-8e4d-d3da4ff799fe:"x" depends:"2092d1ec-72b8-4b35-8e6a-f5fdcb544f4f,25a29138-9b39-4aed-8ea9-1adc9aa115b0,34c983c9-d644-46cf-a5e4-505aa7d46787,36fcd153-c230-4a9b-935d-ec697eef4d46,9b7d894b-2183-4769-801f-5a5f07910f4f,a267ab9f-4112-45f3-84e0-58046f9398f8,ae3ecc15-be11-4a11-b3d2-3525978296ae,b2c73170-f9f6-48fc-a9a7-dba47edc45e1,c320b784-63b0-4535-839f-bd07c51a8439,c8fb3287-2b57-4a23-8e4d-d3da4ff799fe" description:"create FRITES prez" entry:"1758024113" modified:"1758025424" priority:"H" project:"FRITES" status:"pending" uuid:"59a0e31f-8518-4ff9-a01d-1241ad32b256"]
+---
+time 1758025494
+old [description:"repeat project presentation" due:"1758146400" entry:"1758025310" modified:"1758025310" project:"FRITES" status:"pending" uuid:"af561f43-8304-41fe-9a72-ceaf934ec308"]
+new [dep_59a0e31f-8518-4ff9-a01d-1241ad32b256:"x" depends:"59a0e31f-8518-4ff9-a01d-1241ad32b256" description:"repeat project presentation" due:"1758146400" entry:"1758025310" modified:"1758025494" project:"FRITES" status:"pending" uuid:"af561f43-8304-41fe-9a72-ceaf934ec308"]
+---
+time 1758025578
+old [description:"craft slide data" entry:"1758024999" modified:"1758024999" project:"FRITES" status:"pending" uuid:"36fcd153-c230-4a9b-935d-ec697eef4d46"]
+new [description:"craft slide data" entry:"1758024999" modified:"1758025578" priority:"H" project:"FRITES" status:"pending" uuid:"36fcd153-c230-4a9b-935d-ec697eef4d46"]
+---
+time 1758025588
+old [description:"craft slide wavelet augmentation" entry:"1758025023" modified:"1758025023" project:"FRITES" status:"pending" uuid:"ae3ecc15-be11-4a11-b3d2-3525978296ae"]
+new [description:"craft slide wavelet augmentation" entry:"1758025023" modified:"1758025588" priority:"H" project:"FRITES" status:"pending" uuid:"ae3ecc15-be11-4a11-b3d2-3525978296ae"]
+---
+time 1758025592
+old [description:"clean intro slides" entry:"1758025050" modified:"1758025050" project:"FRITES" status:"pending" uuid:"2092d1ec-72b8-4b35-8e6a-f5fdcb544f4f"]
+new [description:"clean intro slides" entry:"1758025050" modified:"1758025592" priority:"H" project:"FRITES" status:"pending" uuid:"2092d1ec-72b8-4b35-8e6a-f5fdcb544f4f"]
+---
+time 1758025595
+old [description:"slide wavelet exemple" entry:"1758025082" modified:"1758025082" project:"FRITES" status:"pending" uuid:"c320b784-63b0-4535-839f-bd07c51a8439"]
+new [description:"slide wavelet exemple" entry:"1758025082" modified:"1758025595" priority:"H" project:"FRITES" status:"pending" uuid:"c320b784-63b0-4535-839f-bd07c51a8439"]
+---
+time 1758025601
+old [description:"create plan slide" entry:"1758025132" modified:"1758025132" project:"FRITES" status:"pending" uuid:"b2c73170-f9f6-48fc-a9a7-dba47edc45e1"]
+new [description:"create plan slide" entry:"1758025132" modified:"1758025601" priority:"H" project:"FRITES" status:"pending" uuid:"b2c73170-f9f6-48fc-a9a7-dba47edc45e1"]
+---
+time 1758025604
+old [description:"data challange slide" entry:"1758025180" modified:"1758025180" project:"FRITES" status:"pending" uuid:"25a29138-9b39-4aed-8ea9-1adc9aa115b0"]
+new [description:"data challange slide" entry:"1758025180" modified:"1758025604" priority:"H" project:"FRITES" status:"pending" uuid:"25a29138-9b39-4aed-8ea9-1adc9aa115b0"]
+---
+time 1758025609
+old [description:"slide roles" entry:"1758025198" modified:"1758025198" project:"FRITES" status:"pending" uuid:"a267ab9f-4112-45f3-84e0-58046f9398f8"]
+new [description:"slide roles" entry:"1758025198" modified:"1758025609" priority:"H" project:"FRITES" status:"pending" uuid:"a267ab9f-4112-45f3-84e0-58046f9398f8"]
+---
+time 1758025612
+old [description:"slide plan in time" entry:"1758025214" modified:"1758025214" project:"FRITES" status:"pending" uuid:"9b7d894b-2183-4769-801f-5a5f07910f4f"]
+new [description:"slide plan in time" entry:"1758025214" modified:"1758025612" priority:"H" project:"FRITES" status:"pending" uuid:"9b7d894b-2183-4769-801f-5a5f07910f4f"]
+---
+time 1758025615
+old [description:"recap slide" entry:"1758025228" modified:"1758025228" project:"FRITES" status:"pending" uuid:"c8fb3287-2b57-4a23-8e4d-d3da4ff799fe"]
+new [description:"recap slide" entry:"1758025228" modified:"1758025615" priority:"H" project:"FRITES" status:"pending" uuid:"c8fb3287-2b57-4a23-8e4d-d3da4ff799fe"]
+---
+time 1758025618
+old [description:"fallout slide" entry:"1758025247" modified:"1758025247" project:"FRITES" status:"pending" uuid:"34c983c9-d644-46cf-a5e4-505aa7d46787"]
+new [description:"fallout slide" entry:"1758025247" modified:"1758025618" priority:"H" project:"FRITES" status:"pending" uuid:"34c983c9-d644-46cf-a5e4-505aa7d46787"]
+---
+time 1758025749
+old [description:"craft slide data" entry:"1758024999" modified:"1758025578" priority:"H" project:"FRITES" status:"pending" uuid:"36fcd153-c230-4a9b-935d-ec697eef4d46"]
+new [description:"craft slide data" entry:"1758024999" modified:"1758025749" priority:"H" project:"FRITES" start:"1758025749" status:"pending" uuid:"36fcd153-c230-4a9b-935d-ec697eef4d46"]
+---
+time 1758026328
+old [description:"craft slide data" entry:"1758024999" modified:"1758025749" priority:"H" project:"FRITES" start:"1758025749" status:"pending" uuid:"36fcd153-c230-4a9b-935d-ec697eef4d46"]
+new [description:"craft slide data" entry:"1758024999" modified:"1758026328" priority:"H" project:"FRITES" status:"pending" uuid:"36fcd153-c230-4a9b-935d-ec697eef4d46"]
+---
+time 1758026366
+old [description:"craft slide data" entry:"1758024999" modified:"1758026328" priority:"H" project:"FRITES" status:"pending" uuid:"36fcd153-c230-4a9b-935d-ec697eef4d46"]
+new [description:"craft slide data" end:"1758026366" entry:"1758024999" modified:"1758026366" priority:"H" project:"FRITES" status:"completed" uuid:"36fcd153-c230-4a9b-935d-ec697eef4d46"]
+---
+time 1758026381
+old [dep_2092d1ec-72b8-4b35-8e6a-f5fdcb544f4f:"x" dep_25a29138-9b39-4aed-8ea9-1adc9aa115b0:"x" dep_34c983c9-d644-46cf-a5e4-505aa7d46787:"x" dep_36fcd153-c230-4a9b-935d-ec697eef4d46:"x" dep_9b7d894b-2183-4769-801f-5a5f07910f4f:"x" dep_a267ab9f-4112-45f3-84e0-58046f9398f8:"x" dep_ae3ecc15-be11-4a11-b3d2-3525978296ae:"x" dep_b2c73170-f9f6-48fc-a9a7-dba47edc45e1:"x" dep_c320b784-63b0-4535-839f-bd07c51a8439:"x" dep_c8fb3287-2b57-4a23-8e4d-d3da4ff799fe:"x" depends:"2092d1ec-72b8-4b35-8e6a-f5fdcb544f4f,25a29138-9b39-4aed-8ea9-1adc9aa115b0,34c983c9-d644-46cf-a5e4-505aa7d46787,36fcd153-c230-4a9b-935d-ec697eef4d46,9b7d894b-2183-4769-801f-5a5f07910f4f,a267ab9f-4112-45f3-84e0-58046f9398f8,ae3ecc15-be11-4a11-b3d2-3525978296ae,b2c73170-f9f6-48fc-a9a7-dba47edc45e1,c320b784-63b0-4535-839f-bd07c51a8439,c8fb3287-2b57-4a23-8e4d-d3da4ff799fe" description:"create FRITES prez" entry:"1758024113" modified:"1758025424" priority:"H" project:"FRITES" status:"pending" uuid:"59a0e31f-8518-4ff9-a01d-1241ad32b256"]
+new [dep_2092d1ec-72b8-4b35-8e6a-f5fdcb544f4f:"x" dep_25a29138-9b39-4aed-8ea9-1adc9aa115b0:"x" dep_34c983c9-d644-46cf-a5e4-505aa7d46787:"x" dep_36fcd153-c230-4a9b-935d-ec697eef4d46:"x" dep_9b7d894b-2183-4769-801f-5a5f07910f4f:"x" dep_a267ab9f-4112-45f3-84e0-58046f9398f8:"x" dep_ae3ecc15-be11-4a11-b3d2-3525978296ae:"x" dep_b2c73170-f9f6-48fc-a9a7-dba47edc45e1:"x" dep_c320b784-63b0-4535-839f-bd07c51a8439:"x" dep_c8fb3287-2b57-4a23-8e4d-d3da4ff799fe:"x" depends:"2092d1ec-72b8-4b35-8e6a-f5fdcb544f4f,25a29138-9b39-4aed-8ea9-1adc9aa115b0,34c983c9-d644-46cf-a5e4-505aa7d46787,36fcd153-c230-4a9b-935d-ec697eef4d46,9b7d894b-2183-4769-801f-5a5f07910f4f,a267ab9f-4112-45f3-84e0-58046f9398f8,ae3ecc15-be11-4a11-b3d2-3525978296ae,b2c73170-f9f6-48fc-a9a7-dba47edc45e1,c320b784-63b0-4535-839f-bd07c51a8439,c8fb3287-2b57-4a23-8e4d-d3da4ff799fe" description:"create FRITES prez" entry:"1758024113" modified:"1758026381" priority:"H" project:"FRITES" start:"1758026381" status:"pending" uuid:"59a0e31f-8518-4ff9-a01d-1241ad32b256"]
+---
+time 1758026415
+old [description:"craft slide wavelet augmentation" entry:"1758025023" modified:"1758025588" priority:"H" project:"FRITES" status:"pending" uuid:"ae3ecc15-be11-4a11-b3d2-3525978296ae"]
+new [description:"craft slide wavelet augmentation" entry:"1758025023" modified:"1758026415" priority:"H" project:"FRITES" start:"1758026415" status:"pending" uuid:"ae3ecc15-be11-4a11-b3d2-3525978296ae"]
+---
+time 1758027972
+old [description:"craft slide wavelet augmentation" entry:"1758025023" modified:"1758026415" priority:"H" project:"FRITES" start:"1758026415" status:"pending" uuid:"ae3ecc15-be11-4a11-b3d2-3525978296ae"]
+new [description:"craft slide wavelet augmentation" end:"1758027972" entry:"1758025023" modified:"1758027972" priority:"H" project:"FRITES" status:"completed" uuid:"ae3ecc15-be11-4a11-b3d2-3525978296ae"]
+---
+time 1758028851
+old [description:"slide wavelet exemple" entry:"1758025082" modified:"1758025595" priority:"H" project:"FRITES" status:"pending" uuid:"c320b784-63b0-4535-839f-bd07c51a8439"]
+new [description:"slide wavelet exemple" entry:"1758025082" modified:"1758028851" priority:"H" project:"FRITES" start:"1758028851" status:"pending" uuid:"c320b784-63b0-4535-839f-bd07c51a8439"]
+---
+time 1758029636
+old [description:"slide wavelet exemple" entry:"1758025082" modified:"1758028851" priority:"H" project:"FRITES" start:"1758028851" status:"pending" uuid:"c320b784-63b0-4535-839f-bd07c51a8439"]
+new [description:"slide wavelet exemple" end:"1758029636" entry:"1758025082" modified:"1758029636" priority:"H" project:"FRITES" status:"completed" uuid:"c320b784-63b0-4535-839f-bd07c51a8439"]
+---
+time 1758029673
+old [description:"clean intro slides" entry:"1758025050" modified:"1758025592" priority:"H" project:"FRITES" status:"pending" uuid:"2092d1ec-72b8-4b35-8e6a-f5fdcb544f4f"]
+new [description:"clean intro slides" end:"1758029673" entry:"1758025050" modified:"1758029673" priority:"H" project:"FRITES" status:"completed" uuid:"2092d1ec-72b8-4b35-8e6a-f5fdcb544f4f"]
+---
+time 1758029685
+old [description:"create plan slide" entry:"1758025132" modified:"1758025601" priority:"H" project:"FRITES" status:"pending" uuid:"b2c73170-f9f6-48fc-a9a7-dba47edc45e1"]
+new [description:"create plan slide" entry:"1758025132" modified:"1758029685" priority:"H" project:"FRITES" start:"1758029685" status:"pending" uuid:"b2c73170-f9f6-48fc-a9a7-dba47edc45e1"]
+---
+time 1758031641
+old [description:"create plan slide" entry:"1758025132" modified:"1758029685" priority:"H" project:"FRITES" start:"1758029685" status:"pending" uuid:"b2c73170-f9f6-48fc-a9a7-dba47edc45e1"]
+new [description:"create plan slide" end:"1758031641" entry:"1758025132" modified:"1758031641" priority:"H" project:"FRITES" status:"completed" uuid:"b2c73170-f9f6-48fc-a9a7-dba47edc45e1"]
+---
+time 1758031826
+old [description:"data challange slide" entry:"1758025180" modified:"1758025604" priority:"H" project:"FRITES" status:"pending" uuid:"25a29138-9b39-4aed-8ea9-1adc9aa115b0"]
+new [description:"data challange slide" end:"1758031826" entry:"1758025180" modified:"1758031826" priority:"H" project:"FRITES" status:"completed" uuid:"25a29138-9b39-4aed-8ea9-1adc9aa115b0"]
+---
+time 1758031835
+old [description:"slide roles" entry:"1758025198" modified:"1758025609" priority:"H" project:"FRITES" status:"pending" uuid:"a267ab9f-4112-45f3-84e0-58046f9398f8"]
+new [description:"slide roles" entry:"1758025198" modified:"1758031835" priority:"H" project:"FRITES" start:"1758031835" status:"pending" uuid:"a267ab9f-4112-45f3-84e0-58046f9398f8"]
+---
+time 1758032148
+old [description:"slide roles" entry:"1758025198" modified:"1758031835" priority:"H" project:"FRITES" start:"1758031835" status:"pending" uuid:"a267ab9f-4112-45f3-84e0-58046f9398f8"]
+new [description:"slide roles" end:"1758032148" entry:"1758025198" modified:"1758032148" priority:"H" project:"FRITES" status:"completed" uuid:"a267ab9f-4112-45f3-84e0-58046f9398f8"]
+---
+time 1758032155
+old [description:"slide plan in time" entry:"1758025214" modified:"1758025612" priority:"H" project:"FRITES" status:"pending" uuid:"9b7d894b-2183-4769-801f-5a5f07910f4f"]
+new [description:"slide plan in time" end:"1758032155" entry:"1758025214" modified:"1758032155" priority:"H" project:"FRITES" status:"completed" uuid:"9b7d894b-2183-4769-801f-5a5f07910f4f"]
+---
+time 1758032797
+old [description:"recap slide" entry:"1758025228" modified:"1758025615" priority:"H" project:"FRITES" status:"pending" uuid:"c8fb3287-2b57-4a23-8e4d-d3da4ff799fe"]
+new [description:"recap slide" end:"1758032797" entry:"1758025228" modified:"1758032797" priority:"H" project:"FRITES" status:"completed" uuid:"c8fb3287-2b57-4a23-8e4d-d3da4ff799fe"]
+---
+time 1758032818
+old [description:"fallout slide" entry:"1758025247" modified:"1758025618" priority:"H" project:"FRITES" status:"pending" uuid:"34c983c9-d644-46cf-a5e4-505aa7d46787"]
+new [description:"fallout slide" entry:"1758025247" modified:"1758032818" priority:"H" project:"FRITES" start:"1758032818" status:"pending" uuid:"34c983c9-d644-46cf-a5e4-505aa7d46787"]
+---
+time 1758033792
+old [description:"fallout slide" entry:"1758025247" modified:"1758032818" priority:"H" project:"FRITES" start:"1758032818" status:"pending" uuid:"34c983c9-d644-46cf-a5e4-505aa7d46787"]
+new [description:"fallout slide" end:"1758033792" entry:"1758025247" modified:"1758033792" priority:"H" project:"FRITES" status:"completed" uuid:"34c983c9-d644-46cf-a5e4-505aa7d46787"]
+---
+time 1758033801
+old [dep_2092d1ec-72b8-4b35-8e6a-f5fdcb544f4f:"x" dep_25a29138-9b39-4aed-8ea9-1adc9aa115b0:"x" dep_34c983c9-d644-46cf-a5e4-505aa7d46787:"x" dep_36fcd153-c230-4a9b-935d-ec697eef4d46:"x" dep_9b7d894b-2183-4769-801f-5a5f07910f4f:"x" dep_a267ab9f-4112-45f3-84e0-58046f9398f8:"x" dep_ae3ecc15-be11-4a11-b3d2-3525978296ae:"x" dep_b2c73170-f9f6-48fc-a9a7-dba47edc45e1:"x" dep_c320b784-63b0-4535-839f-bd07c51a8439:"x" dep_c8fb3287-2b57-4a23-8e4d-d3da4ff799fe:"x" depends:"2092d1ec-72b8-4b35-8e6a-f5fdcb544f4f,25a29138-9b39-4aed-8ea9-1adc9aa115b0,34c983c9-d644-46cf-a5e4-505aa7d46787,36fcd153-c230-4a9b-935d-ec697eef4d46,9b7d894b-2183-4769-801f-5a5f07910f4f,a267ab9f-4112-45f3-84e0-58046f9398f8,ae3ecc15-be11-4a11-b3d2-3525978296ae,b2c73170-f9f6-48fc-a9a7-dba47edc45e1,c320b784-63b0-4535-839f-bd07c51a8439,c8fb3287-2b57-4a23-8e4d-d3da4ff799fe" description:"create FRITES prez" entry:"1758024113" modified:"1758026381" priority:"H" project:"FRITES" start:"1758026381" status:"pending" uuid:"59a0e31f-8518-4ff9-a01d-1241ad32b256"]
+new [dep_2092d1ec-72b8-4b35-8e6a-f5fdcb544f4f:"x" dep_25a29138-9b39-4aed-8ea9-1adc9aa115b0:"x" dep_34c983c9-d644-46cf-a5e4-505aa7d46787:"x" dep_36fcd153-c230-4a9b-935d-ec697eef4d46:"x" dep_9b7d894b-2183-4769-801f-5a5f07910f4f:"x" dep_a267ab9f-4112-45f3-84e0-58046f9398f8:"x" dep_ae3ecc15-be11-4a11-b3d2-3525978296ae:"x" dep_b2c73170-f9f6-48fc-a9a7-dba47edc45e1:"x" dep_c320b784-63b0-4535-839f-bd07c51a8439:"x" dep_c8fb3287-2b57-4a23-8e4d-d3da4ff799fe:"x" depends:"2092d1ec-72b8-4b35-8e6a-f5fdcb544f4f,25a29138-9b39-4aed-8ea9-1adc9aa115b0,34c983c9-d644-46cf-a5e4-505aa7d46787,36fcd153-c230-4a9b-935d-ec697eef4d46,9b7d894b-2183-4769-801f-5a5f07910f4f,a267ab9f-4112-45f3-84e0-58046f9398f8,ae3ecc15-be11-4a11-b3d2-3525978296ae,b2c73170-f9f6-48fc-a9a7-dba47edc45e1,c320b784-63b0-4535-839f-bd07c51a8439,c8fb3287-2b57-4a23-8e4d-d3da4ff799fe" description:"create FRITES prez" end:"1758033801" entry:"1758024113" modified:"1758033801" priority:"H" project:"FRITES" status:"completed" uuid:"59a0e31f-8518-4ff9-a01d-1241ad32b256"]
+---
+time 1758034051
+old [description:"respond to email" due:"1757973600" entry:"1758024817" modified:"1758024817" status:"pending" uuid:"3d27c76d-d62b-4203-88ae-36d5b6be8392"]
+new [description:"respond to email" due:"1757973600" end:"1758034051" entry:"1758024817" modified:"1758034051" status:"completed" uuid:"3d27c76d-d62b-4203-88ae-36d5b6be8392"]
+---
