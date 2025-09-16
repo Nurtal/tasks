@@ -1,4 +1,4 @@
 [description:"buy milk" entry:"1758013887" modified:"1758013887" status:"pending" uuid:"bb9fe5a1-2d15-407b-aead-95be3ba4910c"]
 [description:"bake cake" entry:"1758013900" modified:"1758013900" status:"pending" uuid:"e8d23843-106c-4ce0-bd41-472d8514f38a"]
 [description:"Pay bills" entry:"1758014051" modified:"1758014051" priority:"H" status:"pending" uuid:"41f00a4b-ee54-4f0e-bc04-f86d656235e7"]
-[description:"play lotro" entry:"1758019509" modified:"1758019509" priority:"H" status:"pending" uuid:"6aa60c32-7f38-46b7-9230-357106c1c62a"]
+[description:"play lotro" end:"1758023149" entry:"1758019509" modified:"1758023149" priority:"H" status:"completed" uuid:"6aa60c32-7f38-46b7-9230-357106c1c62a"]

@@ -17,3 +17,7 @@ new [description:"buy eggs" end:"1758014079" entry:"1758013892" modified:"175801
 time 1758019509
 new [description:"play lotro" entry:"1758019509" modified:"1758019509" priority:"H" status:"pending" uuid:"6aa60c32-7f38-46b7-9230-357106c1c62a"]
 ---
+time 1758023149
+old [description:"play lotro" entry:"1758019509" modified:"1758019509" priority:"H" status:"pending" uuid:"6aa60c32-7f38-46b7-9230-357106c1c62a"]
+new [description:"play lotro" end:"1758023149" entry:"1758019509" modified:"1758023149" priority:"H" status:"completed" uuid:"6aa60c32-7f38-46b7-9230-357106c1c62a"]
+---
