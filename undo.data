@@ -321,3 +321,20 @@ time 1758112559
 old [description:"check Patrice script" entry:"1758024036" modified:"1758024036" status:"pending" uuid:"23ebc0ba-3c7c-4173-b026-0ec14e2bf3f6"]
 new [description:"check Patrice script" due:"1758232800" entry:"1758024036" modified:"1758112559" status:"pending" uuid:"23ebc0ba-3c7c-4173-b026-0ec14e2bf3f6"]
 ---
+time 1758116175
+old [description:"update data" entry:"1758024777" modified:"1758024777" project:"DwarfCoin" status:"pending" uuid:"9048a3c2-e1e5-4e73-b58e-c068121a39e8"]
+new [description:"update data" end:"1758116175" entry:"1758024777" modified:"1758116175" project:"DwarfCoin" status:"completed" uuid:"9048a3c2-e1e5-4e73-b58e-c068121a39e8"]
+---
+time 1758116258
+new [description:"find benchmark single cell rnaseq" entry:"1758116258" modified:"1758116258" project:"FREQ" status:"pending" uuid:"74924540-3b21-4b0a-8b33-0e8228a40da7"]
+---
+time 1758116330
+new [description:"find benchmark spatial trancriptomique" entry:"1758116330" modified:"1758116330" project:"FREQ" status:"pending" uuid:"48a5dd3f-c3d4-4a23-9322-ca893f8d974f"]
+---
+time 1758127165
+new [description:"call Lemay" entry:"1758127165" modified:"1758127165" project:"PDS-51" status:"pending" uuid:"73ab8c5e-8151-40a1-8100-14e9ec2b50b6"]
+---
+time 1758127179
+old [description:"reponse mail" due:"1758146400" entry:"1758112272" modified:"1758112520" project:"PDS-51" status:"pending" uuid:"b1ebb95f-5458-4ccf-ba6e-da8fb07737f0"]
+new [description:"reponse mail" due:"1758146400" end:"1758127179" entry:"1758112272" modified:"1758127179" project:"PDS-51" status:"completed" uuid:"b1ebb95f-5458-4ccf-ba6e-da8fb07737f0"]
+---

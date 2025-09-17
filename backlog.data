@@ -87,3 +87,8 @@
 {"description":"reponse mail","entry":"20250917T123112Z","modified":"20250917T123112Z","project":"PDS-51","status":"pending","uuid":"b1ebb95f-5458-4ccf-ba6e-da8fb07737f0"}
 {"description":"reponse mail","due":"20250917T220000Z","entry":"20250917T123112Z","modified":"20250917T123520Z","project":"PDS-51","status":"pending","uuid":"b1ebb95f-5458-4ccf-ba6e-da8fb07737f0"}
 {"description":"check Patrice script","due":"20250918T220000Z","entry":"20250916T120036Z","modified":"20250917T123559Z","status":"pending","uuid":"23ebc0ba-3c7c-4173-b026-0ec14e2bf3f6"}
+{"description":"update data","end":"20250917T133615Z","entry":"20250916T121257Z","modified":"20250917T133615Z","project":"DwarfCoin","status":"completed","uuid":"9048a3c2-e1e5-4e73-b58e-c068121a39e8"}
+{"description":"find benchmark single cell rnaseq","entry":"20250917T133738Z","modified":"20250917T133738Z","project":"FREQ","status":"pending","uuid":"74924540-3b21-4b0a-8b33-0e8228a40da7"}
+{"description":"find benchmark spatial trancriptomique","entry":"20250917T133850Z","modified":"20250917T133850Z","project":"FREQ","status":"pending","uuid":"48a5dd3f-c3d4-4a23-9322-ca893f8d974f"}
+{"description":"call Lemay","entry":"20250917T163925Z","modified":"20250917T163925Z","project":"PDS-51","status":"pending","uuid":"73ab8c5e-8151-40a1-8100-14e9ec2b50b6"}
+{"description":"reponse mail","due":"20250917T220000Z","end":"20250917T163939Z","entry":"20250917T123112Z","modified":"20250917T163939Z","project":"PDS-51","status":"completed","uuid":"b1ebb95f-5458-4ccf-ba6e-da8fb07737f0"}
