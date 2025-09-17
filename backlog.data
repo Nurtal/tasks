@@ -81,3 +81,9 @@
 {"description":"contact HDH for visio","due":"20250916T220000Z","end":"20250917T084637Z","entry":"20250917T062205Z","modified":"20250917T084637Z","priority":"H","project":"FRITES","status":"completed","uuid":"c93bb2a3-b4dd-4372-a39d-449982956a06"}
 {"description":"renvoyer doc urgence Maelle","entry":"20250917T084806Z","modified":"20250917T084806Z","project":"PDS-485","status":"pending","uuid":"fd6906e2-1507-45a0-9275-5eec59df7317"}
 {"description":"run procedure remboursement","due":"20250916T220000Z","end":"20250917T090058Z","entry":"20250917T063051Z","modified":"20250917T090058Z","project":"DwarfCoin","status":"completed","uuid":"495238a8-fb0b-4301-ad85-f19bdf473f94"}
+{"description":"init paper idea","entry":"20250917T113443Z","modified":"20250917T113443Z","project":"FREQ","status":"pending","uuid":"0944a5b8-e5e0-4485-bf99-895042bd1d8f"}
+{"description":"write paper","entry":"20250917T121554Z","modified":"20250917T121554Z","project":"FREQ","status":"pending","uuid":"3bfd687d-3451-49d8-b4b6-bddfd7087a6f"}
+{"description":"init paper idea","end":"20250917T121711Z","entry":"20250917T113443Z","modified":"20250917T121711Z","project":"FREQ","status":"completed","uuid":"0944a5b8-e5e0-4485-bf99-895042bd1d8f"}
+{"description":"reponse mail","entry":"20250917T123112Z","modified":"20250917T123112Z","project":"PDS-51","status":"pending","uuid":"b1ebb95f-5458-4ccf-ba6e-da8fb07737f0"}
+{"description":"reponse mail","due":"20250917T220000Z","entry":"20250917T123112Z","modified":"20250917T123520Z","project":"PDS-51","status":"pending","uuid":"b1ebb95f-5458-4ccf-ba6e-da8fb07737f0"}
+{"description":"check Patrice script","due":"20250918T220000Z","entry":"20250916T120036Z","modified":"20250917T123559Z","status":"pending","uuid":"23ebc0ba-3c7c-4173-b026-0ec14e2bf3f6"}

@@ -300,3 +300,24 @@ time 1758099658
 old [description:"run procedure remboursement" due:"1758060000" entry:"1758090651" modified:"1758090651" project:"DwarfCoin" status:"pending" uuid:"495238a8-fb0b-4301-ad85-f19bdf473f94"]
 new [description:"run procedure remboursement" due:"1758060000" end:"1758099658" entry:"1758090651" modified:"1758099658" project:"DwarfCoin" status:"completed" uuid:"495238a8-fb0b-4301-ad85-f19bdf473f94"]
 ---
+time 1758108883
+new [description:"init paper idea" entry:"1758108883" modified:"1758108883" project:"FREQ" status:"pending" uuid:"0944a5b8-e5e0-4485-bf99-895042bd1d8f"]
+---
+time 1758111354
+new [description:"write paper" entry:"1758111354" modified:"1758111354" project:"FREQ" status:"pending" uuid:"3bfd687d-3451-49d8-b4b6-bddfd7087a6f"]
+---
+time 1758111431
+old [description:"init paper idea" entry:"1758108883" modified:"1758108883" project:"FREQ" status:"pending" uuid:"0944a5b8-e5e0-4485-bf99-895042bd1d8f"]
+new [description:"init paper idea" end:"1758111431" entry:"1758108883" modified:"1758111431" project:"FREQ" status:"completed" uuid:"0944a5b8-e5e0-4485-bf99-895042bd1d8f"]
+---
+time 1758112272
+new [description:"reponse mail" entry:"1758112272" modified:"1758112272" project:"PDS-51" status:"pending" uuid:"b1ebb95f-5458-4ccf-ba6e-da8fb07737f0"]
+---
+time 1758112520
+old [description:"reponse mail" entry:"1758112272" modified:"1758112272" project:"PDS-51" status:"pending" uuid:"b1ebb95f-5458-4ccf-ba6e-da8fb07737f0"]
+new [description:"reponse mail" due:"1758146400" entry:"1758112272" modified:"1758112520" project:"PDS-51" status:"pending" uuid:"b1ebb95f-5458-4ccf-ba6e-da8fb07737f0"]
+---
+time 1758112559
+old [description:"check Patrice script" entry:"1758024036" modified:"1758024036" status:"pending" uuid:"23ebc0ba-3c7c-4173-b026-0ec14e2bf3f6"]
+new [description:"check Patrice script" due:"1758232800" entry:"1758024036" modified:"1758112559" status:"pending" uuid:"23ebc0ba-3c7c-4173-b026-0ec14e2bf3f6"]
+---
