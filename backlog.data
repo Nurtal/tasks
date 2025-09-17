@@ -80,3 +80,4 @@
 {"description":"contact Thomas for Paris","due":"20250916T220000Z","end":"20250917T084109Z","entry":"20250917T062259Z","modified":"20250917T084109Z","priority":"H","status":"completed","uuid":"79e94132-5030-471e-962b-5e32899c76db"}
 {"description":"contact HDH for visio","due":"20250916T220000Z","end":"20250917T084637Z","entry":"20250917T062205Z","modified":"20250917T084637Z","priority":"H","project":"FRITES","status":"completed","uuid":"c93bb2a3-b4dd-4372-a39d-449982956a06"}
 {"description":"renvoyer doc urgence Maelle","entry":"20250917T084806Z","modified":"20250917T084806Z","project":"PDS-485","status":"pending","uuid":"fd6906e2-1507-45a0-9275-5eec59df7317"}
+{"description":"run procedure remboursement","due":"20250916T220000Z","end":"20250917T090058Z","entry":"20250917T063051Z","modified":"20250917T090058Z","project":"DwarfCoin","status":"completed","uuid":"495238a8-fb0b-4301-ad85-f19bdf473f94"}

@@ -296,3 +296,7 @@ new [description:"contact HDH for visio" due:"1758060000" end:"1758098797" entry
 time 1758098886
 new [description:"renvoyer doc urgence Maelle" entry:"1758098886" modified:"1758098886" project:"PDS-485" status:"pending" uuid:"fd6906e2-1507-45a0-9275-5eec59df7317"]
 ---
+time 1758099658
+old [description:"run procedure remboursement" due:"1758060000" entry:"1758090651" modified:"1758090651" project:"DwarfCoin" status:"pending" uuid:"495238a8-fb0b-4301-ad85-f19bdf473f94"]
+new [description:"run procedure remboursement" due:"1758060000" end:"1758099658" entry:"1758090651" modified:"1758099658" project:"DwarfCoin" status:"completed" uuid:"495238a8-fb0b-4301-ad85-f19bdf473f94"]
+---
