@@ -266,3 +266,33 @@ time 1758034051
 old [description:"respond to email" due:"1757973600" entry:"1758024817" modified:"1758024817" status:"pending" uuid:"3d27c76d-d62b-4203-88ae-36d5b6be8392"]
 new [description:"respond to email" due:"1757973600" end:"1758034051" entry:"1758024817" modified:"1758034051" status:"completed" uuid:"3d27c76d-d62b-4203-88ae-36d5b6be8392"]
 ---
+time 1758090125
+new [description:"contact HDH for visio" due:"1758060000" entry:"1758090125" modified:"1758090125" priority:"H" project:"FRITES" status:"pending" uuid:"c93bb2a3-b4dd-4372-a39d-449982956a06"]
+---
+time 1758090179
+new [description:"contact Thomas for Paris" due:"1758060000" entry:"1758090179" modified:"1758090179" priority:"H" status:"pending" uuid:"79e94132-5030-471e-962b-5e32899c76db"]
+---
+time 1758090280
+new [description:"separate compte bank" entry:"1758090280" modified:"1758090280" project:"DwarfCoin" status:"pending" uuid:"a88805c4-e150-465f-a3cf-f463e09f7692"]
+---
+time 1758090324
+new [description:"identify vital depense" entry:"1758090324" modified:"1758090324" project:"DwarfCoin" status:"pending" uuid:"2d21454d-ac6e-45da-9951-124d6fddf67a"]
+---
+time 1758090352
+old [description:"separate compte bank" entry:"1758090280" modified:"1758090280" project:"DwarfCoin" status:"pending" uuid:"a88805c4-e150-465f-a3cf-f463e09f7692"]
+new [dep_2d21454d-ac6e-45da-9951-124d6fddf67a:"x" depends:"2d21454d-ac6e-45da-9951-124d6fddf67a" description:"separate compte bank" entry:"1758090280" modified:"1758090352" project:"DwarfCoin" status:"pending" uuid:"a88805c4-e150-465f-a3cf-f463e09f7692"]
+---
+time 1758090651
+new [description:"run procedure remboursement" due:"1758060000" entry:"1758090651" modified:"1758090651" project:"DwarfCoin" status:"pending" uuid:"495238a8-fb0b-4301-ad85-f19bdf473f94"]
+---
+time 1758098469
+old [description:"contact Thomas for Paris" due:"1758060000" entry:"1758090179" modified:"1758090179" priority:"H" status:"pending" uuid:"79e94132-5030-471e-962b-5e32899c76db"]
+new [description:"contact Thomas for Paris" due:"1758060000" end:"1758098469" entry:"1758090179" modified:"1758098469" priority:"H" status:"completed" uuid:"79e94132-5030-471e-962b-5e32899c76db"]
+---
+time 1758098797
+old [description:"contact HDH for visio" due:"1758060000" entry:"1758090125" modified:"1758090125" priority:"H" project:"FRITES" status:"pending" uuid:"c93bb2a3-b4dd-4372-a39d-449982956a06"]
+new [description:"contact HDH for visio" due:"1758060000" end:"1758098797" entry:"1758090125" modified:"1758098797" priority:"H" project:"FRITES" status:"completed" uuid:"c93bb2a3-b4dd-4372-a39d-449982956a06"]
+---
+time 1758098886
+new [description:"renvoyer doc urgence Maelle" entry:"1758098886" modified:"1758098886" project:"PDS-485" status:"pending" uuid:"fd6906e2-1507-45a0-9275-5eec59df7317"]
+---
