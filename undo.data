@@ -338,3 +338,11 @@ time 1758127179
 old [description:"reponse mail" due:"1758146400" entry:"1758112272" modified:"1758112520" project:"PDS-51" status:"pending" uuid:"b1ebb95f-5458-4ccf-ba6e-da8fb07737f0"]
 new [description:"reponse mail" due:"1758146400" end:"1758127179" entry:"1758112272" modified:"1758127179" project:"PDS-51" status:"completed" uuid:"b1ebb95f-5458-4ccf-ba6e-da8fb07737f0"]
 ---
+time 1758207969
+old [dep_59a0e31f-8518-4ff9-a01d-1241ad32b256:"x" depends:"59a0e31f-8518-4ff9-a01d-1241ad32b256" description:"send presentation FRITES" due:"1758146400" entry:"1758024069" modified:"1758024428" priority:"H" project:"FRITES" status:"pending" uuid:"d1022230-a12d-4dce-a973-f026e2f71be9"]
+new [dep_59a0e31f-8518-4ff9-a01d-1241ad32b256:"x" depends:"59a0e31f-8518-4ff9-a01d-1241ad32b256" description:"send presentation FRITES" due:"1758146400" end:"1758207969" entry:"1758024069" modified:"1758207969" priority:"H" project:"FRITES" status:"completed" uuid:"d1022230-a12d-4dce-a973-f026e2f71be9"]
+---
+time 1758207980
+old [dep_59a0e31f-8518-4ff9-a01d-1241ad32b256:"x" depends:"59a0e31f-8518-4ff9-a01d-1241ad32b256" description:"repeat project presentation" due:"1758146400" entry:"1758025310" modified:"1758025494" project:"FRITES" status:"pending" uuid:"af561f43-8304-41fe-9a72-ceaf934ec308"]
+new [dep_59a0e31f-8518-4ff9-a01d-1241ad32b256:"x" depends:"59a0e31f-8518-4ff9-a01d-1241ad32b256" description:"repeat project presentation" due:"1758146400" end:"1758207980" entry:"1758025310" modified:"1758207980" project:"FRITES" status:"completed" uuid:"af561f43-8304-41fe-9a72-ceaf934ec308"]
+---

@@ -1,8 +1,6 @@
 [description:"update picc paper" entry:"1758023808" modified:"1758023808" priority:"H" project:"PICC" status:"pending" uuid:"84b5bfc0-bdd3-4431-acbe-fb83d804b3f7"]
 [description:"run hyperparmaeters dspy" entry:"1758023925" modified:"1758023925" project:"ARS-AMI" status:"pending" uuid:"08fa1c8b-6ab5-40b3-8394-cce0c55fc4ad"]
 [description:"check Patrice script" due:"1758232800" entry:"1758024036" modified:"1758112559" status:"pending" uuid:"23ebc0ba-3c7c-4173-b026-0ec14e2bf3f6"]
-[dep_59a0e31f-8518-4ff9-a01d-1241ad32b256:"x" depends:"59a0e31f-8518-4ff9-a01d-1241ad32b256" description:"send presentation FRITES" due:"1758146400" entry:"1758024069" modified:"1758024428" priority:"H" project:"FRITES" status:"pending" uuid:"d1022230-a12d-4dce-a973-f026e2f71be9"]
-[dep_59a0e31f-8518-4ff9-a01d-1241ad32b256:"x" depends:"59a0e31f-8518-4ff9-a01d-1241ad32b256" description:"repeat project presentation" due:"1758146400" entry:"1758025310" modified:"1758025494" project:"FRITES" status:"pending" uuid:"af561f43-8304-41fe-9a72-ceaf934ec308"]
 [dep_2d21454d-ac6e-45da-9951-124d6fddf67a:"x" depends:"2d21454d-ac6e-45da-9951-124d6fddf67a" description:"separate compte bank" entry:"1758090280" modified:"1758090352" project:"DwarfCoin" status:"pending" uuid:"a88805c4-e150-465f-a3cf-f463e09f7692"]
 [description:"identify vital depense" entry:"1758090324" modified:"1758090324" project:"DwarfCoin" status:"pending" uuid:"2d21454d-ac6e-45da-9951-124d6fddf67a"]
 [description:"renvoyer doc urgence Maelle" entry:"1758098886" modified:"1758098886" project:"PDS-485" status:"pending" uuid:"fd6906e2-1507-45a0-9275-5eec59df7317"]

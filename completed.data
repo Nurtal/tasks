@@ -1,3 +1,5 @@
+[dep_59a0e31f-8518-4ff9-a01d-1241ad32b256:"x" depends:"59a0e31f-8518-4ff9-a01d-1241ad32b256" description:"repeat project presentation" due:"1758146400" end:"1758207980" entry:"1758025310" modified:"1758207980" project:"FRITES" status:"completed" uuid:"af561f43-8304-41fe-9a72-ceaf934ec308"]
+[dep_59a0e31f-8518-4ff9-a01d-1241ad32b256:"x" depends:"59a0e31f-8518-4ff9-a01d-1241ad32b256" description:"send presentation FRITES" due:"1758146400" end:"1758207969" entry:"1758024069" modified:"1758207969" priority:"H" project:"FRITES" status:"completed" uuid:"d1022230-a12d-4dce-a973-f026e2f71be9"]
 [description:"reponse mail" due:"1758146400" end:"1758127179" entry:"1758112272" modified:"1758127179" project:"PDS-51" status:"completed" uuid:"b1ebb95f-5458-4ccf-ba6e-da8fb07737f0"]
 [description:"update data" end:"1758116175" entry:"1758024777" modified:"1758116175" project:"DwarfCoin" status:"completed" uuid:"9048a3c2-e1e5-4e73-b58e-c068121a39e8"]
 [description:"init paper idea" end:"1758111431" entry:"1758108883" modified:"1758111431" project:"FREQ" status:"completed" uuid:"0944a5b8-e5e0-4485-bf99-895042bd1d8f"]
