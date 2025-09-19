@@ -105,3 +105,4 @@
 {"description":"generate quality graph Chip","entry":"20250919T142926Z","modified":"20250919T142926Z","project":"FOXTECH","status":"pending","uuid":"28a01f12-8065-4a53-9436-c2ee9cb0e26f"}
 {"description":"extract quality metrics Chip","entry":"20250919T142944Z","modified":"20250919T142944Z","project":"FOXTECH","status":"pending","uuid":"a9946f84-b1ba-4b6b-a06f-466b8e0156f0"}
 {"description":"vibe code exemple pipeline for ChipAn","end":"20250919T143001Z","entry":"20250919T123614Z","modified":"20250919T143001Z","project":"FOXTECH","status":"completed","uuid":"20813278-acfb-4be8-9f94-2768510facc9"}
+{"description":"call Lemay","end":"20250919T145234Z","entry":"20250917T163925Z","modified":"20250919T145234Z","project":"PDS-51","status":"completed","uuid":"73ab8c5e-8151-40a1-8100-14e9ec2b50b6"}
