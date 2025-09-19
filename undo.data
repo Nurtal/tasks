@@ -346,3 +346,40 @@ time 1758207980
 old [dep_59a0e31f-8518-4ff9-a01d-1241ad32b256:"x" depends:"59a0e31f-8518-4ff9-a01d-1241ad32b256" description:"repeat project presentation" due:"1758146400" entry:"1758025310" modified:"1758025494" project:"FRITES" status:"pending" uuid:"af561f43-8304-41fe-9a72-ceaf934ec308"]
 new [dep_59a0e31f-8518-4ff9-a01d-1241ad32b256:"x" depends:"59a0e31f-8518-4ff9-a01d-1241ad32b256" description:"repeat project presentation" due:"1758146400" end:"1758207980" entry:"1758025310" modified:"1758207980" project:"FRITES" status:"completed" uuid:"af561f43-8304-41fe-9a72-ceaf934ec308"]
 ---
+time 1758284713
+old [description:"update picc paper" entry:"1758023808" modified:"1758023808" priority:"H" project:"PICC" status:"pending" uuid:"84b5bfc0-bdd3-4431-acbe-fb83d804b3f7"]
+new [description:"update picc paper" due:"1758751200" entry:"1758023808" modified:"1758284713" priority:"H" project:"PICC" status:"pending" uuid:"84b5bfc0-bdd3-4431-acbe-fb83d804b3f7"]
+---
+time 1758285150
+new [description:"create repo project" due:"1758751200" entry:"1758285150" modified:"1758285150" project:"PICVERT" status:"pending" uuid:"8aad7e6e-5d94-4a11-8197-bad30e3fd037"]
+---
+time 1758285165
+new [description:"centralise doc" due:"1758751200" entry:"1758285165" modified:"1758285165" project:"PICVERT" status:"pending" uuid:"7d8056f4-e356-412f-8b34-264638d93c23"]
+---
+time 1758285169
+new [description:"centralise data" due:"1758751200" entry:"1758285169" modified:"1758285169" project:"PICVERT" status:"pending" uuid:"5ba817ba-6466-4c3a-b484-069e9eaa6bf7"]
+---
+time 1758285311
+new [description:"get Yolo badge on github" entry:"1758285311" modified:"1758285311" priority:"L" project:"FUN" status:"pending" uuid:"557c1a7a-e457-4bb3-89e9-83b92b240b8e"]
+---
+time 1758285374
+new [description:"vibe code exemple pipeline for ChipAn" entry:"1758285374" modified:"1758285374" project:"FOXTECH" status:"pending" uuid:"20813278-acfb-4be8-9f94-2768510facc9"]
+---
+time 1758286582
+old [description:"check Patrice script" due:"1758232800" entry:"1758024036" modified:"1758112559" status:"pending" uuid:"23ebc0ba-3c7c-4173-b026-0ec14e2bf3f6"]
+new [description:"check Patrice script" due:"1758232800" end:"1758286582" entry:"1758024036" modified:"1758286582" status:"completed" uuid:"23ebc0ba-3c7c-4173-b026-0ec14e2bf3f6"]
+---
+time 1758287306
+old [description:"vibe code exemple pipeline for ChipAn" entry:"1758285374" modified:"1758285374" project:"FOXTECH" status:"pending" uuid:"20813278-acfb-4be8-9f94-2768510facc9"]
+new [description:"vibe code exemple pipeline for ChipAn" entry:"1758285374" modified:"1758287306" project:"FOXTECH" start:"1758287306" status:"pending" uuid:"20813278-acfb-4be8-9f94-2768510facc9"]
+---
+time 1758292166
+new [description:"generate quality graph Chip" entry:"1758292166" modified:"1758292166" project:"FOXTECH" status:"pending" uuid:"28a01f12-8065-4a53-9436-c2ee9cb0e26f"]
+---
+time 1758292184
+new [description:"extract quality metrics Chip" entry:"1758292184" modified:"1758292184" project:"FOXTECH" status:"pending" uuid:"a9946f84-b1ba-4b6b-a06f-466b8e0156f0"]
+---
+time 1758292201
+old [description:"vibe code exemple pipeline for ChipAn" entry:"1758285374" modified:"1758287306" project:"FOXTECH" start:"1758287306" status:"pending" uuid:"20813278-acfb-4be8-9f94-2768510facc9"]
+new [description:"vibe code exemple pipeline for ChipAn" end:"1758292201" entry:"1758285374" modified:"1758292201" project:"FOXTECH" status:"completed" uuid:"20813278-acfb-4be8-9f94-2768510facc9"]
+---
