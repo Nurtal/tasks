@@ -109,3 +109,5 @@
 {"description":"init repo scaterring vision","entry":"20250920T062411Z","modified":"20250920T062411Z","project":"FOXTECH","status":"pending","uuid":"409e070e-8762-4087-8b05-152d7f5712bd"}
 {"description":"init project single cell qual asess in rust","entry":"20250920T062458Z","modified":"20250920T062458Z","project":"FASTERQC","status":"pending","uuid":"0a97d848-4ce9-474e-b51d-624fa6146416"}
 {"description":"init project berger game in godot","entry":"20250920T062545Z","modified":"20250920T062545Z","project":"BERGER","status":"pending","uuid":"81c3664b-14d1-4298-8a10-857f3d2ae904"}
+{"description":"get Yolo badge on github","end":"20250920T074526Z","entry":"20250919T123511Z","modified":"20250920T074526Z","priority":"L","project":"FUN","status":"completed","uuid":"557c1a7a-e457-4bb3-89e9-83b92b240b8e"}
+{"description":"update image of github profile","entry":"20250920T074554Z","modified":"20250920T074554Z","project":"FUN","status":"pending","uuid":"7c40fc22-df81-4f96-99be-06da86ab1291"}
