@@ -106,3 +106,6 @@
 {"description":"extract quality metrics Chip","entry":"20250919T142944Z","modified":"20250919T142944Z","project":"FOXTECH","status":"pending","uuid":"a9946f84-b1ba-4b6b-a06f-466b8e0156f0"}
 {"description":"vibe code exemple pipeline for ChipAn","end":"20250919T143001Z","entry":"20250919T123614Z","modified":"20250919T143001Z","project":"FOXTECH","status":"completed","uuid":"20813278-acfb-4be8-9f94-2768510facc9"}
 {"description":"call Lemay","end":"20250919T145234Z","entry":"20250917T163925Z","modified":"20250919T145234Z","project":"PDS-51","status":"completed","uuid":"73ab8c5e-8151-40a1-8100-14e9ec2b50b6"}
+{"description":"init repo scaterring vision","entry":"20250920T062411Z","modified":"20250920T062411Z","project":"FOXTECH","status":"pending","uuid":"409e070e-8762-4087-8b05-152d7f5712bd"}
+{"description":"init project single cell qual asess in rust","entry":"20250920T062458Z","modified":"20250920T062458Z","project":"FASTERQC","status":"pending","uuid":"0a97d848-4ce9-474e-b51d-624fa6146416"}
+{"description":"init project berger game in godot","entry":"20250920T062545Z","modified":"20250920T062545Z","project":"BERGER","status":"pending","uuid":"81c3664b-14d1-4298-8a10-857f3d2ae904"}
