@@ -113,3 +113,6 @@
 {"description":"update image of github profile","entry":"20250920T074554Z","modified":"20250920T074554Z","project":"FUN","status":"pending","uuid":"7c40fc22-df81-4f96-99be-06da86ab1291"}
 {"description":"extract quality metrics Chip","end":"20250920T110147Z","entry":"20250919T142944Z","modified":"20250920T110147Z","project":"FOXTECH","status":"completed","uuid":"a9946f84-b1ba-4b6b-a06f-466b8e0156f0"}
 {"description":"create a splashcreen","entry":"20250920T110201Z","modified":"20250920T110201Z","project":"FUN","status":"pending","uuid":"674f14fb-d8ef-406f-84f0-7a9b86485951"}
+{"description":"update picc paper","due":"20250924T220000Z","entry":"20250916T115648Z","modified":"20250920T144648Z","priority":"H","project":"PICC","start":"20250920T144648Z","status":"pending","uuid":"84b5bfc0-bdd3-4431-acbe-fb83d804b3f7"}
+{"description":"update picc paper","due":"20250924T220000Z","end":"20250920T151227Z","entry":"20250916T115648Z","modified":"20250920T151227Z","priority":"H","project":"PICC","status":"completed","uuid":"84b5bfc0-bdd3-4431-acbe-fb83d804b3f7"}
+{"description":"send mail Bene modif discussion","due":"20250922T220000Z","entry":"20250920T151306Z","modified":"20250920T151306Z","project":"PICC","status":"pending","uuid":"db7eaa33-d74b-4540-ae1d-1ebeeae22717"}

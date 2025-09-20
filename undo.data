@@ -410,3 +410,14 @@ new [description:"extract quality metrics Chip" end:"1758366107" entry:"17582921
 time 1758366121
 new [description:"create a splashcreen" entry:"1758366121" modified:"1758366121" project:"FUN" status:"pending" uuid:"674f14fb-d8ef-406f-84f0-7a9b86485951"]
 ---
+time 1758379608
+old [description:"update picc paper" due:"1758751200" entry:"1758023808" modified:"1758284713" priority:"H" project:"PICC" status:"pending" uuid:"84b5bfc0-bdd3-4431-acbe-fb83d804b3f7"]
+new [description:"update picc paper" due:"1758751200" entry:"1758023808" modified:"1758379608" priority:"H" project:"PICC" start:"1758379608" status:"pending" uuid:"84b5bfc0-bdd3-4431-acbe-fb83d804b3f7"]
+---
+time 1758381147
+old [description:"update picc paper" due:"1758751200" entry:"1758023808" modified:"1758379608" priority:"H" project:"PICC" start:"1758379608" status:"pending" uuid:"84b5bfc0-bdd3-4431-acbe-fb83d804b3f7"]
+new [description:"update picc paper" due:"1758751200" end:"1758381147" entry:"1758023808" modified:"1758381147" priority:"H" project:"PICC" status:"completed" uuid:"84b5bfc0-bdd3-4431-acbe-fb83d804b3f7"]
+---
+time 1758381186
+new [description:"send mail Bene modif discussion" due:"1758578400" entry:"1758381186" modified:"1758381186" project:"PICC" status:"pending" uuid:"db7eaa33-d74b-4540-ae1d-1ebeeae22717"]
+---

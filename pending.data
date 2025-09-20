@@ -1,4 +1,3 @@
-[description:"update picc paper" due:"1758751200" entry:"1758023808" modified:"1758284713" priority:"H" project:"PICC" status:"pending" uuid:"84b5bfc0-bdd3-4431-acbe-fb83d804b3f7"]
 [description:"run hyperparmaeters dspy" entry:"1758023925" modified:"1758023925" project:"ARS-AMI" status:"pending" uuid:"08fa1c8b-6ab5-40b3-8394-cce0c55fc4ad"]
 [dep_2d21454d-ac6e-45da-9951-124d6fddf67a:"x" depends:"2d21454d-ac6e-45da-9951-124d6fddf67a" description:"separate compte bank" entry:"1758090280" modified:"1758090352" project:"DwarfCoin" status:"pending" uuid:"a88805c4-e150-465f-a3cf-f463e09f7692"]
 [description:"identify vital depense" entry:"1758090324" modified:"1758090324" project:"DwarfCoin" status:"pending" uuid:"2d21454d-ac6e-45da-9951-124d6fddf67a"]
@@ -15,3 +14,4 @@
 [description:"init project berger game in godot" entry:"1758349545" modified:"1758349545" project:"BERGER" status:"pending" uuid:"81c3664b-14d1-4298-8a10-857f3d2ae904"]
 [description:"update image of github profile" entry:"1758354354" modified:"1758354354" project:"FUN" status:"pending" uuid:"7c40fc22-df81-4f96-99be-06da86ab1291"]
 [description:"create a splashcreen" entry:"1758366121" modified:"1758366121" project:"FUN" status:"pending" uuid:"674f14fb-d8ef-406f-84f0-7a9b86485951"]
+[description:"send mail Bene modif discussion" due:"1758578400" entry:"1758381186" modified:"1758381186" project:"PICC" status:"pending" uuid:"db7eaa33-d74b-4540-ae1d-1ebeeae22717"]
