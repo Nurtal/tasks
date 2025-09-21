@@ -1,3 +1,4 @@
+[description:"init project single cell qual asess in rust" end:"1758410707" entry:"1758349498" modified:"1758410707" project:"FASTERQC" status:"completed" uuid:"0a97d848-4ce9-474e-b51d-624fa6146416"]
 [description:"update picc paper" due:"1758751200" end:"1758381147" entry:"1758023808" modified:"1758381147" priority:"H" project:"PICC" status:"completed" uuid:"84b5bfc0-bdd3-4431-acbe-fb83d804b3f7"]
 [description:"extract quality metrics Chip" end:"1758366107" entry:"1758292184" modified:"1758366107" project:"FOXTECH" status:"completed" uuid:"a9946f84-b1ba-4b6b-a06f-466b8e0156f0"]
 [description:"get Yolo badge on github" end:"1758354326" entry:"1758285311" modified:"1758354326" priority:"L" project:"FUN" status:"completed" uuid:"557c1a7a-e457-4bb3-89e9-83b92b240b8e"]

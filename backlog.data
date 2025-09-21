@@ -116,3 +116,8 @@
 {"description":"update picc paper","due":"20250924T220000Z","entry":"20250916T115648Z","modified":"20250920T144648Z","priority":"H","project":"PICC","start":"20250920T144648Z","status":"pending","uuid":"84b5bfc0-bdd3-4431-acbe-fb83d804b3f7"}
 {"description":"update picc paper","due":"20250924T220000Z","end":"20250920T151227Z","entry":"20250916T115648Z","modified":"20250920T151227Z","priority":"H","project":"PICC","status":"completed","uuid":"84b5bfc0-bdd3-4431-acbe-fb83d804b3f7"}
 {"description":"send mail Bene modif discussion","due":"20250922T220000Z","entry":"20250920T151306Z","modified":"20250920T151306Z","project":"PICC","status":"pending","uuid":"db7eaa33-d74b-4540-ae1d-1ebeeae22717"}
+{"description":"init project single cell qual asess in rust","end":"20250920T232507Z","entry":"20250920T062458Z","modified":"20250920T232507Z","project":"FASTERQC","status":"completed","uuid":"0a97d848-4ce9-474e-b51d-624fa6146416"}
+{"description":"dl scrna data in rust","entry":"20250920T232534Z","modified":"20250920T232534Z","project":"RUSTYCELL","status":"pending","uuid":"fff9169b-8d48-4379-9e08-5f13a5fe98fd"}
+{"description":"generate quality graph Chip","end":"20250921T104717Z","entry":"20250919T142926Z","modified":"20250921T104717Z","project":"FOXTECH","status":"completed","uuid":"28a01f12-8065-4a53-9436-c2ee9cb0e26f"}
+{"description":"generate nice logo","entry":"20250921T104734Z","modified":"20250921T104734Z","project":"FOXTECH","status":"pending","uuid":"3ef9404c-77a0-4758-8e43-aa39c6968805"}
+{"description":"roadmap ChipAn","entry":"20250921T104827Z","modified":"20250921T104827Z","project":"FOXTECH","status":"pending","uuid":"a28df006-ce2b-4492-9507-ada158133b4e"}

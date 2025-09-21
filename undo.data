@@ -421,3 +421,20 @@ new [description:"update picc paper" due:"1758751200" end:"1758381147" entry:"17
 time 1758381186
 new [description:"send mail Bene modif discussion" due:"1758578400" entry:"1758381186" modified:"1758381186" project:"PICC" status:"pending" uuid:"db7eaa33-d74b-4540-ae1d-1ebeeae22717"]
 ---
+time 1758410707
+old [description:"init project single cell qual asess in rust" entry:"1758349498" modified:"1758349498" project:"FASTERQC" status:"pending" uuid:"0a97d848-4ce9-474e-b51d-624fa6146416"]
+new [description:"init project single cell qual asess in rust" end:"1758410707" entry:"1758349498" modified:"1758410707" project:"FASTERQC" status:"completed" uuid:"0a97d848-4ce9-474e-b51d-624fa6146416"]
+---
+time 1758410734
+new [description:"dl scrna data in rust" entry:"1758410734" modified:"1758410734" project:"RUSTYCELL" status:"pending" uuid:"fff9169b-8d48-4379-9e08-5f13a5fe98fd"]
+---
+time 1758451637
+old [description:"generate quality graph Chip" entry:"1758292166" modified:"1758292166" project:"FOXTECH" status:"pending" uuid:"28a01f12-8065-4a53-9436-c2ee9cb0e26f"]
+new [description:"generate quality graph Chip" end:"1758451637" entry:"1758292166" modified:"1758451637" project:"FOXTECH" status:"completed" uuid:"28a01f12-8065-4a53-9436-c2ee9cb0e26f"]
+---
+time 1758451654
+new [description:"generate nice logo" entry:"1758451654" modified:"1758451654" project:"FOXTECH" status:"pending" uuid:"3ef9404c-77a0-4758-8e43-aa39c6968805"]
+---
+time 1758451707
+new [description:"roadmap ChipAn" entry:"1758451707" modified:"1758451707" project:"FOXTECH" status:"pending" uuid:"a28df006-ce2b-4492-9507-ada158133b4e"]
+---
