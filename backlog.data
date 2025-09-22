@@ -128,3 +128,4 @@
 {"description":"test FLOREN","entry":"20250922T125511Z","modified":"20250922T125511Z","project":"INIGO_PHD","status":"pending","uuid":"ed5ec4d1-33ad-4cc5-a1ed-898033b2c8d0"}
 {"description":"send mail Bene modif discussion","due":"20250922T220000Z","end":"20250922T133342Z","entry":"20250920T151306Z","modified":"20250922T133342Z","project":"PICC","status":"completed","uuid":"db7eaa33-d74b-4540-ae1d-1ebeeae22717"}
 {"description":"create README de FoxTech","entry":"20250922T135633Z","modified":"20250922T135633Z","project":"FOXTECH","status":"pending","uuid":"78dcec77-b890-4a57-82e3-2688254bbeb2"}
+{"description":"craft presentation LBAI","due":"20250924T220000Z","entry":"20250922T141732Z","modified":"20250922T141732Z","status":"pending","uuid":"b7806bbe-969c-4c55-970b-20c5cdeb5183"}

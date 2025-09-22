@@ -460,3 +460,6 @@ new [description:"send mail Bene modif discussion" due:"1758578400" end:"1758548
 time 1758549393
 new [description:"create README de FoxTech" entry:"1758549393" modified:"1758549393" project:"FOXTECH" status:"pending" uuid:"78dcec77-b890-4a57-82e3-2688254bbeb2"]
 ---
+time 1758550652
+new [description:"craft presentation LBAI" due:"1758751200" entry:"1758550652" modified:"1758550652" status:"pending" uuid:"b7806bbe-969c-4c55-970b-20c5cdeb5183"]
+---
