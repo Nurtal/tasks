@@ -121,3 +121,10 @@
 {"description":"generate quality graph Chip","end":"20250921T104717Z","entry":"20250919T142926Z","modified":"20250921T104717Z","project":"FOXTECH","status":"completed","uuid":"28a01f12-8065-4a53-9436-c2ee9cb0e26f"}
 {"description":"generate nice logo","entry":"20250921T104734Z","modified":"20250921T104734Z","project":"FOXTECH","status":"pending","uuid":"3ef9404c-77a0-4758-8e43-aa39c6968805"}
 {"description":"roadmap ChipAn","entry":"20250921T104827Z","modified":"20250921T104827Z","project":"FOXTECH","status":"pending","uuid":"a28df006-ce2b-4492-9507-ada158133b4e"}
+{"description":"contact math","due":"20250924T220000Z","entry":"20250922T062626Z","modified":"20250922T062626Z","priority":"H","project":"HDR","status":"pending","uuid":"c883d295-16d6-4950-92f8-309bea5d2c86"}
+{"description":"demonstrateur viaduc auto select patient","due":"20251020T220000Z","entry":"20250922T114747Z","modified":"20250922T114747Z","priority":"H","project":"VIADUC","status":"pending","uuid":"0922c3f9-cffe-4cce-a9e5-adc401e95c38"}
+{"description":"apply column name change","entry":"20250922T120434Z","modified":"20250922T120434Z","project":"DIAPSS","status":"pending","uuid":"fa7f919d-e47b-462a-852d-64f7c4c0ae33"}
+{"description":"create cohort asset","entry":"20250922T120446Z","modified":"20250922T120446Z","project":"DIAPSS","status":"pending","uuid":"b55a9c86-8bf2-4d2f-8ae3-b37b5428df25"}
+{"description":"test FLOREN","entry":"20250922T125511Z","modified":"20250922T125511Z","project":"INIGO_PHD","status":"pending","uuid":"ed5ec4d1-33ad-4cc5-a1ed-898033b2c8d0"}
+{"description":"send mail Bene modif discussion","due":"20250922T220000Z","end":"20250922T133342Z","entry":"20250920T151306Z","modified":"20250922T133342Z","project":"PICC","status":"completed","uuid":"db7eaa33-d74b-4540-ae1d-1ebeeae22717"}
+{"description":"create README de FoxTech","entry":"20250922T135633Z","modified":"20250922T135633Z","project":"FOXTECH","status":"pending","uuid":"78dcec77-b890-4a57-82e3-2688254bbeb2"}

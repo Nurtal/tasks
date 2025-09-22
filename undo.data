@@ -438,3 +438,25 @@ new [description:"generate nice logo" entry:"1758451654" modified:"1758451654" p
 time 1758451707
 new [description:"roadmap ChipAn" entry:"1758451707" modified:"1758451707" project:"FOXTECH" status:"pending" uuid:"a28df006-ce2b-4492-9507-ada158133b4e"]
 ---
+time 1758522386
+new [description:"contact math" due:"1758751200" entry:"1758522386" modified:"1758522386" priority:"H" project:"HDR" status:"pending" uuid:"c883d295-16d6-4950-92f8-309bea5d2c86"]
+---
+time 1758541667
+new [description:"demonstrateur viaduc auto select patient" due:"1760997600" entry:"1758541667" modified:"1758541667" priority:"H" project:"VIADUC" status:"pending" uuid:"0922c3f9-cffe-4cce-a9e5-adc401e95c38"]
+---
+time 1758542674
+new [description:"apply column name change" entry:"1758542674" modified:"1758542674" project:"DIAPSS" status:"pending" uuid:"fa7f919d-e47b-462a-852d-64f7c4c0ae33"]
+---
+time 1758542686
+new [description:"create cohort asset" entry:"1758542686" modified:"1758542686" project:"DIAPSS" status:"pending" uuid:"b55a9c86-8bf2-4d2f-8ae3-b37b5428df25"]
+---
+time 1758545711
+new [description:"test FLOREN" entry:"1758545711" modified:"1758545711" project:"INIGO_PHD" status:"pending" uuid:"ed5ec4d1-33ad-4cc5-a1ed-898033b2c8d0"]
+---
+time 1758548022
+old [description:"send mail Bene modif discussion" due:"1758578400" entry:"1758381186" modified:"1758381186" project:"PICC" status:"pending" uuid:"db7eaa33-d74b-4540-ae1d-1ebeeae22717"]
+new [description:"send mail Bene modif discussion" due:"1758578400" end:"1758548022" entry:"1758381186" modified:"1758548022" project:"PICC" status:"completed" uuid:"db7eaa33-d74b-4540-ae1d-1ebeeae22717"]
+---
+time 1758549393
+new [description:"create README de FoxTech" entry:"1758549393" modified:"1758549393" project:"FOXTECH" status:"pending" uuid:"78dcec77-b890-4a57-82e3-2688254bbeb2"]
+---
