@@ -1,3 +1,5 @@
+[description:"centralise doc" due:"1758751200" end:"1758551794" entry:"1758285165" modified:"1758551794" project:"PICVERT" status:"completed" uuid:"7d8056f4-e356-412f-8b34-264638d93c23"]
+[description:"create repo project" due:"1758751200" end:"1758551531" entry:"1758285150" modified:"1758551531" project:"PICVERT" status:"completed" uuid:"8aad7e6e-5d94-4a11-8197-bad30e3fd037"]
 [description:"send mail Bene modif discussion" due:"1758578400" end:"1758548022" entry:"1758381186" modified:"1758548022" project:"PICC" status:"completed" uuid:"db7eaa33-d74b-4540-ae1d-1ebeeae22717"]
 [description:"generate quality graph Chip" end:"1758451637" entry:"1758292166" modified:"1758451637" project:"FOXTECH" status:"completed" uuid:"28a01f12-8065-4a53-9436-c2ee9cb0e26f"]
 [description:"init project single cell qual asess in rust" end:"1758410707" entry:"1758349498" modified:"1758410707" project:"FASTERQC" status:"completed" uuid:"0a97d848-4ce9-474e-b51d-624fa6146416"]

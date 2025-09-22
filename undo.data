@@ -463,3 +463,20 @@ new [description:"create README de FoxTech" entry:"1758549393" modified:"1758549
 time 1758550652
 new [description:"craft presentation LBAI" due:"1758751200" entry:"1758550652" modified:"1758550652" status:"pending" uuid:"b7806bbe-969c-4c55-970b-20c5cdeb5183"]
 ---
+time 1758551531
+old [description:"create repo project" due:"1758751200" entry:"1758285150" modified:"1758285150" project:"PICVERT" status:"pending" uuid:"8aad7e6e-5d94-4a11-8197-bad30e3fd037"]
+new [description:"create repo project" due:"1758751200" end:"1758551531" entry:"1758285150" modified:"1758551531" project:"PICVERT" status:"completed" uuid:"8aad7e6e-5d94-4a11-8197-bad30e3fd037"]
+---
+time 1758551794
+old [description:"centralise doc" due:"1758751200" entry:"1758285165" modified:"1758285165" project:"PICVERT" status:"pending" uuid:"7d8056f4-e356-412f-8b34-264638d93c23"]
+new [description:"centralise doc" due:"1758751200" end:"1758551794" entry:"1758285165" modified:"1758551794" project:"PICVERT" status:"completed" uuid:"7d8056f4-e356-412f-8b34-264638d93c23"]
+---
+time 1758551837
+new [description:"retrouve LDA model" due:"1758751200" entry:"1758551836" modified:"1758551836" priority:"H" project:"PICVERT" status:"pending" uuid:"03f7d2ec-0703-4282-811e-c11f780f9d12"]
+---
+time 1758551855
+new [description:"preprocess new data" due:"1758751200" entry:"1758551855" modified:"1758551855" priority:"H" project:"PICVERT" status:"pending" uuid:"63dfb117-2ca6-4a73-982f-92cb2ca92d76"]
+---
+time 1758551864
+new [description:"generate figures" due:"1758751200" entry:"1758551864" modified:"1758551864" priority:"H" project:"PICVERT" status:"pending" uuid:"78fb796b-2099-44cd-b495-1f56013458db"]
+---

@@ -129,3 +129,8 @@
 {"description":"send mail Bene modif discussion","due":"20250922T220000Z","end":"20250922T133342Z","entry":"20250920T151306Z","modified":"20250922T133342Z","project":"PICC","status":"completed","uuid":"db7eaa33-d74b-4540-ae1d-1ebeeae22717"}
 {"description":"create README de FoxTech","entry":"20250922T135633Z","modified":"20250922T135633Z","project":"FOXTECH","status":"pending","uuid":"78dcec77-b890-4a57-82e3-2688254bbeb2"}
 {"description":"craft presentation LBAI","due":"20250924T220000Z","entry":"20250922T141732Z","modified":"20250922T141732Z","status":"pending","uuid":"b7806bbe-969c-4c55-970b-20c5cdeb5183"}
+{"description":"create repo project","due":"20250924T220000Z","end":"20250922T143211Z","entry":"20250919T123230Z","modified":"20250922T143211Z","project":"PICVERT","status":"completed","uuid":"8aad7e6e-5d94-4a11-8197-bad30e3fd037"}
+{"description":"centralise doc","due":"20250924T220000Z","end":"20250922T143634Z","entry":"20250919T123245Z","modified":"20250922T143634Z","project":"PICVERT","status":"completed","uuid":"7d8056f4-e356-412f-8b34-264638d93c23"}
+{"description":"retrouve LDA model","due":"20250924T220000Z","entry":"20250922T143716Z","modified":"20250922T143716Z","priority":"H","project":"PICVERT","status":"pending","uuid":"03f7d2ec-0703-4282-811e-c11f780f9d12"}
+{"description":"preprocess new data","due":"20250924T220000Z","entry":"20250922T143735Z","modified":"20250922T143735Z","priority":"H","project":"PICVERT","status":"pending","uuid":"63dfb117-2ca6-4a73-982f-92cb2ca92d76"}
+{"description":"generate figures","due":"20250924T220000Z","entry":"20250922T143744Z","modified":"20250922T143744Z","priority":"H","project":"PICVERT","status":"pending","uuid":"78fb796b-2099-44cd-b495-1f56013458db"}
