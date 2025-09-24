@@ -139,3 +139,13 @@
 {"description":"deb epidemio model","entry":"20250923T073657Z","modified":"20250923T073657Z","project":"DYINGSTAR","status":"pending","uuid":"b8c99087-3692-4d7f-84f7-757925263e3d"}
 {"description":"print deco porte bureau","entry":"20250923T073751Z","modified":"20250923T073751Z","project":"FUN","status":"pending","uuid":"99879514-c415-4028-b554-e652bff72154"}
 {"description":"update image of github profile","end":"20250923T075447Z","entry":"20250920T074554Z","modified":"20250923T075447Z","project":"FUN","status":"completed","uuid":"7c40fc22-df81-4f96-99be-06da86ab1291"}
+{"description":"create prez for congress","due":"20251006T220000Z","entry":"20250923T123924Z","modified":"20250923T123924Z","status":"pending","uuid":"0cecf1b7-a773-4c39-85c7-567d8e568895"}
+{"description":"buy pirate hoodie","entry":"20250924T061808Z","modified":"20250924T061808Z","project":"FUN","status":"pending","uuid":"14948514-ff6f-48fa-a8fe-f7a3e635b9ef"}
+{"description":"retrouve LDA model","due":"20250924T220000Z","end":"20250924T061829Z","entry":"20250922T143716Z","modified":"20250924T061829Z","priority":"H","project":"PICVERT","status":"completed","uuid":"03f7d2ec-0703-4282-811e-c11f780f9d12"}
+{"description":"preprocess new data","due":"20250924T220000Z","end":"20250924T061843Z","entry":"20250922T143735Z","modified":"20250924T061843Z","priority":"H","project":"PICVERT","status":"completed","uuid":"63dfb117-2ca6-4a73-982f-92cb2ca92d76"}
+{"description":"centralise data","due":"20250924T220000Z","end":"20250924T061855Z","entry":"20250919T123249Z","modified":"20250924T061855Z","project":"PICVERT","status":"completed","uuid":"5ba817ba-6466-4c3a-b484-069e9eaa6bf7"}
+{"description":"generate figures","due":"20250924T220000Z","entry":"20250922T143744Z","modified":"20250924T061906Z","priority":"H","project":"PICVERT","start":"20250924T061906Z","status":"pending","uuid":"78fb796b-2099-44cd-b495-1f56013458db"}
+{"description":"generate figures","due":"20250924T220000Z","end":"20250924T091858Z","entry":"20250922T143744Z","modified":"20250924T091858Z","priority":"H","project":"PICVERT","status":"completed","uuid":"78fb796b-2099-44cd-b495-1f56013458db"}
+{"description":"answer LeMAy","entry":"20250924T091917Z","modified":"20250924T091917Z","project":"PSY","status":"pending","uuid":"542b1490-429c-46b9-b87a-aaa954bc841e"}
+{"description":"answer LeMAy","due":"20250924T220000Z","entry":"20250924T091917Z","modified":"20250924T091949Z","project":"PSY","status":"pending","uuid":"542b1490-429c-46b9-b87a-aaa954bc841e"}
+{"description":"answer LeMAy","due":"20250924T220000Z","end":"20250924T094123Z","entry":"20250924T091917Z","modified":"20250924T094123Z","project":"PSY","status":"completed","uuid":"542b1490-429c-46b9-b87a-aaa954bc841e"}
