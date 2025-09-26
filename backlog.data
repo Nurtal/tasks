@@ -149,3 +149,4 @@
 {"description":"answer LeMAy","entry":"20250924T091917Z","modified":"20250924T091917Z","project":"PSY","status":"pending","uuid":"542b1490-429c-46b9-b87a-aaa954bc841e"}
 {"description":"answer LeMAy","due":"20250924T220000Z","entry":"20250924T091917Z","modified":"20250924T091949Z","project":"PSY","status":"pending","uuid":"542b1490-429c-46b9-b87a-aaa954bc841e"}
 {"description":"answer LeMAy","due":"20250924T220000Z","end":"20250924T094123Z","entry":"20250924T091917Z","modified":"20250924T094123Z","project":"PSY","status":"completed","uuid":"542b1490-429c-46b9-b87a-aaa954bc841e"}
+{"description":"create microentreprise","entry":"20250924T174218Z","modified":"20250924T174218Z","project":"FOXTECH","status":"pending","uuid":"e6284671-5128-4ff3-95ef-e07f4d73b6f9"}
