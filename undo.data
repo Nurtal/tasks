@@ -555,3 +555,25 @@ new [description:"clone" end:"1759129256" entry:"1758612989" modified:"175912925
 time 1759157061
 new [description:"create website" entry:"1759157061" modified:"1759157061" project:"FOXTECH" status:"pending" uuid:"998a57bd-1e25-444a-a6e2-de209f5b644b"]
 ---
+time 1759224208
+new [description:"demonstrateur ARS-AMI IA" entry:"1759224208" modified:"1759224208" project:"ARS-AMI" status:"pending" uuid:"4ec5ed2a-fee5-48bc-b663-15ead4340653"]
+---
+time 1759224257
+old [description:"find benchmark spatial trancriptomique" entry:"1758116330" modified:"1758116330" project:"FREQ" status:"pending" uuid:"48a5dd3f-c3d4-4a23-9322-ca893f8d974f"]
+new [description:"find benchmark spatial trancriptomique" due:"1759442400" entry:"1758116330" modified:"1759224257" project:"FREQ" status:"pending" uuid:"48a5dd3f-c3d4-4a23-9322-ca893f8d974f"]
+---
+time 1759224283
+old [description:"find benchmark spatial trancriptomique" due:"1759442400" entry:"1758116330" modified:"1759224257" project:"FREQ" status:"pending" uuid:"48a5dd3f-c3d4-4a23-9322-ca893f8d974f"]
+new [description:"find benchmark spatial trancriptomique" due:"1761865200" entry:"1758116330" modified:"1759224283" project:"FREQ" status:"pending" uuid:"48a5dd3f-c3d4-4a23-9322-ca893f8d974f"]
+---
+time 1759224294
+old [description:"test FLOREN" entry:"1758545711" modified:"1758545711" project:"INIGO_PHD" status:"pending" uuid:"ed5ec4d1-33ad-4cc5-a1ed-898033b2c8d0"]
+new [description:"test FLOREN" due:"1759442400" entry:"1758545711" modified:"1759224294" project:"INIGO_PHD" status:"pending" uuid:"ed5ec4d1-33ad-4cc5-a1ed-898033b2c8d0"]
+---
+time 1759224369
+new [description:"functionnal pub2csv" entry:"1759224369" modified:"1759224369" project:"ARS-AMI" status:"pending" uuid:"3c7eb883-d717-4db9-8375-ae918d4e486c"]
+---
+time 1759224405
+old [description:"demonstrateur ARS-AMI IA" entry:"1759224208" modified:"1759224208" project:"ARS-AMI" status:"pending" uuid:"4ec5ed2a-fee5-48bc-b663-15ead4340653"]
+new [dep_3c7eb883-d717-4db9-8375-ae918d4e486c:"x" depends:"3c7eb883-d717-4db9-8375-ae918d4e486c" description:"demonstrateur ARS-AMI IA" entry:"1759224208" modified:"1759224405" project:"ARS-AMI" status:"pending" uuid:"4ec5ed2a-fee5-48bc-b663-15ead4340653"]
+---

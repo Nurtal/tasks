@@ -155,3 +155,9 @@
 {"description":"generate nice logo","end":"20250929T070005Z","entry":"20250921T104734Z","modified":"20250929T070005Z","project":"FOXTECH","status":"completed","uuid":"3ef9404c-77a0-4758-8e43-aa39c6968805"}
 {"description":"clone","end":"20250929T070056Z","entry":"20250923T073629Z","modified":"20250929T070056Z","status":"completed","uuid":"ede11848-b71f-4fa9-be7a-5768fd2bef4b"}
 {"description":"create website","entry":"20250929T144421Z","modified":"20250929T144421Z","project":"FOXTECH","status":"pending","uuid":"998a57bd-1e25-444a-a6e2-de209f5b644b"}
+{"description":"demonstrateur ARS-AMI IA","entry":"20250930T092328Z","modified":"20250930T092328Z","project":"ARS-AMI","status":"pending","uuid":"4ec5ed2a-fee5-48bc-b663-15ead4340653"}
+{"description":"find benchmark spatial trancriptomique","due":"20251002T220000Z","entry":"20250917T133850Z","modified":"20250930T092417Z","project":"FREQ","status":"pending","uuid":"48a5dd3f-c3d4-4a23-9322-ca893f8d974f"}
+{"description":"find benchmark spatial trancriptomique","due":"20251030T230000Z","entry":"20250917T133850Z","modified":"20250930T092443Z","project":"FREQ","status":"pending","uuid":"48a5dd3f-c3d4-4a23-9322-ca893f8d974f"}
+{"description":"test FLOREN","due":"20251002T220000Z","entry":"20250922T125511Z","modified":"20250930T092454Z","project":"INIGO_PHD","status":"pending","uuid":"ed5ec4d1-33ad-4cc5-a1ed-898033b2c8d0"}
+{"description":"functionnal pub2csv","entry":"20250930T092609Z","modified":"20250930T092609Z","project":"ARS-AMI","status":"pending","uuid":"3c7eb883-d717-4db9-8375-ae918d4e486c"}
+{"description":"demonstrateur ARS-AMI IA","entry":"20250930T092328Z","modified":"20250930T092645Z","project":"ARS-AMI","status":"pending","uuid":"4ec5ed2a-fee5-48bc-b663-15ead4340653","depends":["3c7eb883-d717-4db9-8375-ae918d4e486c"]}
