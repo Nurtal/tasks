@@ -577,3 +577,6 @@ time 1759224405
 old [description:"demonstrateur ARS-AMI IA" entry:"1759224208" modified:"1759224208" project:"ARS-AMI" status:"pending" uuid:"4ec5ed2a-fee5-48bc-b663-15ead4340653"]
 new [dep_3c7eb883-d717-4db9-8375-ae918d4e486c:"x" depends:"3c7eb883-d717-4db9-8375-ae918d4e486c" description:"demonstrateur ARS-AMI IA" entry:"1759224208" modified:"1759224405" project:"ARS-AMI" status:"pending" uuid:"4ec5ed2a-fee5-48bc-b663-15ead4340653"]
 ---
+time 1759234758
+new [description:"send cv Nadege to cv bank cdc" entry:"1759234758" modified:"1759234758" status:"pending" uuid:"5133b56f-d516-49fe-9401-151248527947"]
+---

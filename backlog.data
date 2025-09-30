@@ -161,3 +161,4 @@
 {"description":"test FLOREN","due":"20251002T220000Z","entry":"20250922T125511Z","modified":"20250930T092454Z","project":"INIGO_PHD","status":"pending","uuid":"ed5ec4d1-33ad-4cc5-a1ed-898033b2c8d0"}
 {"description":"functionnal pub2csv","entry":"20250930T092609Z","modified":"20250930T092609Z","project":"ARS-AMI","status":"pending","uuid":"3c7eb883-d717-4db9-8375-ae918d4e486c"}
 {"description":"demonstrateur ARS-AMI IA","entry":"20250930T092328Z","modified":"20250930T092645Z","project":"ARS-AMI","status":"pending","uuid":"4ec5ed2a-fee5-48bc-b663-15ead4340653","depends":["3c7eb883-d717-4db9-8375-ae918d4e486c"]}
+{"description":"send cv Nadege to cv bank cdc","entry":"20250930T121918Z","modified":"20250930T121918Z","status":"pending","uuid":"5133b56f-d516-49fe-9401-151248527947"}
