@@ -580,3 +580,6 @@ new [dep_3c7eb883-d717-4db9-8375-ae918d4e486c:"x" depends:"3c7eb883-d717-4db9-83
 time 1759234758
 new [description:"send cv Nadege to cv bank cdc" entry:"1759234758" modified:"1759234758" status:"pending" uuid:"5133b56f-d516-49fe-9401-151248527947"]
 ---
+time 1759236994
+new [description:"check prime mobilite durable FMD hospotal" entry:"1759236994" modified:"1759236994" project:"DwarfCoin" status:"pending" uuid:"b15b0643-bd7d-457d-86ef-287ac15a1b15"]
+---

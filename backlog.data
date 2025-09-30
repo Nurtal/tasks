@@ -162,3 +162,4 @@
 {"description":"functionnal pub2csv","entry":"20250930T092609Z","modified":"20250930T092609Z","project":"ARS-AMI","status":"pending","uuid":"3c7eb883-d717-4db9-8375-ae918d4e486c"}
 {"description":"demonstrateur ARS-AMI IA","entry":"20250930T092328Z","modified":"20250930T092645Z","project":"ARS-AMI","status":"pending","uuid":"4ec5ed2a-fee5-48bc-b663-15ead4340653","depends":["3c7eb883-d717-4db9-8375-ae918d4e486c"]}
 {"description":"send cv Nadege to cv bank cdc","entry":"20250930T121918Z","modified":"20250930T121918Z","status":"pending","uuid":"5133b56f-d516-49fe-9401-151248527947"}
+{"description":"check prime mobilite durable FMD hospotal","entry":"20250930T125634Z","modified":"20250930T125634Z","project":"DwarfCoin","status":"pending","uuid":"b15b0643-bd7d-457d-86ef-287ac15a1b15"}
