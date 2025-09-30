@@ -1,3 +1,8 @@
+[description:"clone" end:"1759129256" entry:"1758612989" modified:"1759129256" status:"completed" uuid:"ede11848-b71f-4fa9-be7a-5768fd2bef4b"]
+[description:"generate nice logo" end:"1759129205" entry:"1758451654" modified:"1759129205" project:"FOXTECH" status:"completed" uuid:"3ef9404c-77a0-4758-8e43-aa39c6968805"]
+[description:"contact math" due:"1758751200" end:"1759129172" entry:"1758522386" modified:"1759129172" priority:"H" project:"HDR" status:"completed" uuid:"c883d295-16d6-4950-92f8-309bea5d2c86"]
+[description:"craft presentation LBAI" due:"1758751200" end:"1759129166" entry:"1758550652" modified:"1759129166" status:"completed" uuid:"b7806bbe-969c-4c55-970b-20c5cdeb5183"]
+[description:"answer LeMAy" due:"1758751200" end:"1758706883" entry:"1758705557" modified:"1758706883" project:"PSY" status:"completed" uuid:"542b1490-429c-46b9-b87a-aaa954bc841e"]
 [description:"generate figures" due:"1758751200" end:"1758705538" entry:"1758551864" modified:"1758705538" priority:"H" project:"PICVERT" status:"completed" uuid:"78fb796b-2099-44cd-b495-1f56013458db"]
 [description:"centralise data" due:"1758751200" end:"1758694735" entry:"1758285169" modified:"1758694735" project:"PICVERT" status:"completed" uuid:"5ba817ba-6466-4c3a-b484-069e9eaa6bf7"]
 [description:"preprocess new data" due:"1758751200" end:"1758694723" entry:"1758551855" modified:"1758694723" priority:"H" project:"PICVERT" status:"completed" uuid:"63dfb117-2ca6-4a73-982f-92cb2ca92d76"]

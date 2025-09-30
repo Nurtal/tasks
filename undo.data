@@ -536,3 +536,22 @@ new [description:"answer LeMAy" due:"1758751200" end:"1758706883" entry:"1758705
 time 1758735738
 new [description:"create microentreprise" entry:"1758735738" modified:"1758735738" project:"FOXTECH" status:"pending" uuid:"e6284671-5128-4ff3-95ef-e07f4d73b6f9"]
 ---
+time 1759129166
+old [description:"craft presentation LBAI" due:"1758751200" entry:"1758550652" modified:"1758550652" status:"pending" uuid:"b7806bbe-969c-4c55-970b-20c5cdeb5183"]
+new [description:"craft presentation LBAI" due:"1758751200" end:"1759129166" entry:"1758550652" modified:"1759129166" status:"completed" uuid:"b7806bbe-969c-4c55-970b-20c5cdeb5183"]
+---
+time 1759129172
+old [description:"contact math" due:"1758751200" entry:"1758522386" modified:"1758522386" priority:"H" project:"HDR" status:"pending" uuid:"c883d295-16d6-4950-92f8-309bea5d2c86"]
+new [description:"contact math" due:"1758751200" end:"1759129172" entry:"1758522386" modified:"1759129172" priority:"H" project:"HDR" status:"completed" uuid:"c883d295-16d6-4950-92f8-309bea5d2c86"]
+---
+time 1759129205
+old [description:"generate nice logo" entry:"1758451654" modified:"1758451654" project:"FOXTECH" status:"pending" uuid:"3ef9404c-77a0-4758-8e43-aa39c6968805"]
+new [description:"generate nice logo" end:"1759129205" entry:"1758451654" modified:"1759129205" project:"FOXTECH" status:"completed" uuid:"3ef9404c-77a0-4758-8e43-aa39c6968805"]
+---
+time 1759129256
+old [description:"clone" entry:"1758612989" modified:"1758612989" status:"pending" uuid:"ede11848-b71f-4fa9-be7a-5768fd2bef4b"]
+new [description:"clone" end:"1759129256" entry:"1758612989" modified:"1759129256" status:"completed" uuid:"ede11848-b71f-4fa9-be7a-5768fd2bef4b"]
+---
+time 1759157061
+new [description:"create website" entry:"1759157061" modified:"1759157061" project:"FOXTECH" status:"pending" uuid:"998a57bd-1e25-444a-a6e2-de209f5b644b"]
+---

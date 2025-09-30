@@ -150,3 +150,8 @@
 {"description":"answer LeMAy","due":"20250924T220000Z","entry":"20250924T091917Z","modified":"20250924T091949Z","project":"PSY","status":"pending","uuid":"542b1490-429c-46b9-b87a-aaa954bc841e"}
 {"description":"answer LeMAy","due":"20250924T220000Z","end":"20250924T094123Z","entry":"20250924T091917Z","modified":"20250924T094123Z","project":"PSY","status":"completed","uuid":"542b1490-429c-46b9-b87a-aaa954bc841e"}
 {"description":"create microentreprise","entry":"20250924T174218Z","modified":"20250924T174218Z","project":"FOXTECH","status":"pending","uuid":"e6284671-5128-4ff3-95ef-e07f4d73b6f9"}
+{"description":"craft presentation LBAI","due":"20250924T220000Z","end":"20250929T065926Z","entry":"20250922T141732Z","modified":"20250929T065926Z","status":"completed","uuid":"b7806bbe-969c-4c55-970b-20c5cdeb5183"}
+{"description":"contact math","due":"20250924T220000Z","end":"20250929T065932Z","entry":"20250922T062626Z","modified":"20250929T065932Z","priority":"H","project":"HDR","status":"completed","uuid":"c883d295-16d6-4950-92f8-309bea5d2c86"}
+{"description":"generate nice logo","end":"20250929T070005Z","entry":"20250921T104734Z","modified":"20250929T070005Z","project":"FOXTECH","status":"completed","uuid":"3ef9404c-77a0-4758-8e43-aa39c6968805"}
+{"description":"clone","end":"20250929T070056Z","entry":"20250923T073629Z","modified":"20250929T070056Z","status":"completed","uuid":"ede11848-b71f-4fa9-be7a-5768fd2bef4b"}
+{"description":"create website","entry":"20250929T144421Z","modified":"20250929T144421Z","project":"FOXTECH","status":"pending","uuid":"998a57bd-1e25-444a-a6e2-de209f5b644b"}
