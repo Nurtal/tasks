@@ -23,7 +23,7 @@
 [description:"create microentreprise" entry:"1758735738" modified:"1758735738" project:"FOXTECH" status:"pending" uuid:"e6284671-5128-4ff3-95ef-e07f4d73b6f9"]
 [description:"create website" entry:"1759157061" modified:"1759157061" project:"FOXTECH" status:"pending" uuid:"998a57bd-1e25-444a-a6e2-de209f5b644b"]
 [dep_3c7eb883-d717-4db9-8375-ae918d4e486c:"x" depends:"3c7eb883-d717-4db9-8375-ae918d4e486c" description:"demonstrateur ARS-AMI IA" entry:"1759224208" modified:"1759224405" project:"ARS-AMI" status:"pending" uuid:"4ec5ed2a-fee5-48bc-b663-15ead4340653"]
-[description:"functionnal pub2csv" entry:"1759224369" modified:"1759224369" project:"ARS-AMI" status:"pending" uuid:"3c7eb883-d717-4db9-8375-ae918d4e486c"]
 [description:"send cv Nadege to cv bank cdc" entry:"1759234758" modified:"1759234758" status:"pending" uuid:"5133b56f-d516-49fe-9401-151248527947"]
 [description:"check prime mobilite durable FMD hospotal" entry:"1759236994" modified:"1759236994" project:"DwarfCoin" status:"pending" uuid:"b15b0643-bd7d-457d-86ef-287ac15a1b15"]
 [description:"create Linledin account of FoxTech" entry:"1759239564" modified:"1759239564" project:"FOXTECH" status:"pending" uuid:"cdaf4749-e161-40ba-b4e3-75538f4fab16"]
+[description:"create global roadmap" entry:"1759387609" modified:"1759387609" project:"FOXTECH" status:"pending" uuid:"2221e93c-82d3-4e78-8353-6ed5822a87ca"]

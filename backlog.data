@@ -164,3 +164,5 @@
 {"description":"send cv Nadege to cv bank cdc","entry":"20250930T121918Z","modified":"20250930T121918Z","status":"pending","uuid":"5133b56f-d516-49fe-9401-151248527947"}
 {"description":"check prime mobilite durable FMD hospotal","entry":"20250930T125634Z","modified":"20250930T125634Z","project":"DwarfCoin","status":"pending","uuid":"b15b0643-bd7d-457d-86ef-287ac15a1b15"}
 {"description":"create Linledin account of FoxTech","entry":"20250930T133924Z","modified":"20250930T133924Z","project":"FOXTECH","status":"pending","uuid":"cdaf4749-e161-40ba-b4e3-75538f4fab16"}
+{"description":"functionnal pub2csv","end":"20251002T064606Z","entry":"20250930T092609Z","modified":"20251002T064606Z","project":"ARS-AMI","status":"completed","uuid":"3c7eb883-d717-4db9-8375-ae918d4e486c"}
+{"description":"create global roadmap","entry":"20251002T064649Z","modified":"20251002T064649Z","project":"FOXTECH","status":"pending","uuid":"2221e93c-82d3-4e78-8353-6ed5822a87ca"}

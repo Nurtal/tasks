@@ -586,3 +586,10 @@ new [description:"check prime mobilite durable FMD hospotal" entry:"1759236994" 
 time 1759239564
 new [description:"create Linledin account of FoxTech" entry:"1759239564" modified:"1759239564" project:"FOXTECH" status:"pending" uuid:"cdaf4749-e161-40ba-b4e3-75538f4fab16"]
 ---
+time 1759387566
+old [description:"functionnal pub2csv" entry:"1759224369" modified:"1759224369" project:"ARS-AMI" status:"pending" uuid:"3c7eb883-d717-4db9-8375-ae918d4e486c"]
+new [description:"functionnal pub2csv" end:"1759387566" entry:"1759224369" modified:"1759387566" project:"ARS-AMI" status:"completed" uuid:"3c7eb883-d717-4db9-8375-ae918d4e486c"]
+---
+time 1759387609
+new [description:"create global roadmap" entry:"1759387609" modified:"1759387609" project:"FOXTECH" status:"pending" uuid:"2221e93c-82d3-4e78-8353-6ed5822a87ca"]
+---
