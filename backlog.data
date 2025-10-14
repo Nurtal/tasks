@@ -174,3 +174,4 @@
 {"description":"generate semi supervised umap","entry":"20251014T103621Z","modified":"20251014T103621Z","project":"PICVERT","status":"pending","uuid":"481bc14c-687a-4763-b1ed-d820169784b2"}
 {"description":"generate semi supervised umap","due":"20251016T220000Z","entry":"20251014T103621Z","modified":"20251014T103655Z","project":"PICVERT","status":"pending","uuid":"481bc14c-687a-4763-b1ed-d820169784b2"}
 {"description":"contact Inigo for setup meeting","due":"20251016T220000Z","entry":"20251014T103750Z","modified":"20251014T103750Z","project":"INIGO_PHD","status":"pending","uuid":"d02bc8a4-fdf4-4a3a-b68c-e1af47424ace"}
+{"description":"faire devis PC Celine","due":"20251015T220000Z","entry":"20251014T120409Z","modified":"20251014T120409Z","project":"BAI","status":"pending","uuid":"7bf9b168-76ab-4096-af2f-71945ea6a0a9"}

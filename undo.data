@@ -619,3 +619,6 @@ new [description:"generate semi supervised umap" due:"1760652000" entry:"1760438
 time 1760438270
 new [description:"contact Inigo for setup meeting" due:"1760652000" entry:"1760438270" modified:"1760438270" project:"INIGO_PHD" status:"pending" uuid:"d02bc8a4-fdf4-4a3a-b68c-e1af47424ace"]
 ---
+time 1760443449
+new [description:"faire devis PC Celine" due:"1760565600" entry:"1760443449" modified:"1760443449" project:"BAI" status:"pending" uuid:"7bf9b168-76ab-4096-af2f-71945ea6a0a9"]
+---
