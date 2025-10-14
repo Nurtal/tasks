@@ -168,3 +168,9 @@
 {"description":"create global roadmap","entry":"20251002T064649Z","modified":"20251002T064649Z","project":"FOXTECH","status":"pending","uuid":"2221e93c-82d3-4e78-8353-6ed5822a87ca"}
 {"description":"create prez for congress","due":"20251006T220000Z","end":"20251014T062918Z","entry":"20250923T123924Z","modified":"20251014T062918Z","status":"completed","uuid":"0cecf1b7-a773-4c39-85c7-567d8e568895"}
 {"description":"transmettre indic SARI","due":"20251020T220000Z","entry":"20251014T063048Z","modified":"20251014T063048Z","project":"ORCHIDEE","status":"pending","uuid":"3a9b357c-9521-4046-bafb-c8eab32d9797"}
+{"description":"write general M2 topic","entry":"20251014T103422Z","modified":"20251014T103422Z","project":"M2","status":"pending","uuid":"92552a55-de11-4b1e-903d-e23eb41d7c68"}
+{"description":"check Gwendal candidature","entry":"20251014T103456Z","modified":"20251014T103456Z","project":"M2","status":"pending","uuid":"ae15569e-b5d8-4566-adc6-673aa942d7a7"}
+{"description":"ask for windows dev install DSI","entry":"20251014T103551Z","modified":"20251014T103551Z","project":"CDC","status":"pending","uuid":"8bc2b505-207a-4a92-9d14-57e5030ef733"}
+{"description":"generate semi supervised umap","entry":"20251014T103621Z","modified":"20251014T103621Z","project":"PICVERT","status":"pending","uuid":"481bc14c-687a-4763-b1ed-d820169784b2"}
+{"description":"generate semi supervised umap","due":"20251016T220000Z","entry":"20251014T103621Z","modified":"20251014T103655Z","project":"PICVERT","status":"pending","uuid":"481bc14c-687a-4763-b1ed-d820169784b2"}
+{"description":"contact Inigo for setup meeting","due":"20251016T220000Z","entry":"20251014T103750Z","modified":"20251014T103750Z","project":"INIGO_PHD","status":"pending","uuid":"d02bc8a4-fdf4-4a3a-b68c-e1af47424ace"}

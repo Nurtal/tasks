@@ -27,3 +27,8 @@
 [description:"create Linledin account of FoxTech" entry:"1759239564" modified:"1759239564" project:"FOXTECH" status:"pending" uuid:"cdaf4749-e161-40ba-b4e3-75538f4fab16"]
 [description:"create global roadmap" entry:"1759387609" modified:"1759387609" project:"FOXTECH" status:"pending" uuid:"2221e93c-82d3-4e78-8353-6ed5822a87ca"]
 [description:"transmettre indic SARI" due:"1760997600" entry:"1760423448" modified:"1760423448" project:"ORCHIDEE" status:"pending" uuid:"3a9b357c-9521-4046-bafb-c8eab32d9797"]
+[description:"write general M2 topic" entry:"1760438062" modified:"1760438062" project:"M2" status:"pending" uuid:"92552a55-de11-4b1e-903d-e23eb41d7c68"]
+[description:"check Gwendal candidature" entry:"1760438096" modified:"1760438096" project:"M2" status:"pending" uuid:"ae15569e-b5d8-4566-adc6-673aa942d7a7"]
+[description:"ask for windows dev install DSI" entry:"1760438151" modified:"1760438151" project:"CDC" status:"pending" uuid:"8bc2b505-207a-4a92-9d14-57e5030ef733"]
+[description:"generate semi supervised umap" due:"1760652000" entry:"1760438181" modified:"1760438215" project:"PICVERT" status:"pending" uuid:"481bc14c-687a-4763-b1ed-d820169784b2"]
+[description:"contact Inigo for setup meeting" due:"1760652000" entry:"1760438270" modified:"1760438270" project:"INIGO_PHD" status:"pending" uuid:"d02bc8a4-fdf4-4a3a-b68c-e1af47424ace"]
