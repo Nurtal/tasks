@@ -593,3 +593,10 @@ new [description:"functionnal pub2csv" end:"1759387566" entry:"1759224369" modif
 time 1759387609
 new [description:"create global roadmap" entry:"1759387609" modified:"1759387609" project:"FOXTECH" status:"pending" uuid:"2221e93c-82d3-4e78-8353-6ed5822a87ca"]
 ---
+time 1760423358
+old [description:"create prez for congress" due:"1759788000" entry:"1758631164" modified:"1758631164" status:"pending" uuid:"0cecf1b7-a773-4c39-85c7-567d8e568895"]
+new [description:"create prez for congress" due:"1759788000" end:"1760423358" entry:"1758631164" modified:"1760423358" status:"completed" uuid:"0cecf1b7-a773-4c39-85c7-567d8e568895"]
+---
+time 1760423448
+new [description:"transmettre indic SARI" due:"1760997600" entry:"1760423448" modified:"1760423448" project:"ORCHIDEE" status:"pending" uuid:"3a9b357c-9521-4046-bafb-c8eab32d9797"]
+---

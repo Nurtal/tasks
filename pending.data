@@ -18,7 +18,6 @@
 [description:"clone and run dyingstar repo" entry:"1758612996" modified:"1758612996" project:"DYINGSTAR" status:"pending" uuid:"91815375-3845-4beb-bedd-71770c6e20b1"]
 [description:"deb epidemio model" entry:"1758613017" modified:"1758613017" project:"DYINGSTAR" status:"pending" uuid:"b8c99087-3692-4d7f-84f7-757925263e3d"]
 [description:"print deco porte bureau" entry:"1758613071" modified:"1758613071" project:"FUN" status:"pending" uuid:"99879514-c415-4028-b554-e652bff72154"]
-[description:"create prez for congress" due:"1759788000" entry:"1758631164" modified:"1758631164" status:"pending" uuid:"0cecf1b7-a773-4c39-85c7-567d8e568895"]
 [description:"buy pirate hoodie" entry:"1758694688" modified:"1758694688" project:"FUN" status:"pending" uuid:"14948514-ff6f-48fa-a8fe-f7a3e635b9ef"]
 [description:"create microentreprise" entry:"1758735738" modified:"1758735738" project:"FOXTECH" status:"pending" uuid:"e6284671-5128-4ff3-95ef-e07f4d73b6f9"]
 [description:"create website" entry:"1759157061" modified:"1759157061" project:"FOXTECH" status:"pending" uuid:"998a57bd-1e25-444a-a6e2-de209f5b644b"]
@@ -27,3 +26,4 @@
 [description:"check prime mobilite durable FMD hospotal" entry:"1759236994" modified:"1759236994" project:"DwarfCoin" status:"pending" uuid:"b15b0643-bd7d-457d-86ef-287ac15a1b15"]
 [description:"create Linledin account of FoxTech" entry:"1759239564" modified:"1759239564" project:"FOXTECH" status:"pending" uuid:"cdaf4749-e161-40ba-b4e3-75538f4fab16"]
 [description:"create global roadmap" entry:"1759387609" modified:"1759387609" project:"FOXTECH" status:"pending" uuid:"2221e93c-82d3-4e78-8353-6ed5822a87ca"]
+[description:"transmettre indic SARI" due:"1760997600" entry:"1760423448" modified:"1760423448" project:"ORCHIDEE" status:"pending" uuid:"3a9b357c-9521-4046-bafb-c8eab32d9797"]

@@ -166,3 +166,5 @@
 {"description":"create Linledin account of FoxTech","entry":"20250930T133924Z","modified":"20250930T133924Z","project":"FOXTECH","status":"pending","uuid":"cdaf4749-e161-40ba-b4e3-75538f4fab16"}
 {"description":"functionnal pub2csv","end":"20251002T064606Z","entry":"20250930T092609Z","modified":"20251002T064606Z","project":"ARS-AMI","status":"completed","uuid":"3c7eb883-d717-4db9-8375-ae918d4e486c"}
 {"description":"create global roadmap","entry":"20251002T064649Z","modified":"20251002T064649Z","project":"FOXTECH","status":"pending","uuid":"2221e93c-82d3-4e78-8353-6ed5822a87ca"}
+{"description":"create prez for congress","due":"20251006T220000Z","end":"20251014T062918Z","entry":"20250923T123924Z","modified":"20251014T062918Z","status":"completed","uuid":"0cecf1b7-a773-4c39-85c7-567d8e568895"}
+{"description":"transmettre indic SARI","due":"20251020T220000Z","entry":"20251014T063048Z","modified":"20251014T063048Z","project":"ORCHIDEE","status":"pending","uuid":"3a9b357c-9521-4046-bafb-c8eab32d9797"}
