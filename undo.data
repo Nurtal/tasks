@@ -622,3 +622,11 @@ new [description:"contact Inigo for setup meeting" due:"1760652000" entry:"17604
 time 1760443449
 new [description:"faire devis PC Celine" due:"1760565600" entry:"1760443449" modified:"1760443449" project:"BAI" status:"pending" uuid:"7bf9b168-76ab-4096-af2f-71945ea6a0a9"]
 ---
+time 1760503642
+old [description:"faire devis PC Celine" due:"1760565600" entry:"1760443449" modified:"1760443449" project:"BAI" status:"pending" uuid:"7bf9b168-76ab-4096-af2f-71945ea6a0a9"]
+new [description:"faire devis PC Celine" due:"1760565600" entry:"1760443449" modified:"1760503642" project:"BAI" start:"1760503642" status:"pending" uuid:"7bf9b168-76ab-4096-af2f-71945ea6a0a9"]
+---
+time 1760507684
+old [description:"faire devis PC Celine" due:"1760565600" entry:"1760443449" modified:"1760503642" project:"BAI" start:"1760503642" status:"pending" uuid:"7bf9b168-76ab-4096-af2f-71945ea6a0a9"]
+new [description:"faire devis PC Celine" due:"1760565600" end:"1760507684" entry:"1760443449" modified:"1760507684" project:"BAI" status:"completed" uuid:"7bf9b168-76ab-4096-af2f-71945ea6a0a9"]
+---
