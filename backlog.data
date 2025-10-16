@@ -177,3 +177,4 @@
 {"description":"faire devis PC Celine","due":"20251015T220000Z","entry":"20251014T120409Z","modified":"20251014T120409Z","project":"BAI","status":"pending","uuid":"7bf9b168-76ab-4096-af2f-71945ea6a0a9"}
 {"description":"faire devis PC Celine","due":"20251015T220000Z","entry":"20251014T120409Z","modified":"20251015T044722Z","project":"BAI","start":"20251015T044722Z","status":"pending","uuid":"7bf9b168-76ab-4096-af2f-71945ea6a0a9"}
 {"description":"faire devis PC Celine","due":"20251015T220000Z","end":"20251015T055444Z","entry":"20251014T120409Z","modified":"20251015T055444Z","project":"BAI","status":"completed","uuid":"7bf9b168-76ab-4096-af2f-71945ea6a0a9"}
+{"description":"remboursement 3TR","due":"20251016T220000Z","entry":"20251016T062340Z","modified":"20251016T062340Z","project":"DwarfCoin","status":"pending","uuid":"2cbe0e28-b669-4a61-8936-1f3d18701665"}

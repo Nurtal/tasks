@@ -32,4 +32,4 @@
 [description:"ask for windows dev install DSI" entry:"1760438151" modified:"1760438151" project:"CDC" status:"pending" uuid:"8bc2b505-207a-4a92-9d14-57e5030ef733"]
 [description:"generate semi supervised umap" due:"1760652000" entry:"1760438181" modified:"1760438215" project:"PICVERT" status:"pending" uuid:"481bc14c-687a-4763-b1ed-d820169784b2"]
 [description:"contact Inigo for setup meeting" due:"1760652000" entry:"1760438270" modified:"1760438270" project:"INIGO_PHD" status:"pending" uuid:"d02bc8a4-fdf4-4a3a-b68c-e1af47424ace"]
-[description:"faire devis PC Celine" due:"1760565600" end:"1760507684" entry:"1760443449" modified:"1760507684" project:"BAI" status:"completed" uuid:"7bf9b168-76ab-4096-af2f-71945ea6a0a9"]
+[description:"remboursement 3TR" due:"1760652000" entry:"1760595820" modified:"1760595820" project:"DwarfCoin" status:"pending" uuid:"2cbe0e28-b669-4a61-8936-1f3d18701665"]
