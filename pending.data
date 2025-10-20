@@ -32,3 +32,4 @@
 [description:"remboursement 3TR" due:"1760652000" entry:"1760595820" modified:"1760595820" project:"DwarfCoin" status:"pending" uuid:"2cbe0e28-b669-4a61-8936-1f3d18701665"]
 [description:"complete Mael collect" due:"1763593200" entry:"1760599437" modified:"1760599437" project:"IPASOS" status:"pending" uuid:"7a0b710a-b6bb-4d44-ab72-6fd056da0732"]
 [description:"find time and treatment data for GEO" entry:"1760628047" modified:"1760628047" project:"PICVERT" status:"pending" uuid:"29b24dce-a305-4da1-9772-61984bcf6fde"]
+[description:"buy server biocluster" due:"1763161200" entry:"1760714946" modified:"1760714946" project:"BAI" status:"pending" uuid:"382deec7-d98a-4829-aca1-771f3e0d19e5"]
