@@ -658,3 +658,7 @@ time 1761028726
 old [description:"demonstrateur viaduc auto select patient" due:"1760997600" entry:"1758541667" modified:"1758541667" priority:"H" project:"VIADUC" status:"pending" uuid:"0922c3f9-cffe-4cce-a9e5-adc401e95c38"]
 new [description:"demonstrateur viaduc auto select patient" due:"1760997600" end:"1761028726" entry:"1758541667" modified:"1761028726" priority:"H" project:"VIADUC" status:"completed" uuid:"0922c3f9-cffe-4cce-a9e5-adc401e95c38"]
 ---
+time 1761030230
+old [description:"transmettre indic SARI" due:"1760997600" entry:"1760423448" modified:"1760423448" project:"ORCHIDEE" status:"pending" uuid:"3a9b357c-9521-4046-bafb-c8eab32d9797"]
+new [description:"transmettre indic SARI" due:"1760997600" end:"1761030230" entry:"1760423448" modified:"1761030230" project:"ORCHIDEE" status:"completed" uuid:"3a9b357c-9521-4046-bafb-c8eab32d9797"]
+---
