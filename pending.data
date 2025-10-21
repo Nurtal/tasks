@@ -31,3 +31,5 @@
 [description:"complete Mael collect" due:"1763593200" entry:"1760599437" modified:"1760599437" project:"IPASOS" status:"pending" uuid:"7a0b710a-b6bb-4d44-ab72-6fd056da0732"]
 [description:"find time and treatment data for GEO" entry:"1760628047" modified:"1760628047" project:"PICVERT" status:"pending" uuid:"29b24dce-a305-4da1-9772-61984bcf6fde"]
 [description:"buy server biocluster" due:"1763161200" entry:"1760714946" modified:"1760714946" project:"BAI" status:"pending" uuid:"382deec7-d98a-4829-aca1-771f3e0d19e5"]
+[description:"asset viaduc dans dagster" due:"1764543600" entry:"1761038943" modified:"1761038983" project:"VIADUC" status:"pending" uuid:"88de409f-7d5d-4110-aa40-5e2ab6f8971b"]
+[description:"connect viaduc to GRIST" due:"1764543600" entry:"1761038958" modified:"1761038989" project:"VIADUC" status:"pending" uuid:"0f5dda08-5c04-4acd-b3ad-0a62660ae5be"]

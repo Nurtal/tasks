@@ -186,3 +186,7 @@
 {"description":"buy server biocluster","due":"20251114T230000Z","entry":"20251017T152906Z","modified":"20251017T152906Z","project":"BAI","status":"pending","uuid":"382deec7-d98a-4829-aca1-771f3e0d19e5"}
 {"description":"demonstrateur viaduc auto select patient","due":"20251020T220000Z","end":"20251021T063846Z","entry":"20250922T114747Z","modified":"20251021T063846Z","priority":"H","project":"VIADUC","status":"completed","uuid":"0922c3f9-cffe-4cce-a9e5-adc401e95c38"}
 {"description":"transmettre indic SARI","due":"20251020T220000Z","end":"20251021T070350Z","entry":"20251014T063048Z","modified":"20251021T070350Z","project":"ORCHIDEE","status":"completed","uuid":"3a9b357c-9521-4046-bafb-c8eab32d9797"}
+{"description":"asset viaduc dans dagster","entry":"20251021T092903Z","modified":"20251021T092903Z","project":"VIADUC","status":"pending","uuid":"88de409f-7d5d-4110-aa40-5e2ab6f8971b"}
+{"description":"connect viaduc to GRIST","entry":"20251021T092918Z","modified":"20251021T092918Z","project":"VIADUC","status":"pending","uuid":"0f5dda08-5c04-4acd-b3ad-0a62660ae5be"}
+{"description":"asset viaduc dans dagster","due":"20251130T230000Z","entry":"20251021T092903Z","modified":"20251021T092943Z","project":"VIADUC","status":"pending","uuid":"88de409f-7d5d-4110-aa40-5e2ab6f8971b"}
+{"description":"connect viaduc to GRIST","due":"20251130T230000Z","entry":"20251021T092918Z","modified":"20251021T092949Z","project":"VIADUC","status":"pending","uuid":"0f5dda08-5c04-4acd-b3ad-0a62660ae5be"}

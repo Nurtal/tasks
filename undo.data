@@ -662,3 +662,17 @@ time 1761030230
 old [description:"transmettre indic SARI" due:"1760997600" entry:"1760423448" modified:"1760423448" project:"ORCHIDEE" status:"pending" uuid:"3a9b357c-9521-4046-bafb-c8eab32d9797"]
 new [description:"transmettre indic SARI" due:"1760997600" end:"1761030230" entry:"1760423448" modified:"1761030230" project:"ORCHIDEE" status:"completed" uuid:"3a9b357c-9521-4046-bafb-c8eab32d9797"]
 ---
+time 1761038943
+new [description:"asset viaduc dans dagster" entry:"1761038943" modified:"1761038943" project:"VIADUC" status:"pending" uuid:"88de409f-7d5d-4110-aa40-5e2ab6f8971b"]
+---
+time 1761038958
+new [description:"connect viaduc to GRIST" entry:"1761038958" modified:"1761038958" project:"VIADUC" status:"pending" uuid:"0f5dda08-5c04-4acd-b3ad-0a62660ae5be"]
+---
+time 1761038983
+old [description:"asset viaduc dans dagster" entry:"1761038943" modified:"1761038943" project:"VIADUC" status:"pending" uuid:"88de409f-7d5d-4110-aa40-5e2ab6f8971b"]
+new [description:"asset viaduc dans dagster" due:"1764543600" entry:"1761038943" modified:"1761038983" project:"VIADUC" status:"pending" uuid:"88de409f-7d5d-4110-aa40-5e2ab6f8971b"]
+---
+time 1761038989
+old [description:"connect viaduc to GRIST" entry:"1761038958" modified:"1761038958" project:"VIADUC" status:"pending" uuid:"0f5dda08-5c04-4acd-b3ad-0a62660ae5be"]
+new [description:"connect viaduc to GRIST" due:"1764543600" entry:"1761038958" modified:"1761038989" project:"VIADUC" status:"pending" uuid:"0f5dda08-5c04-4acd-b3ad-0a62660ae5be"]
+---
