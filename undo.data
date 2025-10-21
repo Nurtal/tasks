@@ -654,3 +654,7 @@ new [description:"contact Inigo for setup meeting" due:"1760652000" end:"1760628
 time 1760714946
 new [description:"buy server biocluster" due:"1763161200" entry:"1760714946" modified:"1760714946" project:"BAI" status:"pending" uuid:"382deec7-d98a-4829-aca1-771f3e0d19e5"]
 ---
+time 1761028726
+old [description:"demonstrateur viaduc auto select patient" due:"1760997600" entry:"1758541667" modified:"1758541667" priority:"H" project:"VIADUC" status:"pending" uuid:"0922c3f9-cffe-4cce-a9e5-adc401e95c38"]
+new [description:"demonstrateur viaduc auto select patient" due:"1760997600" end:"1761028726" entry:"1758541667" modified:"1761028726" priority:"H" project:"VIADUC" status:"completed" uuid:"0922c3f9-cffe-4cce-a9e5-adc401e95c38"]
+---

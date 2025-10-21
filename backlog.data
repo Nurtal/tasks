@@ -184,3 +184,4 @@
 {"description":"find time and treatment data for GEO","entry":"20251016T152047Z","modified":"20251016T152047Z","project":"PICVERT","status":"pending","uuid":"29b24dce-a305-4da1-9772-61984bcf6fde"}
 {"description":"contact Inigo for setup meeting","due":"20251016T220000Z","end":"20251016T152101Z","entry":"20251014T103750Z","modified":"20251016T152101Z","project":"INIGO_PHD","status":"completed","uuid":"d02bc8a4-fdf4-4a3a-b68c-e1af47424ace"}
 {"description":"buy server biocluster","due":"20251114T230000Z","entry":"20251017T152906Z","modified":"20251017T152906Z","project":"BAI","status":"pending","uuid":"382deec7-d98a-4829-aca1-771f3e0d19e5"}
+{"description":"demonstrateur viaduc auto select patient","due":"20251020T220000Z","end":"20251021T063846Z","entry":"20250922T114747Z","modified":"20251021T063846Z","priority":"H","project":"VIADUC","status":"completed","uuid":"0922c3f9-cffe-4cce-a9e5-adc401e95c38"}

@@ -10,7 +10,6 @@
 [description:"create a splashcreen" entry:"1758366121" modified:"1758366121" project:"FUN" status:"pending" uuid:"674f14fb-d8ef-406f-84f0-7a9b86485951"]
 [description:"dl scrna data in rust" entry:"1758410734" modified:"1758410734" project:"RUSTYCELL" status:"pending" uuid:"fff9169b-8d48-4379-9e08-5f13a5fe98fd"]
 [description:"roadmap ChipAn" entry:"1758451707" modified:"1758451707" project:"FOXTECH" status:"pending" uuid:"a28df006-ce2b-4492-9507-ada158133b4e"]
-[description:"demonstrateur viaduc auto select patient" due:"1760997600" entry:"1758541667" modified:"1758541667" priority:"H" project:"VIADUC" status:"pending" uuid:"0922c3f9-cffe-4cce-a9e5-adc401e95c38"]
 [description:"apply column name change" entry:"1758542674" modified:"1758542674" project:"DIAPSS" status:"pending" uuid:"fa7f919d-e47b-462a-852d-64f7c4c0ae33"]
 [description:"create cohort asset" entry:"1758542686" modified:"1758542686" project:"DIAPSS" status:"pending" uuid:"b55a9c86-8bf2-4d2f-8ae3-b37b5428df25"]
 [description:"create README de FoxTech" entry:"1758549393" modified:"1758549393" project:"FOXTECH" status:"pending" uuid:"78dcec77-b890-4a57-82e3-2688254bbeb2"]

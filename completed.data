@@ -1,3 +1,4 @@
+[description:"demonstrateur viaduc auto select patient" due:"1760997600" end:"1761028726" entry:"1758541667" modified:"1761028726" priority:"H" project:"VIADUC" status:"completed" uuid:"0922c3f9-cffe-4cce-a9e5-adc401e95c38"]
 [description:"contact Inigo for setup meeting" due:"1760652000" end:"1760628061" entry:"1760438270" modified:"1760628061" project:"INIGO_PHD" status:"completed" uuid:"d02bc8a4-fdf4-4a3a-b68c-e1af47424ace"]
 [description:"generate semi supervised umap" due:"1760652000" end:"1760627380" entry:"1760438181" modified:"1760627380" project:"PICVERT" status:"completed" uuid:"481bc14c-687a-4763-b1ed-d820169784b2"]
 [description:"test FLOREN" due:"1759442400" end:"1760627364" entry:"1758545711" modified:"1760627364" project:"INIGO_PHD" status:"completed" uuid:"ed5ec4d1-33ad-4cc5-a1ed-898033b2c8d0"]
