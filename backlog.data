@@ -190,3 +190,5 @@
 {"description":"connect viaduc to GRIST","entry":"20251021T092918Z","modified":"20251021T092918Z","project":"VIADUC","status":"pending","uuid":"0f5dda08-5c04-4acd-b3ad-0a62660ae5be"}
 {"description":"asset viaduc dans dagster","due":"20251130T230000Z","entry":"20251021T092903Z","modified":"20251021T092943Z","project":"VIADUC","status":"pending","uuid":"88de409f-7d5d-4110-aa40-5e2ab6f8971b"}
 {"description":"connect viaduc to GRIST","due":"20251130T230000Z","entry":"20251021T092918Z","modified":"20251021T092949Z","project":"VIADUC","status":"pending","uuid":"0f5dda08-5c04-4acd-b3ad-0a62660ae5be"}
+{"description":"find benchmark spatial trancriptomique","due":"20251030T230000Z","end":"20251021T123334Z","entry":"20250917T133850Z","modified":"20251021T123334Z","project":"FREQ","status":"completed","uuid":"48a5dd3f-c3d4-4a23-9322-ca893f8d974f"}
+{"description":"fourrier transform","due":"20251024T220000Z","entry":"20251021T123422Z","modified":"20251021T123422Z","project":"FREQ","status":"pending","uuid":"e78cda22-87e4-4b5d-a632-63d568e62599"}

@@ -4,7 +4,6 @@
 [description:"renvoyer doc urgence Maelle" entry:"1758098886" modified:"1758098886" project:"PDS-485" status:"pending" uuid:"fd6906e2-1507-45a0-9275-5eec59df7317"]
 [description:"write paper" entry:"1758111354" modified:"1758111354" project:"FREQ" status:"pending" uuid:"3bfd687d-3451-49d8-b4b6-bddfd7087a6f"]
 [description:"find benchmark single cell rnaseq" entry:"1758116258" modified:"1758116258" project:"FREQ" status:"pending" uuid:"74924540-3b21-4b0a-8b33-0e8228a40da7"]
-[description:"find benchmark spatial trancriptomique" due:"1761865200" entry:"1758116330" modified:"1759224283" project:"FREQ" status:"pending" uuid:"48a5dd3f-c3d4-4a23-9322-ca893f8d974f"]
 [description:"init repo scaterring vision" entry:"1758349451" modified:"1758349451" project:"FOXTECH" status:"pending" uuid:"409e070e-8762-4087-8b05-152d7f5712bd"]
 [description:"init project berger game in godot" entry:"1758349545" modified:"1758349545" project:"BERGER" status:"pending" uuid:"81c3664b-14d1-4298-8a10-857f3d2ae904"]
 [description:"create a splashcreen" entry:"1758366121" modified:"1758366121" project:"FUN" status:"pending" uuid:"674f14fb-d8ef-406f-84f0-7a9b86485951"]
@@ -33,3 +32,4 @@
 [description:"buy server biocluster" due:"1763161200" entry:"1760714946" modified:"1760714946" project:"BAI" status:"pending" uuid:"382deec7-d98a-4829-aca1-771f3e0d19e5"]
 [description:"asset viaduc dans dagster" due:"1764543600" entry:"1761038943" modified:"1761038983" project:"VIADUC" status:"pending" uuid:"88de409f-7d5d-4110-aa40-5e2ab6f8971b"]
 [description:"connect viaduc to GRIST" due:"1764543600" entry:"1761038958" modified:"1761038989" project:"VIADUC" status:"pending" uuid:"0f5dda08-5c04-4acd-b3ad-0a62660ae5be"]
+[description:"fourrier transform" due:"1761343200" entry:"1761050062" modified:"1761050062" project:"FREQ" status:"pending" uuid:"e78cda22-87e4-4b5d-a632-63d568e62599"]

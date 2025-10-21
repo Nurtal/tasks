@@ -676,3 +676,10 @@ time 1761038989
 old [description:"connect viaduc to GRIST" entry:"1761038958" modified:"1761038958" project:"VIADUC" status:"pending" uuid:"0f5dda08-5c04-4acd-b3ad-0a62660ae5be"]
 new [description:"connect viaduc to GRIST" due:"1764543600" entry:"1761038958" modified:"1761038989" project:"VIADUC" status:"pending" uuid:"0f5dda08-5c04-4acd-b3ad-0a62660ae5be"]
 ---
+time 1761050014
+old [description:"find benchmark spatial trancriptomique" due:"1761865200" entry:"1758116330" modified:"1759224283" project:"FREQ" status:"pending" uuid:"48a5dd3f-c3d4-4a23-9322-ca893f8d974f"]
+new [description:"find benchmark spatial trancriptomique" due:"1761865200" end:"1761050014" entry:"1758116330" modified:"1761050014" project:"FREQ" status:"completed" uuid:"48a5dd3f-c3d4-4a23-9322-ca893f8d974f"]
+---
+time 1761050062
+new [description:"fourrier transform" due:"1761343200" entry:"1761050062" modified:"1761050062" project:"FREQ" status:"pending" uuid:"e78cda22-87e4-4b5d-a632-63d568e62599"]
+---
