@@ -193,3 +193,4 @@
 {"description":"find benchmark spatial trancriptomique","due":"20251030T230000Z","end":"20251021T123334Z","entry":"20250917T133850Z","modified":"20251021T123334Z","project":"FREQ","status":"completed","uuid":"48a5dd3f-c3d4-4a23-9322-ca893f8d974f"}
 {"description":"fourrier transform","due":"20251024T220000Z","entry":"20251021T123422Z","modified":"20251021T123422Z","project":"FREQ","status":"pending","uuid":"e78cda22-87e4-4b5d-a632-63d568e62599"}
 {"description":"demonstrateur ARS-AMI IA","due":"20251114T230000Z","entry":"20250930T092328Z","modified":"20251023T082253Z","project":"ARS-AMI","status":"pending","uuid":"4ec5ed2a-fee5-48bc-b663-15ead4340653","depends":["3c7eb883-d717-4db9-8375-ae918d4e486c"]}
+{"description":"QC module","due":"20251120T230000Z","entry":"20251023T165209Z","modified":"20251023T165209Z","project":"FoxPeak","status":"pending","uuid":"53f64dac-3b55-4abc-b255-43419f6fd964"}
