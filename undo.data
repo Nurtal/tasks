@@ -690,3 +690,10 @@ new [dep_3c7eb883-d717-4db9-8375-ae918d4e486c:"x" depends:"3c7eb883-d717-4db9-83
 time 1761238329
 new [description:"QC module" due:"1763679600" entry:"1761238329" modified:"1761238329" project:"FoxPeak" status:"pending" uuid:"53f64dac-3b55-4abc-b255-43419f6fd964"]
 ---
+time 1761309806
+old [description:"fourrier transform" due:"1761343200" entry:"1761050062" modified:"1761050062" project:"FREQ" status:"pending" uuid:"e78cda22-87e4-4b5d-a632-63d568e62599"]
+new [description:"fourrier transform" due:"1761343200" end:"1761309806" entry:"1761050062" modified:"1761309806" project:"FREQ" status:"completed" uuid:"e78cda22-87e4-4b5d-a632-63d568e62599"]
+---
+time 1761309872
+new [description:"compute power spectral density" due:"1761865200" entry:"1761309872" modified:"1761309872" project:"FREQ" status:"pending" uuid:"c2b09dcb-7e04-4707-8853-cac4e96d2a5f"]
+---
