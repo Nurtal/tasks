@@ -697,3 +697,32 @@ new [description:"fourrier transform" due:"1761343200" end:"1761309806" entry:"1
 time 1761309872
 new [description:"compute power spectral density" due:"1761865200" entry:"1761309872" modified:"1761309872" project:"FREQ" status:"pending" uuid:"c2b09dcb-7e04-4707-8853-cac4e96d2a5f"]
 ---
+time 1762089746
+old [description:"buy server biocluster" due:"1763161200" entry:"1760714946" modified:"1760714946" project:"BAI" status:"pending" uuid:"382deec7-d98a-4829-aca1-771f3e0d19e5"]
+new [description:"buy server biocluster" due:"1762470000" entry:"1760714946" modified:"1762089746" project:"BAI" status:"pending" uuid:"382deec7-d98a-4829-aca1-771f3e0d19e5"]
+---
+time 1762089771
+old [description:"QC module" due:"1763679600" entry:"1761238329" modified:"1761238329" project:"FoxPeak" status:"pending" uuid:"53f64dac-3b55-4abc-b255-43419f6fd964"]
+new [description:"QC module" due:"1762470000" entry:"1761238329" modified:"1762089771" project:"FoxPeak" status:"pending" uuid:"53f64dac-3b55-4abc-b255-43419f6fd964"]
+---
+time 1762089861
+new [description:"trimming module" due:"1763074800" entry:"1762089861" modified:"1762089861" project:"FoxPeak" status:"pending" uuid:"9f576372-50d8-4fb8-b342-d888dd35ef17"]
+---
+time 1762089894
+new [description:"alignment module" due:"1763679600" entry:"1762089894" modified:"1762089894" project:"FoxPeak" status:"pending" uuid:"aa252643-1e6c-434a-87cc-8e5e8482548a"]
+---
+time 1762089928
+new [description:"Filtrage et déduplication" due:"1764284400" entry:"1762089928" modified:"1762089928" project:"FoxPeak" status:"pending" uuid:"fefe0844-d491-42ec-880a-9b9c71844bff"]
+---
+time 1762089977
+new [description:"Peak Calling" due:"1764889200" entry:"1762089977" modified:"1762089977" project:"FoxPeak" status:"pending" uuid:"57d783ae-d621-4d82-bb8a-58daaeca11d9"]
+---
+time 1762090002
+new [description:"Annotation" due:"1765494000" entry:"1762090002" modified:"1762090002" project:"FoxPeak" status:"pending" uuid:"b9c673dc-89b5-4723-b0e7-f1a7ed2e6eb7"]
+---
+time 1762090049
+new [description:"Visualisation" due:"1766098800" entry:"1762090049" modified:"1762090049" project:"FoxPeak" status:"pending" uuid:"2e361d39-4642-47e1-b4c1-03b0d7066348"]
+---
+time 1762090071
+new [description:"DownStream analysis" due:"1766703600" entry:"1762090071" modified:"1762090071" project:"FoxPeak" status:"pending" uuid:"7c0fb59b-3346-4561-a253-df0650d48106"]
+---

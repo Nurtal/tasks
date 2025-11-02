@@ -196,3 +196,12 @@
 {"description":"QC module","due":"20251120T230000Z","entry":"20251023T165209Z","modified":"20251023T165209Z","project":"FoxPeak","status":"pending","uuid":"53f64dac-3b55-4abc-b255-43419f6fd964"}
 {"description":"fourrier transform","due":"20251024T220000Z","end":"20251024T124326Z","entry":"20251021T123422Z","modified":"20251024T124326Z","project":"FREQ","status":"completed","uuid":"e78cda22-87e4-4b5d-a632-63d568e62599"}
 {"description":"compute power spectral density","due":"20251030T230000Z","entry":"20251024T124432Z","modified":"20251024T124432Z","project":"FREQ","status":"pending","uuid":"c2b09dcb-7e04-4707-8853-cac4e96d2a5f"}
+{"description":"buy server biocluster","due":"20251106T230000Z","entry":"20251017T152906Z","modified":"20251102T132226Z","project":"BAI","status":"pending","uuid":"382deec7-d98a-4829-aca1-771f3e0d19e5"}
+{"description":"QC module","due":"20251106T230000Z","entry":"20251023T165209Z","modified":"20251102T132251Z","project":"FoxPeak","status":"pending","uuid":"53f64dac-3b55-4abc-b255-43419f6fd964"}
+{"description":"trimming module","due":"20251113T230000Z","entry":"20251102T132421Z","modified":"20251102T132421Z","project":"FoxPeak","status":"pending","uuid":"9f576372-50d8-4fb8-b342-d888dd35ef17"}
+{"description":"alignment module","due":"20251120T230000Z","entry":"20251102T132454Z","modified":"20251102T132454Z","project":"FoxPeak","status":"pending","uuid":"aa252643-1e6c-434a-87cc-8e5e8482548a"}
+{"description":"Filtrage et déduplication","due":"20251127T230000Z","entry":"20251102T132528Z","modified":"20251102T132528Z","project":"FoxPeak","status":"pending","uuid":"fefe0844-d491-42ec-880a-9b9c71844bff"}
+{"description":"Peak Calling","due":"20251204T230000Z","entry":"20251102T132617Z","modified":"20251102T132617Z","project":"FoxPeak","status":"pending","uuid":"57d783ae-d621-4d82-bb8a-58daaeca11d9"}
+{"description":"Annotation","due":"20251211T230000Z","entry":"20251102T132642Z","modified":"20251102T132642Z","project":"FoxPeak","status":"pending","uuid":"b9c673dc-89b5-4723-b0e7-f1a7ed2e6eb7"}
+{"description":"Visualisation","due":"20251218T230000Z","entry":"20251102T132729Z","modified":"20251102T132729Z","project":"FoxPeak","status":"pending","uuid":"2e361d39-4642-47e1-b4c1-03b0d7066348"}
+{"description":"DownStream analysis","due":"20251225T230000Z","entry":"20251102T132751Z","modified":"20251102T132751Z","project":"FoxPeak","status":"pending","uuid":"7c0fb59b-3346-4561-a253-df0650d48106"}
