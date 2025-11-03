@@ -205,3 +205,11 @@
 {"description":"Annotation","due":"20251211T230000Z","entry":"20251102T132642Z","modified":"20251102T132642Z","project":"FoxPeak","status":"pending","uuid":"b9c673dc-89b5-4723-b0e7-f1a7ed2e6eb7"}
 {"description":"Visualisation","due":"20251218T230000Z","entry":"20251102T132729Z","modified":"20251102T132729Z","project":"FoxPeak","status":"pending","uuid":"2e361d39-4642-47e1-b4c1-03b0d7066348"}
 {"description":"DownStream analysis","due":"20251225T230000Z","entry":"20251102T132751Z","modified":"20251102T132751Z","project":"FoxPeak","status":"pending","uuid":"7c0fb59b-3346-4561-a253-df0650d48106"}
+{"description":"remboursement 3TR","due":"20251016T220000Z","end":"20251103T143830Z","entry":"20251016T062340Z","modified":"20251103T143830Z","project":"DwarfCoin","status":"completed","uuid":"2cbe0e28-b669-4a61-8936-1f3d18701665"}
+{"description":"deposer dossier","due":"20251214T230000Z","entry":"20251103T144223Z","modified":"20251103T144223Z","priority":"H","project":"CNU","status":"pending","uuid":"24b9b996-0b90-47c7-8f2a-1e76bbc5514c"}
+{"description":"CV académique","due":"20251106T230000Z","entry":"20251103T145520Z","modified":"20251103T145520Z","project":"CNU","status":"pending","uuid":"8afe9401-af9e-4259-a2b3-cf290bc29259"}
+{"description":"production scientifique","due":"20251113T230000Z","entry":"20251103T145554Z","modified":"20251103T145554Z","project":"CNU","status":"pending","uuid":"fdaa42f4-5c38-462a-8096-4037b6c7a141"}
+{"description":"provide copie rapport de soutenance","due":"20251113T230000Z","entry":"20251103T145615Z","modified":"20251103T145615Z","project":"CNU","status":"pending","uuid":"2ee10bb7-8d0b-4f3e-a1d7-d1f199876a9b"}
+{"description":"provide liste exhaustive production scientifique","due":"20251120T230000Z","entry":"20251103T145831Z","modified":"20251103T145831Z","project":"CNU","status":"pending","uuid":"36295b43-ed8a-4957-8abf-e4550ca35c69"}
+{"description":"finalize piece depots","due":"20251127T230000Z","entry":"20251103T145858Z","modified":"20251103T145858Z","project":"CNU","status":"pending","uuid":"03a371d9-65f7-4c2d-b816-daf8826d9cf8"}
+{"description":"plane ticket","due":"20251106T230000Z","entry":"20251103T161443Z","modified":"20251103T161443Z","project":"DC","status":"pending","uuid":"3cb7b261-77cc-43ba-9c53-9d15cf33600b"}
