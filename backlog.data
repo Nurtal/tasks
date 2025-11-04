@@ -213,3 +213,4 @@
 {"description":"provide liste exhaustive production scientifique","due":"20251120T230000Z","entry":"20251103T145831Z","modified":"20251103T145831Z","project":"CNU","status":"pending","uuid":"36295b43-ed8a-4957-8abf-e4550ca35c69"}
 {"description":"finalize piece depots","due":"20251127T230000Z","entry":"20251103T145858Z","modified":"20251103T145858Z","project":"CNU","status":"pending","uuid":"03a371d9-65f7-4c2d-b816-daf8826d9cf8"}
 {"description":"plane ticket","due":"20251106T230000Z","entry":"20251103T161443Z","modified":"20251103T161443Z","project":"DC","status":"pending","uuid":"3cb7b261-77cc-43ba-9c53-9d15cf33600b"}
+{"description":"plane ticket","due":"20251106T230000Z","end":"20251104T131308Z","entry":"20251103T161443Z","modified":"20251104T131308Z","project":"DC","status":"completed","uuid":"3cb7b261-77cc-43ba-9c53-9d15cf33600b"}

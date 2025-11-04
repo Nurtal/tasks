@@ -751,3 +751,7 @@ new [description:"finalize piece depots" due:"1764284400" entry:"1762181938" mod
 time 1762186483
 new [description:"plane ticket" due:"1762470000" entry:"1762186483" modified:"1762186483" project:"DC" status:"pending" uuid:"3cb7b261-77cc-43ba-9c53-9d15cf33600b"]
 ---
+time 1762261988
+old [description:"plane ticket" due:"1762470000" entry:"1762186483" modified:"1762186483" project:"DC" status:"pending" uuid:"3cb7b261-77cc-43ba-9c53-9d15cf33600b"]
+new [description:"plane ticket" due:"1762470000" end:"1762261988" entry:"1762186483" modified:"1762261988" project:"DC" status:"completed" uuid:"3cb7b261-77cc-43ba-9c53-9d15cf33600b"]
+---
