@@ -763,3 +763,14 @@ time 1762351273
 old [description:"trimming module" due:"1763074800" entry:"1762089861" modified:"1762089861" project:"FoxPeak" status:"pending" uuid:"9f576372-50d8-4fb8-b342-d888dd35ef17"]
 new [description:"trimming module" due:"1763074800" entry:"1762089861" modified:"1762351273" project:"FoxPeak" start:"1762351273" status:"pending" uuid:"9f576372-50d8-4fb8-b342-d888dd35ef17"]
 ---
+time 1762354119
+new [description:"benchmark" due:"1763420400" entry:"1762354119" modified:"1762354119" project:"FREQ" status:"pending" uuid:"2486ae9a-00d8-494e-8ac9-739d064f6904"]
+---
+time 1762354132
+old [description:"compute power spectral density" due:"1761865200" entry:"1761309872" modified:"1761309872" project:"FREQ" status:"pending" uuid:"c2b09dcb-7e04-4707-8853-cac4e96d2a5f"]
+new [description:"compute power spectral density" due:"1761865200" entry:"1761309872" modified:"1762354132" project:"FREQ" start:"1762354132" status:"pending" uuid:"c2b09dcb-7e04-4707-8853-cac4e96d2a5f"]
+---
+time 1762354146
+old [description:"CV académique" due:"1762470000" entry:"1762181720" modified:"1762181720" project:"CNU" status:"pending" uuid:"8afe9401-af9e-4259-a2b3-cf290bc29259"]
+new [description:"CV académique" due:"1762470000" entry:"1762181720" modified:"1762354146" project:"CNU" start:"1762354146" status:"pending" uuid:"8afe9401-af9e-4259-a2b3-cf290bc29259"]
+---

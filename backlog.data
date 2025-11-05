@@ -216,3 +216,6 @@
 {"description":"plane ticket","due":"20251106T230000Z","end":"20251104T131308Z","entry":"20251103T161443Z","modified":"20251104T131308Z","project":"DC","status":"completed","uuid":"3cb7b261-77cc-43ba-9c53-9d15cf33600b"}
 {"description":"QC module","due":"20251106T230000Z","end":"20251105T140103Z","entry":"20251023T165209Z","modified":"20251105T140103Z","project":"FoxPeak","status":"completed","uuid":"53f64dac-3b55-4abc-b255-43419f6fd964"}
 {"description":"trimming module","due":"20251113T230000Z","entry":"20251102T132421Z","modified":"20251105T140113Z","project":"FoxPeak","start":"20251105T140113Z","status":"pending","uuid":"9f576372-50d8-4fb8-b342-d888dd35ef17"}
+{"description":"benchmark","due":"20251117T230000Z","entry":"20251105T144839Z","modified":"20251105T144839Z","project":"FREQ","status":"pending","uuid":"2486ae9a-00d8-494e-8ac9-739d064f6904"}
+{"description":"compute power spectral density","due":"20251030T230000Z","entry":"20251024T124432Z","modified":"20251105T144852Z","project":"FREQ","start":"20251105T144852Z","status":"pending","uuid":"c2b09dcb-7e04-4707-8853-cac4e96d2a5f"}
+{"description":"CV académique","due":"20251106T230000Z","entry":"20251103T145520Z","modified":"20251105T144906Z","project":"CNU","start":"20251105T144906Z","status":"pending","uuid":"8afe9401-af9e-4259-a2b3-cf290bc29259"}
