@@ -214,3 +214,5 @@
 {"description":"finalize piece depots","due":"20251127T230000Z","entry":"20251103T145858Z","modified":"20251103T145858Z","project":"CNU","status":"pending","uuid":"03a371d9-65f7-4c2d-b816-daf8826d9cf8"}
 {"description":"plane ticket","due":"20251106T230000Z","entry":"20251103T161443Z","modified":"20251103T161443Z","project":"DC","status":"pending","uuid":"3cb7b261-77cc-43ba-9c53-9d15cf33600b"}
 {"description":"plane ticket","due":"20251106T230000Z","end":"20251104T131308Z","entry":"20251103T161443Z","modified":"20251104T131308Z","project":"DC","status":"completed","uuid":"3cb7b261-77cc-43ba-9c53-9d15cf33600b"}
+{"description":"QC module","due":"20251106T230000Z","end":"20251105T140103Z","entry":"20251023T165209Z","modified":"20251105T140103Z","project":"FoxPeak","status":"completed","uuid":"53f64dac-3b55-4abc-b255-43419f6fd964"}
+{"description":"trimming module","due":"20251113T230000Z","entry":"20251102T132421Z","modified":"20251105T140113Z","project":"FoxPeak","start":"20251105T140113Z","status":"pending","uuid":"9f576372-50d8-4fb8-b342-d888dd35ef17"}
