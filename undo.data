@@ -774,3 +774,7 @@ time 1762354146
 old [description:"CV académique" due:"1762470000" entry:"1762181720" modified:"1762181720" project:"CNU" status:"pending" uuid:"8afe9401-af9e-4259-a2b3-cf290bc29259"]
 new [description:"CV académique" due:"1762470000" entry:"1762181720" modified:"1762354146" project:"CNU" start:"1762354146" status:"pending" uuid:"8afe9401-af9e-4259-a2b3-cf290bc29259"]
 ---
+time 1762421922
+old [description:"compute power spectral density" due:"1761865200" entry:"1761309872" modified:"1762354132" project:"FREQ" start:"1762354132" status:"pending" uuid:"c2b09dcb-7e04-4707-8853-cac4e96d2a5f"]
+new [description:"compute power spectral density" due:"1761865200" end:"1762421922" entry:"1761309872" modified:"1762421922" project:"FREQ" status:"completed" uuid:"c2b09dcb-7e04-4707-8853-cac4e96d2a5f"]
+---

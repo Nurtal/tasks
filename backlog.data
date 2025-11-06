@@ -219,3 +219,4 @@
 {"description":"benchmark","due":"20251117T230000Z","entry":"20251105T144839Z","modified":"20251105T144839Z","project":"FREQ","status":"pending","uuid":"2486ae9a-00d8-494e-8ac9-739d064f6904"}
 {"description":"compute power spectral density","due":"20251030T230000Z","entry":"20251024T124432Z","modified":"20251105T144852Z","project":"FREQ","start":"20251105T144852Z","status":"pending","uuid":"c2b09dcb-7e04-4707-8853-cac4e96d2a5f"}
 {"description":"CV académique","due":"20251106T230000Z","entry":"20251103T145520Z","modified":"20251105T144906Z","project":"CNU","start":"20251105T144906Z","status":"pending","uuid":"8afe9401-af9e-4259-a2b3-cf290bc29259"}
+{"description":"compute power spectral density","due":"20251030T230000Z","end":"20251106T093842Z","entry":"20251024T124432Z","modified":"20251106T093842Z","project":"FREQ","status":"completed","uuid":"c2b09dcb-7e04-4707-8853-cac4e96d2a5f"}
