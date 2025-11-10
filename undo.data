@@ -778,3 +778,10 @@ time 1762421922
 old [description:"compute power spectral density" due:"1761865200" entry:"1761309872" modified:"1762354132" project:"FREQ" start:"1762354132" status:"pending" uuid:"c2b09dcb-7e04-4707-8853-cac4e96d2a5f"]
 new [description:"compute power spectral density" due:"1761865200" end:"1762421922" entry:"1761309872" modified:"1762421922" project:"FREQ" status:"completed" uuid:"c2b09dcb-7e04-4707-8853-cac4e96d2a5f"]
 ---
+time 1762790535
+new [description:"find contact for test candidature" due:"1763074800" entry:"1762790535" modified:"1762790535" project:"NEXT" status:"pending" uuid:"a2820313-d640-4a81-8ac2-dd09945d9772"]
+---
+time 1762790557
+old [description:"find contact for test candidature" due:"1763074800" entry:"1762790535" modified:"1762790535" project:"NEXT" status:"pending" uuid:"a2820313-d640-4a81-8ac2-dd09945d9772"]
+new [description:"find contact for test candidature" due:"1763074800" entry:"1762790535" modified:"1762790557" project:"NEXT" start:"1762790557" status:"pending" uuid:"a2820313-d640-4a81-8ac2-dd09945d9772"]
+---

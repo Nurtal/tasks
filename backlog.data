@@ -220,3 +220,5 @@
 {"description":"compute power spectral density","due":"20251030T230000Z","entry":"20251024T124432Z","modified":"20251105T144852Z","project":"FREQ","start":"20251105T144852Z","status":"pending","uuid":"c2b09dcb-7e04-4707-8853-cac4e96d2a5f"}
 {"description":"CV académique","due":"20251106T230000Z","entry":"20251103T145520Z","modified":"20251105T144906Z","project":"CNU","start":"20251105T144906Z","status":"pending","uuid":"8afe9401-af9e-4259-a2b3-cf290bc29259"}
 {"description":"compute power spectral density","due":"20251030T230000Z","end":"20251106T093842Z","entry":"20251024T124432Z","modified":"20251106T093842Z","project":"FREQ","status":"completed","uuid":"c2b09dcb-7e04-4707-8853-cac4e96d2a5f"}
+{"description":"find contact for test candidature","due":"20251113T230000Z","entry":"20251110T160215Z","modified":"20251110T160215Z","project":"NEXT","status":"pending","uuid":"a2820313-d640-4a81-8ac2-dd09945d9772"}
+{"description":"find contact for test candidature","due":"20251113T230000Z","entry":"20251110T160215Z","modified":"20251110T160237Z","project":"NEXT","start":"20251110T160237Z","status":"pending","uuid":"a2820313-d640-4a81-8ac2-dd09945d9772"}

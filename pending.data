@@ -45,3 +45,4 @@
 [description:"provide liste exhaustive production scientifique" due:"1763679600" entry:"1762181911" modified:"1762181911" project:"CNU" status:"pending" uuid:"36295b43-ed8a-4957-8abf-e4550ca35c69"]
 [description:"finalize piece depots" due:"1764284400" entry:"1762181938" modified:"1762181938" project:"CNU" status:"pending" uuid:"03a371d9-65f7-4c2d-b816-daf8826d9cf8"]
 [description:"benchmark" due:"1763420400" entry:"1762354119" modified:"1762354119" project:"FREQ" status:"pending" uuid:"2486ae9a-00d8-494e-8ac9-739d064f6904"]
+[description:"find contact for test candidature" due:"1763074800" entry:"1762790535" modified:"1762790557" project:"NEXT" start:"1762790557" status:"pending" uuid:"a2820313-d640-4a81-8ac2-dd09945d9772"]
