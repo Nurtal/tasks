@@ -788,3 +788,6 @@ new [description:"find contact for test candidature" due:"1763074800" entry:"176
 time 1762790693
 new [description:"check mobility CHU" due:"1763766000" entry:"1762790693" modified:"1762790693" project:"NEXT" status:"pending" uuid:"75b502c5-62dc-49d0-bb6e-21919a48db44"]
 ---
+time 1762790736
+new [description:"get list of AI project in BAI" due:"1763074800" entry:"1762790736" modified:"1762790736" project:"BAI" status:"pending" uuid:"12636b7d-e428-4f01-87a0-9fe52c46c12f"]
+---
