@@ -785,3 +785,6 @@ time 1762790557
 old [description:"find contact for test candidature" due:"1763074800" entry:"1762790535" modified:"1762790535" project:"NEXT" status:"pending" uuid:"a2820313-d640-4a81-8ac2-dd09945d9772"]
 new [description:"find contact for test candidature" due:"1763074800" entry:"1762790535" modified:"1762790557" project:"NEXT" start:"1762790557" status:"pending" uuid:"a2820313-d640-4a81-8ac2-dd09945d9772"]
 ---
+time 1762790693
+new [description:"check mobility CHU" due:"1763766000" entry:"1762790693" modified:"1762790693" project:"NEXT" status:"pending" uuid:"75b502c5-62dc-49d0-bb6e-21919a48db44"]
+---
