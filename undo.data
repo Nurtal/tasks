@@ -819,3 +819,7 @@ time 1762956865
 old [description:"find contact for test candidature" due:"1763074800" entry:"1762790535" modified:"1762790557" project:"NEXT" start:"1762790557" status:"pending" uuid:"a2820313-d640-4a81-8ac2-dd09945d9772"]
 new [description:"find contact for test candidature" due:"1763074800" end:"1762956865" entry:"1762790535" modified:"1762956865" project:"NEXT" status:"completed" uuid:"a2820313-d640-4a81-8ac2-dd09945d9772"]
 ---
+time 1762974549
+old [description:"buy pirate hoodie" entry:"1758694688" modified:"1758694688" project:"FUN" status:"pending" uuid:"14948514-ff6f-48fa-a8fe-f7a3e635b9ef"]
+new [description:"buy pirate hoodie" due:"1765753200" entry:"1758694688" modified:"1762974549" project:"FUN" status:"pending" uuid:"14948514-ff6f-48fa-a8fe-f7a3e635b9ef"]
+---

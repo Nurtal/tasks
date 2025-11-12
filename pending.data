@@ -15,7 +15,7 @@
 [description:"clone and run dyingstar repo" entry:"1758612996" modified:"1758612996" project:"DYINGSTAR" status:"pending" uuid:"91815375-3845-4beb-bedd-71770c6e20b1"]
 [description:"deb epidemio model" entry:"1758613017" modified:"1758613017" project:"DYINGSTAR" status:"pending" uuid:"b8c99087-3692-4d7f-84f7-757925263e3d"]
 [description:"print deco porte bureau" entry:"1758613071" modified:"1758613071" project:"FUN" status:"pending" uuid:"99879514-c415-4028-b554-e652bff72154"]
-[description:"buy pirate hoodie" entry:"1758694688" modified:"1758694688" project:"FUN" status:"pending" uuid:"14948514-ff6f-48fa-a8fe-f7a3e635b9ef"]
+[description:"buy pirate hoodie" due:"1765753200" entry:"1758694688" modified:"1762974549" project:"FUN" status:"pending" uuid:"14948514-ff6f-48fa-a8fe-f7a3e635b9ef"]
 [description:"create microentreprise" entry:"1758735738" modified:"1758735738" project:"FOXTECH" status:"pending" uuid:"e6284671-5128-4ff3-95ef-e07f4d73b6f9"]
 [description:"create website" entry:"1759157061" modified:"1759157061" project:"FOXTECH" status:"pending" uuid:"998a57bd-1e25-444a-a6e2-de209f5b644b"]
 [dep_3c7eb883-d717-4db9-8375-ae918d4e486c:"x" depends:"3c7eb883-d717-4db9-8375-ae918d4e486c" description:"demonstrateur ARS-AMI IA" due:"1763161200" entry:"1759224208" modified:"1761207773" project:"ARS-AMI" status:"pending" uuid:"4ec5ed2a-fee5-48bc-b663-15ead4340653"]
