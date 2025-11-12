@@ -791,3 +791,19 @@ new [description:"check mobility CHU" due:"1763766000" entry:"1762790693" modifi
 time 1762790736
 new [description:"get list of AI project in BAI" due:"1763074800" entry:"1762790736" modified:"1762790736" project:"BAI" status:"pending" uuid:"12636b7d-e428-4f01-87a0-9fe52c46c12f"]
 ---
+time 1762935935
+old [description:"CV académique" due:"1762470000" entry:"1762181720" modified:"1762354146" project:"CNU" start:"1762354146" status:"pending" uuid:"8afe9401-af9e-4259-a2b3-cf290bc29259"]
+new [description:"CV académique" due:"1762470000" end:"1762935935" entry:"1762181720" modified:"1762935935" project:"CNU" status:"completed" uuid:"8afe9401-af9e-4259-a2b3-cf290bc29259"]
+---
+time 1762935970
+old [description:"production scientifique" due:"1763074800" entry:"1762181754" modified:"1762181754" project:"CNU" status:"pending" uuid:"fdaa42f4-5c38-462a-8096-4037b6c7a141"]
+new [description:"production scientifique" due:"1763074800" entry:"1762181754" modified:"1762935970" project:"CNU" start:"1762935970" status:"pending" uuid:"fdaa42f4-5c38-462a-8096-4037b6c7a141"]
+---
+time 1762935985
+old [description:"get list of AI project in BAI" due:"1763074800" entry:"1762790736" modified:"1762790736" project:"BAI" status:"pending" uuid:"12636b7d-e428-4f01-87a0-9fe52c46c12f"]
+new [description:"get list of AI project in BAI" due:"1763074800" entry:"1762790736" modified:"1762935985" project:"BAI" start:"1762935985" status:"pending" uuid:"12636b7d-e428-4f01-87a0-9fe52c46c12f"]
+---
+time 1762935995
+old [description:"provide copie rapport de soutenance" due:"1763074800" entry:"1762181775" modified:"1762181775" project:"CNU" status:"pending" uuid:"2ee10bb7-8d0b-4f3e-a1d7-d1f199876a9b"]
+new [description:"provide copie rapport de soutenance" due:"1763074800" entry:"1762181775" modified:"1762935995" project:"CNU" start:"1762935995" status:"pending" uuid:"2ee10bb7-8d0b-4f3e-a1d7-d1f199876a9b"]
+---
