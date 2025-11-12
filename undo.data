@@ -807,3 +807,15 @@ time 1762935995
 old [description:"provide copie rapport de soutenance" due:"1763074800" entry:"1762181775" modified:"1762181775" project:"CNU" status:"pending" uuid:"2ee10bb7-8d0b-4f3e-a1d7-d1f199876a9b"]
 new [description:"provide copie rapport de soutenance" due:"1763074800" entry:"1762181775" modified:"1762935995" project:"CNU" start:"1762935995" status:"pending" uuid:"2ee10bb7-8d0b-4f3e-a1d7-d1f199876a9b"]
 ---
+time 1762956844
+old [description:"provide copie rapport de soutenance" due:"1763074800" entry:"1762181775" modified:"1762935995" project:"CNU" start:"1762935995" status:"pending" uuid:"2ee10bb7-8d0b-4f3e-a1d7-d1f199876a9b"]
+new [description:"provide copie rapport de soutenance" due:"1763074800" end:"1762956844" entry:"1762181775" modified:"1762956844" project:"CNU" status:"completed" uuid:"2ee10bb7-8d0b-4f3e-a1d7-d1f199876a9b"]
+---
+time 1762956854
+old [description:"production scientifique" due:"1763074800" entry:"1762181754" modified:"1762935970" project:"CNU" start:"1762935970" status:"pending" uuid:"fdaa42f4-5c38-462a-8096-4037b6c7a141"]
+new [description:"production scientifique" due:"1763074800" end:"1762956854" entry:"1762181754" modified:"1762956854" project:"CNU" status:"completed" uuid:"fdaa42f4-5c38-462a-8096-4037b6c7a141"]
+---
+time 1762956865
+old [description:"find contact for test candidature" due:"1763074800" entry:"1762790535" modified:"1762790557" project:"NEXT" start:"1762790557" status:"pending" uuid:"a2820313-d640-4a81-8ac2-dd09945d9772"]
+new [description:"find contact for test candidature" due:"1763074800" end:"1762956865" entry:"1762790535" modified:"1762956865" project:"NEXT" status:"completed" uuid:"a2820313-d640-4a81-8ac2-dd09945d9772"]
+---

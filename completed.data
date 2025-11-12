@@ -1,3 +1,6 @@
+[description:"find contact for test candidature" due:"1763074800" end:"1762956865" entry:"1762790535" modified:"1762956865" project:"NEXT" status:"completed" uuid:"a2820313-d640-4a81-8ac2-dd09945d9772"]
+[description:"production scientifique" due:"1763074800" end:"1762956854" entry:"1762181754" modified:"1762956854" project:"CNU" status:"completed" uuid:"fdaa42f4-5c38-462a-8096-4037b6c7a141"]
+[description:"provide copie rapport de soutenance" due:"1763074800" end:"1762956844" entry:"1762181775" modified:"1762956844" project:"CNU" status:"completed" uuid:"2ee10bb7-8d0b-4f3e-a1d7-d1f199876a9b"]
 [description:"CV académique" due:"1762470000" end:"1762935935" entry:"1762181720" modified:"1762935935" project:"CNU" status:"completed" uuid:"8afe9401-af9e-4259-a2b3-cf290bc29259"]
 [description:"compute power spectral density" due:"1761865200" end:"1762421922" entry:"1761309872" modified:"1762421922" project:"FREQ" status:"completed" uuid:"c2b09dcb-7e04-4707-8853-cac4e96d2a5f"]
 [description:"QC module" due:"1762470000" end:"1762351263" entry:"1761238329" modified:"1762351263" project:"FoxPeak" status:"completed" uuid:"53f64dac-3b55-4abc-b255-43419f6fd964"]
