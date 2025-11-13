@@ -823,3 +823,11 @@ time 1762974549
 old [description:"buy pirate hoodie" entry:"1758694688" modified:"1758694688" project:"FUN" status:"pending" uuid:"14948514-ff6f-48fa-a8fe-f7a3e635b9ef"]
 new [description:"buy pirate hoodie" due:"1765753200" entry:"1758694688" modified:"1762974549" project:"FUN" status:"pending" uuid:"14948514-ff6f-48fa-a8fe-f7a3e635b9ef"]
 ---
+time 1763049186
+old [description:"get list of AI project in BAI" due:"1763074800" entry:"1762790736" modified:"1762935985" project:"BAI" start:"1762935985" status:"pending" uuid:"12636b7d-e428-4f01-87a0-9fe52c46c12f"]
+new [description:"get list of AI project in BAI" due:"1763074800" end:"1763049186" entry:"1762790736" modified:"1763049186" project:"BAI" status:"completed" uuid:"12636b7d-e428-4f01-87a0-9fe52c46c12f"]
+---
+time 1763049203
+old [dep_3c7eb883-d717-4db9-8375-ae918d4e486c:"x" depends:"3c7eb883-d717-4db9-8375-ae918d4e486c" description:"demonstrateur ARS-AMI IA" due:"1763161200" entry:"1759224208" modified:"1761207773" project:"ARS-AMI" status:"pending" uuid:"4ec5ed2a-fee5-48bc-b663-15ead4340653"]
+new [dep_3c7eb883-d717-4db9-8375-ae918d4e486c:"x" depends:"3c7eb883-d717-4db9-8375-ae918d4e486c" description:"demonstrateur ARS-AMI IA" due:"1763161200" entry:"1759224208" modified:"1763049203" project:"ARS-AMI" start:"1763049203" status:"pending" uuid:"4ec5ed2a-fee5-48bc-b663-15ead4340653"]
+---

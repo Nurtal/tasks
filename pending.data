@@ -18,7 +18,7 @@
 [description:"buy pirate hoodie" due:"1765753200" entry:"1758694688" modified:"1762974549" project:"FUN" status:"pending" uuid:"14948514-ff6f-48fa-a8fe-f7a3e635b9ef"]
 [description:"create microentreprise" entry:"1758735738" modified:"1758735738" project:"FOXTECH" status:"pending" uuid:"e6284671-5128-4ff3-95ef-e07f4d73b6f9"]
 [description:"create website" entry:"1759157061" modified:"1759157061" project:"FOXTECH" status:"pending" uuid:"998a57bd-1e25-444a-a6e2-de209f5b644b"]
-[dep_3c7eb883-d717-4db9-8375-ae918d4e486c:"x" depends:"3c7eb883-d717-4db9-8375-ae918d4e486c" description:"demonstrateur ARS-AMI IA" due:"1763161200" entry:"1759224208" modified:"1761207773" project:"ARS-AMI" status:"pending" uuid:"4ec5ed2a-fee5-48bc-b663-15ead4340653"]
+[dep_3c7eb883-d717-4db9-8375-ae918d4e486c:"x" depends:"3c7eb883-d717-4db9-8375-ae918d4e486c" description:"demonstrateur ARS-AMI IA" due:"1763161200" entry:"1759224208" modified:"1763049203" project:"ARS-AMI" start:"1763049203" status:"pending" uuid:"4ec5ed2a-fee5-48bc-b663-15ead4340653"]
 [description:"send cv Nadege to cv bank cdc" entry:"1759234758" modified:"1759234758" status:"pending" uuid:"5133b56f-d516-49fe-9401-151248527947"]
 [description:"check prime mobilite durable FMD hospotal" entry:"1759236994" modified:"1759236994" project:"DwarfCoin" status:"pending" uuid:"b15b0643-bd7d-457d-86ef-287ac15a1b15"]
 [description:"create Linledin account of FoxTech" entry:"1759239564" modified:"1759239564" project:"FOXTECH" status:"pending" uuid:"cdaf4749-e161-40ba-b4e3-75538f4fab16"]
@@ -43,4 +43,3 @@
 [description:"finalize piece depots" due:"1764284400" entry:"1762181938" modified:"1762181938" project:"CNU" status:"pending" uuid:"03a371d9-65f7-4c2d-b816-daf8826d9cf8"]
 [description:"benchmark" due:"1763420400" entry:"1762354119" modified:"1762354119" project:"FREQ" status:"pending" uuid:"2486ae9a-00d8-494e-8ac9-739d064f6904"]
 [description:"check mobility CHU" due:"1763766000" entry:"1762790693" modified:"1762790693" project:"NEXT" status:"pending" uuid:"75b502c5-62dc-49d0-bb6e-21919a48db44"]
-[description:"get list of AI project in BAI" due:"1763074800" entry:"1762790736" modified:"1762935985" project:"BAI" start:"1762935985" status:"pending" uuid:"12636b7d-e428-4f01-87a0-9fe52c46c12f"]
