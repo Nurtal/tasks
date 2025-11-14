@@ -831,3 +831,13 @@ time 1763049203
 old [dep_3c7eb883-d717-4db9-8375-ae918d4e486c:"x" depends:"3c7eb883-d717-4db9-8375-ae918d4e486c" description:"demonstrateur ARS-AMI IA" due:"1763161200" entry:"1759224208" modified:"1761207773" project:"ARS-AMI" status:"pending" uuid:"4ec5ed2a-fee5-48bc-b663-15ead4340653"]
 new [dep_3c7eb883-d717-4db9-8375-ae918d4e486c:"x" depends:"3c7eb883-d717-4db9-8375-ae918d4e486c" description:"demonstrateur ARS-AMI IA" due:"1763161200" entry:"1759224208" modified:"1763049203" project:"ARS-AMI" start:"1763049203" status:"pending" uuid:"4ec5ed2a-fee5-48bc-b663-15ead4340653"]
 ---
+time 1763117485
+new [description:"submit to ICAART" due:"1763593200" entry:"1763117485" modified:"1763117485" project:"ICAART" status:"pending" uuid:"0e449361-599d-4074-8ccb-e47cfdde0373"]
+---
+time 1763136959
+new [description:"split vst into chaussabel module" entry:"1763136959" modified:"1763136959" project:"ENDOWAVE" status:"pending" uuid:"cd1d6a8c-b869-44cd-847d-211471148a5c"]
+---
+time 1763136985
+old [description:"split vst into chaussabel module" entry:"1763136959" modified:"1763136959" project:"ENDOWAVE" status:"pending" uuid:"cd1d6a8c-b869-44cd-847d-211471148a5c"]
+new [description:"split vst into chaussabel module" due:"1763420400" entry:"1763136959" modified:"1763136985" project:"ENDOWAVE" status:"pending" uuid:"cd1d6a8c-b869-44cd-847d-211471148a5c"]
+---

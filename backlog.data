@@ -234,3 +234,6 @@
 {"description":"buy pirate hoodie","due":"20251214T230000Z","entry":"20250924T061808Z","modified":"20251112T190909Z","project":"FUN","status":"pending","uuid":"14948514-ff6f-48fa-a8fe-f7a3e635b9ef"}
 {"description":"get list of AI project in BAI","due":"20251113T230000Z","end":"20251113T155306Z","entry":"20251110T160536Z","modified":"20251113T155306Z","project":"BAI","status":"completed","uuid":"12636b7d-e428-4f01-87a0-9fe52c46c12f"}
 {"description":"demonstrateur ARS-AMI IA","due":"20251114T230000Z","entry":"20250930T092328Z","modified":"20251113T155323Z","project":"ARS-AMI","start":"20251113T155323Z","status":"pending","uuid":"4ec5ed2a-fee5-48bc-b663-15ead4340653","depends":["3c7eb883-d717-4db9-8375-ae918d4e486c"]}
+{"description":"submit to ICAART","due":"20251119T230000Z","entry":"20251114T105125Z","modified":"20251114T105125Z","project":"ICAART","status":"pending","uuid":"0e449361-599d-4074-8ccb-e47cfdde0373"}
+{"description":"split vst into chaussabel module","entry":"20251114T161559Z","modified":"20251114T161559Z","project":"ENDOWAVE","status":"pending","uuid":"cd1d6a8c-b869-44cd-847d-211471148a5c"}
+{"description":"split vst into chaussabel module","due":"20251117T230000Z","entry":"20251114T161559Z","modified":"20251114T161625Z","project":"ENDOWAVE","status":"pending","uuid":"cd1d6a8c-b869-44cd-847d-211471148a5c"}
