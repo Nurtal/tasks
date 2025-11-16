@@ -863,3 +863,14 @@ time 1763311557
 old [description:"convert signal to PSD" entry:"1763311505" modified:"1763311505" project:"ENDOWAVE" status:"pending" uuid:"625ea9bb-ad7f-4367-bf7d-20e7c14654e1"]
 new [description:"convert signal to PSD" due:"1764284400" entry:"1763311505" modified:"1763311557" project:"ENDOWAVE" status:"pending" uuid:"625ea9bb-ad7f-4367-bf7d-20e7c14654e1"]
 ---
+time 1763311867
+new [description:"prepare contact mail" entry:"1763311867" modified:"1763311867" project:"NEXT" status:"pending" uuid:"0c615cc7-f644-41be-bda0-45f140749b09"]
+---
+time 1763311891
+old [description:"prepare contact mail" entry:"1763311867" modified:"1763311867" project:"NEXT" status:"pending" uuid:"0c615cc7-f644-41be-bda0-45f140749b09"]
+new [description:"prepare contact mail" due:"1763679600" entry:"1763311867" modified:"1763311891" project:"NEXT" status:"pending" uuid:"0c615cc7-f644-41be-bda0-45f140749b09"]
+---
+time 1763311922
+old [description:"benchmark" due:"1763420400" entry:"1762354119" modified:"1762354119" project:"FREQ" status:"pending" uuid:"2486ae9a-00d8-494e-8ac9-739d064f6904"]
+new [description:"benchmark" due:"1763420400" end:"1763311922" entry:"1762354119" modified:"1763311922" project:"FREQ" status:"completed" uuid:"2486ae9a-00d8-494e-8ac9-739d064f6904"]
+---
