@@ -841,3 +841,25 @@ time 1763136985
 old [description:"split vst into chaussabel module" entry:"1763136959" modified:"1763136959" project:"ENDOWAVE" status:"pending" uuid:"cd1d6a8c-b869-44cd-847d-211471148a5c"]
 new [description:"split vst into chaussabel module" due:"1763420400" entry:"1763136959" modified:"1763136985" project:"ENDOWAVE" status:"pending" uuid:"cd1d6a8c-b869-44cd-847d-211471148a5c"]
 ---
+time 1763311211
+old [description:"trimming module" due:"1763074800" entry:"1762089861" modified:"1762351273" project:"FoxPeak" start:"1762351273" status:"pending" uuid:"9f576372-50d8-4fb8-b342-d888dd35ef17"]
+new [description:"trimming module" due:"1763074800" end:"1763311211" entry:"1762089861" modified:"1763311211" project:"FoxPeak" status:"completed" uuid:"9f576372-50d8-4fb8-b342-d888dd35ef17"]
+---
+time 1763311287
+new [description:"turn module into signal" due:"1763679600" entry:"1763311287" modified:"1763311287" project:"ENDOWAVE" status:"pending" uuid:"c3e5a424-c386-485c-a5b7-04f5fbd94d70"]
+---
+time 1763311330
+old [description:"split vst into chaussabel module" due:"1763420400" entry:"1763136959" modified:"1763136985" project:"ENDOWAVE" status:"pending" uuid:"cd1d6a8c-b869-44cd-847d-211471148a5c"]
+new [description:"split vst into chaussabel module" due:"1763420400" end:"1763311330" entry:"1763136959" modified:"1763311330" project:"ENDOWAVE" status:"completed" uuid:"cd1d6a8c-b869-44cd-847d-211471148a5c"]
+---
+time 1763311428
+old [description:"buy server biocluster" due:"1762470000" entry:"1760714946" modified:"1762089746" project:"BAI" status:"pending" uuid:"382deec7-d98a-4829-aca1-771f3e0d19e5"]
+new [description:"buy server biocluster" due:"1762470000" entry:"1760714946" modified:"1763311428" project:"BAI" start:"1763311428" status:"pending" uuid:"382deec7-d98a-4829-aca1-771f3e0d19e5"]
+---
+time 1763311505
+new [description:"convert signal to PSD" entry:"1763311505" modified:"1763311505" project:"ENDOWAVE" status:"pending" uuid:"625ea9bb-ad7f-4367-bf7d-20e7c14654e1"]
+---
+time 1763311557
+old [description:"convert signal to PSD" entry:"1763311505" modified:"1763311505" project:"ENDOWAVE" status:"pending" uuid:"625ea9bb-ad7f-4367-bf7d-20e7c14654e1"]
+new [description:"convert signal to PSD" due:"1764284400" entry:"1763311505" modified:"1763311557" project:"ENDOWAVE" status:"pending" uuid:"625ea9bb-ad7f-4367-bf7d-20e7c14654e1"]
+---
