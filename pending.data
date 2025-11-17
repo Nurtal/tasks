@@ -46,3 +46,5 @@
 [description:"get prez orchidee" due:"1764284400" entry:"1763391796" modified:"1763391796" status:"pending" uuid:"4d618486-0764-4bed-a475-e6b5d335ae6d"]
 [description:"update and run diapss" due:"1764284400" entry:"1763395618" modified:"1763395618" project:"DiaPSS" status:"pending" uuid:"72dcfd1e-9735-4eaf-9132-9ecb17fdc87a"]
 [description:"rerun octopiz with data baptise" due:"1763420400" entry:"1763395644" modified:"1763395656" project:"OCTOPIZ" start:"1763395656" status:"pending" uuid:"65b1ff5f-93e9-409a-a5eb-788a201e0816"]
+[description:"send contact-test mail" due:"1764284400" entry:"1763395834" modified:"1763395834" project:"NEXT" status:"pending" uuid:"b3be806d-4528-4f2c-b7af-a26468784e8e"]
+[description:"get battlemap hangar" due:"1763420400" entry:"1763395908" modified:"1763395908" project:"STF" status:"pending" uuid:"8582618e-f677-44fb-abae-8ffa7e63d0fc"]

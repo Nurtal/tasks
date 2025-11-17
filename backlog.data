@@ -259,3 +259,5 @@
 {"description":"update and run diapss","due":"20251127T230000Z","entry":"20251117T160658Z","modified":"20251117T160658Z","project":"DiaPSS","status":"pending","uuid":"72dcfd1e-9735-4eaf-9132-9ecb17fdc87a"}
 {"description":"rerun octopiz with data baptise","due":"20251117T230000Z","entry":"20251117T160724Z","modified":"20251117T160724Z","project":"OCTOPIZ","status":"pending","uuid":"65b1ff5f-93e9-409a-a5eb-788a201e0816"}
 {"description":"rerun octopiz with data baptise","due":"20251117T230000Z","entry":"20251117T160724Z","modified":"20251117T160736Z","project":"OCTOPIZ","start":"20251117T160736Z","status":"pending","uuid":"65b1ff5f-93e9-409a-a5eb-788a201e0816"}
+{"description":"send contact-test mail","due":"20251127T230000Z","entry":"20251117T161034Z","modified":"20251117T161034Z","project":"NEXT","status":"pending","uuid":"b3be806d-4528-4f2c-b7af-a26468784e8e"}
+{"description":"get battlemap hangar","due":"20251117T230000Z","entry":"20251117T161148Z","modified":"20251117T161148Z","project":"STF","status":"pending","uuid":"8582618e-f677-44fb-abae-8ffa7e63d0fc"}
