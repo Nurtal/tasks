@@ -909,3 +909,6 @@ time 1763388589
 old [description:"check Gwendal candidature" entry:"1760438096" modified:"1760438096" project:"M2" status:"pending" uuid:"ae15569e-b5d8-4566-adc6-673aa942d7a7"]
 new [description:"check Gwendal candidature" end:"1763388589" entry:"1760438096" modified:"1763388589" project:"M2" status:"completed" uuid:"ae15569e-b5d8-4566-adc6-673aa942d7a7"]
 ---
+time 1763391796
+new [description:"get prez orchidee" due:"1764284400" entry:"1763391796" modified:"1763391796" status:"pending" uuid:"4d618486-0764-4bed-a475-e6b5d335ae6d"]
+---

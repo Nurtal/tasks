@@ -255,3 +255,4 @@
 {"description":"submit asbtract to congress","due":"20251127T230000Z","entry":"20251117T132946Z","modified":"20251117T132946Z","priority":"H","project":"ENDOWAVE","status":"pending","uuid":"53d5ce68-796c-49f0-96d1-905284b25358"}
 {"description":"write general M2 topic","end":"20251117T140939Z","entry":"20251014T103422Z","modified":"20251117T140939Z","project":"M2","status":"completed","uuid":"92552a55-de11-4b1e-903d-e23eb41d7c68"}
 {"description":"check Gwendal candidature","end":"20251117T140949Z","entry":"20251014T103456Z","modified":"20251117T140949Z","project":"M2","status":"completed","uuid":"ae15569e-b5d8-4566-adc6-673aa942d7a7"}
+{"description":"get prez orchidee","due":"20251127T230000Z","entry":"20251117T150316Z","modified":"20251117T150316Z","status":"pending","uuid":"4d618486-0764-4bed-a475-e6b5d335ae6d"}
