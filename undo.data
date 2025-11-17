@@ -894,3 +894,7 @@ time 1763363196
 old [description:"check mobility CHU" due:"1763766000" entry:"1762790693" modified:"1762790693" project:"NEXT" status:"pending" uuid:"75b502c5-62dc-49d0-bb6e-21919a48db44"]
 new [description:"check mobility CHU" due:"1763766000" entry:"1762790693" modified:"1763363196" project:"NEXT" start:"1763363196" status:"pending" uuid:"75b502c5-62dc-49d0-bb6e-21919a48db44"]
 ---
+time 1763384950
+old [dep_3c7eb883-d717-4db9-8375-ae918d4e486c:"x" depends:"3c7eb883-d717-4db9-8375-ae918d4e486c" description:"demonstrateur ARS-AMI IA" due:"1763161200" entry:"1759224208" modified:"1763049203" project:"ARS-AMI" start:"1763049203" status:"pending" uuid:"4ec5ed2a-fee5-48bc-b663-15ead4340653"]
+new [dep_3c7eb883-d717-4db9-8375-ae918d4e486c:"x" depends:"3c7eb883-d717-4db9-8375-ae918d4e486c" description:"demonstrateur ARS-AMI IA" due:"1763161200" end:"1763384950" entry:"1759224208" modified:"1763384950" project:"ARS-AMI" status:"completed" uuid:"4ec5ed2a-fee5-48bc-b663-15ead4340653"]
+---
