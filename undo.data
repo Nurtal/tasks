@@ -898,3 +898,14 @@ time 1763384950
 old [dep_3c7eb883-d717-4db9-8375-ae918d4e486c:"x" depends:"3c7eb883-d717-4db9-8375-ae918d4e486c" description:"demonstrateur ARS-AMI IA" due:"1763161200" entry:"1759224208" modified:"1763049203" project:"ARS-AMI" start:"1763049203" status:"pending" uuid:"4ec5ed2a-fee5-48bc-b663-15ead4340653"]
 new [dep_3c7eb883-d717-4db9-8375-ae918d4e486c:"x" depends:"3c7eb883-d717-4db9-8375-ae918d4e486c" description:"demonstrateur ARS-AMI IA" due:"1763161200" end:"1763384950" entry:"1759224208" modified:"1763384950" project:"ARS-AMI" status:"completed" uuid:"4ec5ed2a-fee5-48bc-b663-15ead4340653"]
 ---
+time 1763386186
+new [description:"submit asbtract to congress" due:"1764284400" entry:"1763386186" modified:"1763386186" priority:"H" project:"ENDOWAVE" status:"pending" uuid:"53d5ce68-796c-49f0-96d1-905284b25358"]
+---
+time 1763388579
+old [description:"write general M2 topic" entry:"1760438062" modified:"1760438062" project:"M2" status:"pending" uuid:"92552a55-de11-4b1e-903d-e23eb41d7c68"]
+new [description:"write general M2 topic" end:"1763388579" entry:"1760438062" modified:"1763388579" project:"M2" status:"completed" uuid:"92552a55-de11-4b1e-903d-e23eb41d7c68"]
+---
+time 1763388589
+old [description:"check Gwendal candidature" entry:"1760438096" modified:"1760438096" project:"M2" status:"pending" uuid:"ae15569e-b5d8-4566-adc6-673aa942d7a7"]
+new [description:"check Gwendal candidature" end:"1763388589" entry:"1760438096" modified:"1763388589" project:"M2" status:"completed" uuid:"ae15569e-b5d8-4566-adc6-673aa942d7a7"]
+---

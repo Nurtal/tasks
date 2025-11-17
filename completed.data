@@ -1,3 +1,5 @@
+[description:"check Gwendal candidature" end:"1763388589" entry:"1760438096" modified:"1763388589" project:"M2" status:"completed" uuid:"ae15569e-b5d8-4566-adc6-673aa942d7a7"]
+[description:"write general M2 topic" end:"1763388579" entry:"1760438062" modified:"1763388579" project:"M2" status:"completed" uuid:"92552a55-de11-4b1e-903d-e23eb41d7c68"]
 [dep_3c7eb883-d717-4db9-8375-ae918d4e486c:"x" depends:"3c7eb883-d717-4db9-8375-ae918d4e486c" description:"demonstrateur ARS-AMI IA" due:"1763161200" end:"1763384950" entry:"1759224208" modified:"1763384950" project:"ARS-AMI" status:"completed" uuid:"4ec5ed2a-fee5-48bc-b663-15ead4340653"]
 [description:"benchmark" due:"1763420400" end:"1763311922" entry:"1762354119" modified:"1763311922" project:"FREQ" status:"completed" uuid:"2486ae9a-00d8-494e-8ac9-739d064f6904"]
 [description:"split vst into chaussabel module" due:"1763420400" end:"1763311330" entry:"1763136959" modified:"1763311330" project:"ENDOWAVE" status:"completed" uuid:"cd1d6a8c-b869-44cd-847d-211471148a5c"]
