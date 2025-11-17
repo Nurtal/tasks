@@ -256,3 +256,6 @@
 {"description":"write general M2 topic","end":"20251117T140939Z","entry":"20251014T103422Z","modified":"20251117T140939Z","project":"M2","status":"completed","uuid":"92552a55-de11-4b1e-903d-e23eb41d7c68"}
 {"description":"check Gwendal candidature","end":"20251117T140949Z","entry":"20251014T103456Z","modified":"20251117T140949Z","project":"M2","status":"completed","uuid":"ae15569e-b5d8-4566-adc6-673aa942d7a7"}
 {"description":"get prez orchidee","due":"20251127T230000Z","entry":"20251117T150316Z","modified":"20251117T150316Z","status":"pending","uuid":"4d618486-0764-4bed-a475-e6b5d335ae6d"}
+{"description":"update and run diapss","due":"20251127T230000Z","entry":"20251117T160658Z","modified":"20251117T160658Z","project":"DiaPSS","status":"pending","uuid":"72dcfd1e-9735-4eaf-9132-9ecb17fdc87a"}
+{"description":"rerun octopiz with data baptise","due":"20251117T230000Z","entry":"20251117T160724Z","modified":"20251117T160724Z","project":"OCTOPIZ","status":"pending","uuid":"65b1ff5f-93e9-409a-a5eb-788a201e0816"}
+{"description":"rerun octopiz with data baptise","due":"20251117T230000Z","entry":"20251117T160724Z","modified":"20251117T160736Z","project":"OCTOPIZ","start":"20251117T160736Z","status":"pending","uuid":"65b1ff5f-93e9-409a-a5eb-788a201e0816"}
