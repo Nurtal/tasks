@@ -874,3 +874,23 @@ time 1763311922
 old [description:"benchmark" due:"1763420400" entry:"1762354119" modified:"1762354119" project:"FREQ" status:"pending" uuid:"2486ae9a-00d8-494e-8ac9-739d064f6904"]
 new [description:"benchmark" due:"1763420400" end:"1763311922" entry:"1762354119" modified:"1763311922" project:"FREQ" status:"completed" uuid:"2486ae9a-00d8-494e-8ac9-739d064f6904"]
 ---
+time 1763363149
+old [description:"provide liste exhaustive production scientifique" due:"1763679600" entry:"1762181911" modified:"1762181911" project:"CNU" status:"pending" uuid:"36295b43-ed8a-4957-8abf-e4550ca35c69"]
+new [description:"provide liste exhaustive production scientifique" due:"1763679600" entry:"1762181911" modified:"1763363149" project:"CNU" start:"1763363149" status:"pending" uuid:"36295b43-ed8a-4957-8abf-e4550ca35c69"]
+---
+time 1763363164
+old [description:"alignment module" due:"1763679600" entry:"1762089894" modified:"1762089894" project:"FoxPeak" status:"pending" uuid:"aa252643-1e6c-434a-87cc-8e5e8482548a"]
+new [description:"alignment module" due:"1763679600" entry:"1762089894" modified:"1763363164" project:"FoxPeak" start:"1763363164" status:"pending" uuid:"aa252643-1e6c-434a-87cc-8e5e8482548a"]
+---
+time 1763363172
+old [description:"prepare contact mail" due:"1763679600" entry:"1763311867" modified:"1763311891" project:"NEXT" status:"pending" uuid:"0c615cc7-f644-41be-bda0-45f140749b09"]
+new [description:"prepare contact mail" due:"1763679600" entry:"1763311867" modified:"1763363172" project:"NEXT" start:"1763363172" status:"pending" uuid:"0c615cc7-f644-41be-bda0-45f140749b09"]
+---
+time 1763363183
+old [description:"turn module into signal" due:"1763679600" entry:"1763311287" modified:"1763311287" project:"ENDOWAVE" status:"pending" uuid:"c3e5a424-c386-485c-a5b7-04f5fbd94d70"]
+new [description:"turn module into signal" due:"1763679600" entry:"1763311287" modified:"1763363183" project:"ENDOWAVE" start:"1763363183" status:"pending" uuid:"c3e5a424-c386-485c-a5b7-04f5fbd94d70"]
+---
+time 1763363196
+old [description:"check mobility CHU" due:"1763766000" entry:"1762790693" modified:"1762790693" project:"NEXT" status:"pending" uuid:"75b502c5-62dc-49d0-bb6e-21919a48db44"]
+new [description:"check mobility CHU" due:"1763766000" entry:"1762790693" modified:"1763363196" project:"NEXT" start:"1763363196" status:"pending" uuid:"75b502c5-62dc-49d0-bb6e-21919a48db44"]
+---
