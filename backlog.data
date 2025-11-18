@@ -265,3 +265,4 @@
 {"description":"run hyperparmaeters dspy","end":"20251118T132353Z","entry":"20250916T115845Z","modified":"20251118T132353Z","project":"ARS-AMI","status":"completed","uuid":"08fa1c8b-6ab5-40b3-8394-cce0c55fc4ad"}
 {"description":"add champs","due":"20251123T230000Z","entry":"20251118T132427Z","modified":"20251118T132427Z","project":"PHARMASCAN","status":"pending","uuid":"83ac124d-cbd8-4107-a09d-ff86bc7a7a8e"}
 {"description":"connect filters","due":"20251127T230000Z","entry":"20251118T132448Z","modified":"20251118T132448Z","project":"PHARMASCAN","status":"pending","uuid":"4dca6732-1c8a-4aed-8297-dec387e483bc"}
+{"description":"turn module into signal","due":"20251120T230000Z","end":"20251118T153421Z","entry":"20251116T164127Z","modified":"20251118T153421Z","project":"ENDOWAVE","status":"completed","uuid":"c3e5a424-c386-485c-a5b7-04f5fbd94d70"}

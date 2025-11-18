@@ -942,3 +942,7 @@ new [description:"add champs" due:"1763938800" entry:"1763472267" modified:"1763
 time 1763472288
 new [description:"connect filters" due:"1764284400" entry:"1763472288" modified:"1763472288" project:"PHARMASCAN" status:"pending" uuid:"4dca6732-1c8a-4aed-8297-dec387e483bc"]
 ---
+time 1763480061
+old [description:"turn module into signal" due:"1763679600" entry:"1763311287" modified:"1763363183" project:"ENDOWAVE" start:"1763363183" status:"pending" uuid:"c3e5a424-c386-485c-a5b7-04f5fbd94d70"]
+new [description:"turn module into signal" due:"1763679600" end:"1763480061" entry:"1763311287" modified:"1763480061" project:"ENDOWAVE" status:"completed" uuid:"c3e5a424-c386-485c-a5b7-04f5fbd94d70"]
+---
