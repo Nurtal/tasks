@@ -1,3 +1,5 @@
+[description:"run hyperparmaeters dspy" end:"1763472233" entry:"1758023925" modified:"1763472233" project:"ARS-AMI" status:"completed" uuid:"08fa1c8b-6ab5-40b3-8394-cce0c55fc4ad"]
+[description:"prepare contact mail" due:"1763679600" end:"1763397971" entry:"1763311867" modified:"1763397971" project:"NEXT" status:"completed" uuid:"0c615cc7-f644-41be-bda0-45f140749b09"]
 [description:"check Gwendal candidature" end:"1763388589" entry:"1760438096" modified:"1763388589" project:"M2" status:"completed" uuid:"ae15569e-b5d8-4566-adc6-673aa942d7a7"]
 [description:"write general M2 topic" end:"1763388579" entry:"1760438062" modified:"1763388579" project:"M2" status:"completed" uuid:"92552a55-de11-4b1e-903d-e23eb41d7c68"]
 [dep_3c7eb883-d717-4db9-8375-ae918d4e486c:"x" depends:"3c7eb883-d717-4db9-8375-ae918d4e486c" description:"demonstrateur ARS-AMI IA" due:"1763161200" end:"1763384950" entry:"1759224208" modified:"1763384950" project:"ARS-AMI" status:"completed" uuid:"4ec5ed2a-fee5-48bc-b663-15ead4340653"]
