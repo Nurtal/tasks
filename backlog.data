@@ -272,3 +272,5 @@
 {"description":"get prez orchidee","due":"20251127T230000Z","end":"20251127T090640Z","entry":"20251117T150316Z","modified":"20251127T090640Z","status":"completed","uuid":"4d618486-0764-4bed-a475-e6b5d335ae6d"}
 {"description":"update and run diapss","due":"20251127T230000Z","end":"20251127T090655Z","entry":"20251117T160658Z","modified":"20251127T090655Z","project":"DiaPSS","status":"completed","uuid":"72dcfd1e-9735-4eaf-9132-9ecb17fdc87a"}
 {"description":"convert signal to PSD","due":"20251127T230000Z","end":"20251127T090718Z","entry":"20251116T164505Z","modified":"20251127T090718Z","project":"ENDOWAVE","status":"completed","uuid":"625ea9bb-ad7f-4367-bf7d-20e7c14654e1"}
+{"description":"add champs","due":"20251123T230000Z","entry":"20251118T132427Z","modified":"20251127T091104Z","project":"PHARMASCAN","start":"20251127T091104Z","status":"pending","uuid":"83ac124d-cbd8-4107-a09d-ff86bc7a7a8e"}
+{"description":"send contact-test mail","due":"20251127T230000Z","entry":"20251117T161034Z","modified":"20251127T091131Z","project":"NEXT","start":"20251127T091131Z","status":"pending","uuid":"b3be806d-4528-4f2c-b7af-a26468784e8e"}
