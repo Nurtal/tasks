@@ -1,3 +1,8 @@
+[description:"convert signal to PSD" due:"1764284400" end:"1764234438" entry:"1763311505" modified:"1764234438" project:"ENDOWAVE" status:"completed" uuid:"625ea9bb-ad7f-4367-bf7d-20e7c14654e1"]
+[description:"update and run diapss" due:"1764284400" end:"1764234415" entry:"1763395618" modified:"1764234415" project:"DiaPSS" status:"completed" uuid:"72dcfd1e-9735-4eaf-9132-9ecb17fdc87a"]
+[description:"get prez orchidee" due:"1764284400" end:"1764234400" entry:"1763391796" modified:"1764234400" status:"completed" uuid:"4d618486-0764-4bed-a475-e6b5d335ae6d"]
+[description:"submit to ICAART" due:"1763593200" end:"1764234370" entry:"1763117485" modified:"1764234370" project:"ICAART" status:"completed" uuid:"0e449361-599d-4074-8ccb-e47cfdde0373"]
+[description:"get battlemap hangar" due:"1763420400" end:"1764234358" entry:"1763395908" modified:"1764234358" project:"STF" status:"completed" uuid:"8582618e-f677-44fb-abae-8ffa7e63d0fc"]
 [description:"turn module into signal" due:"1763679600" end:"1763480061" entry:"1763311287" modified:"1763480061" project:"ENDOWAVE" status:"completed" uuid:"c3e5a424-c386-485c-a5b7-04f5fbd94d70"]
 [description:"run hyperparmaeters dspy" end:"1763472233" entry:"1758023925" modified:"1763472233" project:"ARS-AMI" status:"completed" uuid:"08fa1c8b-6ab5-40b3-8394-cce0c55fc4ad"]
 [description:"prepare contact mail" due:"1763679600" end:"1763397971" entry:"1763311867" modified:"1763397971" project:"NEXT" status:"completed" uuid:"0c615cc7-f644-41be-bda0-45f140749b09"]
