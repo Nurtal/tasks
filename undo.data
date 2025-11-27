@@ -978,3 +978,7 @@ time 1764234691
 old [description:"send contact-test mail" due:"1764284400" entry:"1763395834" modified:"1763395834" project:"NEXT" status:"pending" uuid:"b3be806d-4528-4f2c-b7af-a26468784e8e"]
 new [description:"send contact-test mail" due:"1764284400" entry:"1763395834" modified:"1764234691" project:"NEXT" start:"1764234691" status:"pending" uuid:"b3be806d-4528-4f2c-b7af-a26468784e8e"]
 ---
+time 1764254895
+old [description:"send contact-test mail" due:"1764284400" entry:"1763395834" modified:"1764234691" project:"NEXT" start:"1764234691" status:"pending" uuid:"b3be806d-4528-4f2c-b7af-a26468784e8e"]
+new [description:"send contact-test mail" due:"1764284400" end:"1764254895" entry:"1763395834" modified:"1764254895" project:"NEXT" status:"completed" uuid:"b3be806d-4528-4f2c-b7af-a26468784e8e"]
+---

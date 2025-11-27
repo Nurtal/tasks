@@ -1,3 +1,4 @@
+[description:"send contact-test mail" due:"1764284400" end:"1764254895" entry:"1763395834" modified:"1764254895" project:"NEXT" status:"completed" uuid:"b3be806d-4528-4f2c-b7af-a26468784e8e"]
 [description:"convert signal to PSD" due:"1764284400" end:"1764234438" entry:"1763311505" modified:"1764234438" project:"ENDOWAVE" status:"completed" uuid:"625ea9bb-ad7f-4367-bf7d-20e7c14654e1"]
 [description:"update and run diapss" due:"1764284400" end:"1764234415" entry:"1763395618" modified:"1764234415" project:"DiaPSS" status:"completed" uuid:"72dcfd1e-9735-4eaf-9132-9ecb17fdc87a"]
 [description:"get prez orchidee" due:"1764284400" end:"1764234400" entry:"1763391796" modified:"1764234400" status:"completed" uuid:"4d618486-0764-4bed-a475-e6b5d335ae6d"]
