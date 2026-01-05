@@ -1,3 +1,6 @@
+[description:"deposer dossier" due:"1765753200" end:"1767605559" entry:"1762180943" modified:"1767605559" priority:"H" project:"CNU" status:"completed" uuid:"24b9b996-0b90-47c7-8f2a-1e76bbc5514c"]
+[description:"finalize piece depots" due:"1764284400" end:"1767605548" entry:"1762181938" modified:"1767605548" project:"CNU" status:"completed" uuid:"03a371d9-65f7-4c2d-b816-daf8826d9cf8"]
+[description:"provide liste exhaustive production scientifique" due:"1763679600" end:"1767605540" entry:"1762181911" modified:"1767605540" project:"CNU" status:"completed" uuid:"36295b43-ed8a-4957-8abf-e4550ca35c69"]
 [description:"send contact-test mail" due:"1764284400" end:"1764254895" entry:"1763395834" modified:"1764254895" project:"NEXT" status:"completed" uuid:"b3be806d-4528-4f2c-b7af-a26468784e8e"]
 [description:"convert signal to PSD" due:"1764284400" end:"1764234438" entry:"1763311505" modified:"1764234438" project:"ENDOWAVE" status:"completed" uuid:"625ea9bb-ad7f-4367-bf7d-20e7c14654e1"]
 [description:"update and run diapss" due:"1764284400" end:"1764234415" entry:"1763395618" modified:"1764234415" project:"DiaPSS" status:"completed" uuid:"72dcfd1e-9735-4eaf-9132-9ecb17fdc87a"]
